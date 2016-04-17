@@ -1,4 +1,0 @@
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ANTV" tvg-logo="http://www.lyngsat-logo.com/hires/aa/antv.png"group-title="Indonesian",Indonesian:ANTV
-http://edge.nim.mivo.tv/antvl044hsa2o36t/antv2_all/playlist.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="tvOne" tvg-logo="https://raw.githubusercontent.com/atoz-chevara/iptv-playlist/master/tv/m3u/logo/tvone.png" group-title="Indonesian",Indonesian:tvOne
-rtmp://202.129.216.27/tvone/tvone1
