@@ -1,8 +1,8 @@
 #EXTM3U $ExtFilter=""
 #EXTINF:-1 $ExtFilter="USA" tvg-name="FOX S" tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_sports_global.png" group-title="",FOX S
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_1728_av-b.m3u8
-#EXTINF:-1 $ExtFilter="" tvg-name="FOX" tvg-logo="FOX" group-title="Indonesian",ty
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/512.m3u8
+#EXTINF:-1 $ExtFilter="" tvg-name="N24" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/n24/logo/n24_ov__W660xh0.jpg" group-title="",N24 JERMAN
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI HD" tvg-logo="RCTI" group-title="Indonesian",Indonesian:RCTI HD
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="GlobalTV" tvg-logo="GlobalTV" group-title="Indonesian",Indonesian:GlobalTV
