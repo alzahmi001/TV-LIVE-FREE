@@ -1,5 +1,5 @@
-#EXTM3U $ExtFilter="Indonesian"
-#EXTINF:-1 $ExtFilter="USA" tvg-name="FOX S" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/dd/20160220233658!Fox_Sports_Logo.png" group-title="Indonesian",Indonesian:RCTI
+#EXTM3U $ExtFilter=""
+#EXTINF:-1 $ExtFilter="USA" tvg-name="FOX S" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_global.png" group-title="",Indonesian:FOX S
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_1728_av-b.m3u8
 #EXTINF:-1 $ExtFilter="" tvg-name="FOX" tvg-logo="FOX" group-title="Indonesian",Indonesian:FOX SPORT
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/512.m3u8
