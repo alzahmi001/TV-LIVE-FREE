@@ -1,6 +1,6 @@
 #EXTM3U $ExtFilter="Indonesian"
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI" tvg-logo="http://cable.useetv.com/assets/imagecache/channelThumb/rcti-content-splash-79-.png" group-title="Indonesian",Indonesian:RCTI
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
+#EXTINF:-1 $ExtFilter="USA" tvg-name="FOX S" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/dd/20160220233658!Fox_Sports_Logo.png" group-title="Indonesian",Indonesian:RCTI
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_1728_av-b.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI SD" tvg-logo="RCTI" group-title="Indonesian",Indonesian:RCTI SD
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/512.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI HD" tvg-logo="RCTI" group-title="Indonesian",Indonesian:RCTI HD
