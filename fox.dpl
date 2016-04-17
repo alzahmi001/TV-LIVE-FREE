@@ -1,0 +1,44 @@
+﻿DAUMPLAYLIST
+playname=http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
+topindex=0
+1*file*http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
+1*played*0
+2*file*http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_1728_av-b.m3u8
+2*title*FOX SPORTS
+2*played*0
+3*file*http://tvhosa-pez0102.oft.ondemand.prd.sctv.ch/hls/GKAEFEAAHLAPABHF.m3u8
+3*title*SIXX HD
+3*played*0
+4*file*http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+4*title*FIGHT
+4*played*0
+5*file*http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
+5*title*RCTI
+5*played*0
+6*file*http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index.m3u8
+6*title*GLOBAL
+6*played*0
+7*file*http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index.m3u8
+7*title*MUSIC
+7*played*0
+8*file*http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+8*title*NIAGA
+8*played*0
+9*file*http://www.kitatv.com:1935/live/mp4:myStream/playlist.m3u8
+9*title*KITA TV
+9*played*0
+10*file*http://118.97.183.222:1935/discover/kbs/chunklist.m3u8
+10*title*KBS
+10*played*0
+11*file*http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+11*title*METRO
+11*played*0
+12*file*http://173.192.105.200/sedz1j6exe/elshintatv_all/sedz1j6exe/elshintatv_288p/chunks.m3u8
+12*played*0
+13*file*rtmp://193.110.252.20/live//dobbittv.stream
+13*played*0
+14*file*http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M700.m3u8
+14*title*BLOMBERG
+14*played*0
+15*file*rtmp://198.255.17.18:443/live
+15*played*0
