@@ -13,12 +13,12 @@ http://en356.edem.tv/iptv/N65MFRE5RNF6KB/144/index.m3u8
 http://en356.edem.tv/iptv/N65MFRE5RNF6KB/550/index.m3u8
 #EXTINF:-1 $ExtFilter="Rusia" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Indonesian",Nat Geo Wild
 http://en356.edem.tv/iptv/N65MFRE5RNF6KB/133/index.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews SD" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews SD
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/512.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="iNews HD" tvg-logo="iNews" group-title="Indonesian",Indonesian:iNews HD
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCTV" tvg-logo="MNCTV" group-title="Indonesian",Indonesian:MNCTV
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8
+#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="UKM TV" tvg-logo="iNews" group-title="Indonesian",UKM TV
+rtmp://rumahukm.tv/oediv/broadcast//ukmtv
+#EXTINF:-1 $ExtFilter="Arab" tvg-name="Baghdadya" tvg-logo="" group-title="Arab",Baghdadya
+rtmp://B1.Streaming.linkdatacenter.net/Baghdadya2//Baghdadya2Stream
+#EXTINF:-1 $ExtFilter="Arab" tvg-name="Mekam" tvg-logo="" group-title="Arab",MEKAM
+http://mn-l.mncdn.com/r_mekameleen/smil:mekameleen_web.smil/jwplayer.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCNEWS" tvg-logo="MNCNEWS" group-title="Indonesian",Indonesian:MNCNEWS
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MNCMUSIC" tvg-logo="MNCMUSIC" group-title="Indonesian",Indonesian:MNCMUSIC
