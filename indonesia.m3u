@@ -1,7 +1,7 @@
 #EXTM3U $ExtFilter=""
-#EXTINF:-1 $ExtFilter="USA" tvg-name="FOX S" tvg-logo="https://raw.githubusercontent.com/alzahmi001/TV-LIVE-FREE/master/Logo/fox_sports_global.png" group-title="USA",1. FOX S
+#EXTINF:-1 $ExtFilter="USA" tvg-name="FOX S" tvg-logo="" group-title="USA",1. FOX S
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_1728_av-b.m3u8
-#EXTINF:-1 $ExtFilter="" tvg-name="N24" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/n24/logo/n24_ov__W660xh0.jpg" group-title="JERMAN",N24
+#EXTINF:-1 $ExtFilter="" tvg-name="N24" tvg-logo="" group-title="JERMAN",N24
 http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="RCTI HD" tvg-logo="RCTI" group-title="Indonesian",RCTI HD
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
@@ -43,12 +43,23 @@ rtmp://203.153.97.35/live/livestream
 http://livestreaming-a.production.liputan6.static6.com/i/sctv_1@137568/index_1_av-p.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Indosiar" tvg-logo="logo/indosiar.png" group-title="Indonesian",Indonesian:Indosiar
 http://livestreaming-a.production.liputan6.static6.com/i/indosiar_1@137568/index_1_av-p.m3u8
-#EXTINF:-1 $ExtFilter="Indonesian" tvg-name="MetroTV" tvg-logo="logo/metrotv.png" group-title="Indonesian",Indonesian:MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="France 24" tvg-logo="F24" group-title="Indonesian",Indonesian:France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="Arirang" tvg-logo="Arirang" group-title="Indonesian",Indonesian:Arirang HD
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 #EXTINF:-1 $ExtFilter="Indonesian" tvg-name="ABC News" tvg-logo="abc" group-title="Indonesian",Indonesian:ABC News HD
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
+#EXTINF:-1 $ExtFilter="" tvg-name="Trans 7" tvg-logo="" group-title="Indonesia",Trans 7
+http://edge.nim.mivo.tv/wh76pzref44u53o6/trans72_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE2IDI6MTU6MTEgUE0maGFzaF92YWx1ZT1ObFROOHh2aXBSQk9SOHlMVHpUQmR3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE4MV8xMTVfODNfNDZfMjNfMTI3Xzg0fHY0LXdlYnw0LzIxLzIwMTYgMjoxNSBQTXwxODguMTY2LjE0Ny40NA==
+#EXTINF:-1 $ExtFilter="" tvg-name="Trans tv" tvg-logo="" group-title="Indonesia",Trans tv
+http://edge.nim.mivo.tv/wh76pzref44u53o6/transtv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE2IDI6MTU6MTEgUE0maGFzaF92YWx1ZT1ObFROOHh2aXBSQk9SOHlMVHpUQmR3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE4MV8xMTVfODNfNDZfMjNfMTI3Xzg0fHY0LXdlYnw0LzIxLzIwMTYgMjoxNSBQTXwxODguMTY2LjE0Ny40NA==
+#EXTINF:-1 $ExtFilter="" tvg-name="Metro tv" tvg-logo="" group-title="Indonesia",Metro tv
+http://edge.nim.mivo.tv/wh76pzref44u53o6/metrotv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE2IDI6MTU6MTEgUE0maGFzaF92YWx1ZT1ObFROOHh2aXBSQk9SOHlMVHpUQmR3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE4MV8xMTVfODNfNDZfMjNfMTI3Xzg0fHY0LXdlYnw0LzIxLzIwMTYgMjoxNSBQTXwxODguMTY2LjE0Ny40NA==
+#EXTINF:-1 $ExtFilter="" tvg-name="ANTV" tvg-logo="" group-title="Indonesia",ANTV 
+http://edge.nim.mivo.tv/wh76pzref44u53o6/antv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE2IDI6MTU6MTEgUE0maGFzaF92YWx1ZT1ObFROOHh2aXBSQk9SOHlMVHpUQmR3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE4MV8xMTVfODNfNDZfMjNfMTI3Xzg0fHY0LXdlYnw0LzIxLzIwMTYgMjoxNSBQTXwxODguMTY2LjE0Ny40NA==
+#EXTINF:-1 $ExtFilter="" tvg-name="Kompas tv" tvg-logo="" group-title="Kompas tv",
+http://edge.nim.mivo.tv/wh76pzref44u53o6/kompastv_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE2IDI6MTU6MTEgUE0maGFzaF92YWx1ZT1ObFROOHh2aXBSQk9SOHlMVHpUQmR3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE4MV8xMTVfODNfNDZfMjNfMTI3Xzg0fHY0LXdlYnw0LzIxLzIwMTYgMjoxNSBQTXwxODguMTY2LjE0Ny40NA==
+#EXTINF:-1 $ExtFilter="" tvg-name="Indosiar" tvg-logo="" group-title="Indonesia",Indosiar
+http://edge.nim.mivo.tv/wh76pzref44u53o6/indosiar2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE2IDI6MTU6MTEgUE0maGFzaF92YWx1ZT1ObFROOHh2aXBSQk9SOHlMVHpUQmR3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE4MV8xMTVfODNfNDZfMjNfMTI3Xzg0fHY0LXdlYnw0LzIxLzIwMTYgMjoxNSBQTXwxODguMTY2LjE0Ny40NA==
+#EXTINF:-1 $ExtFilter="" tvg-name="RTV" tvg-logo="" group-title="Indonesia",RTV
+http://edge.nim.mivo.tv/wh76pzref44u53o6/rajawalitv.stream_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE2IDI6MTU6MTEgUE0maGFzaF92YWx1ZT1ObFROOHh2aXBSQk9SOHlMVHpUQmR3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE4MV8xMTVfODNfNDZfMjNfMTI3Xzg0fHY0LXdlYnw0LzIxLzIwMTYgMjoxNSBQTXwxODguMTY2LjE0Ny40NA==
