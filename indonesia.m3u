@@ -1,4 +1,51 @@
 #EXTM3U
+#EXTINF:-1,LRT Kultura
+
+http://193.8.246.110:8081
+
+#EXTINF:-1,Siauliu TV
+
+http://193.8.246.110:8082
+
+#EXTINF:-1,SPORT1 LT
+
+http://193.8.246.110:8083
+
+#EXTINF:-1,INFO TV LT
+
+http://193.8.246.110:8084
+
+#EXTINF:-1,Pingviniukas
+
+http://193.8.246.110:8085
+
+#EXTINF:-1,Liuks!
+
+http://193.8.246.110:8086
+
+#EXTINF:-1,Disney XD
+
+http://193.8.246.110:8087
+
+#EXTINF:-1,TV6 Lithuania
+
+http://193.8.246.110:8088
+
+#EXTINF:-1,www.iptvsat.com
+
+http://193.8.246.110:8089
+
+#EXTINF:-1,R1
+
+http://193.8.246.110:8090
+
+#EXTINF:-1,LTV1
+
+http://193.8.246.110:8091
+
+#EXTINF:-1,LTV7
+
+http://193.8.246.110:8092
 #EXTINF:-1,MBC1
 http://arabic1.mickypizza1.com:80/live/jalil/jalil/363.m3u8
 #EXTINF:-1,MBC1 TS
