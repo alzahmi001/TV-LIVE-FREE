@@ -52,7 +52,7 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1 $ExtFilter="" tvg-name="Trans 7" tvg-logo="" group-title="Indonesia",Trans 7
 http://edge.nim.mivo.tv/wh76pzref44u53o6/trans72_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE2IDI6MTU6MTEgUE0maGFzaF92YWx1ZT1ObFROOHh2aXBSQk9SOHlMVHpUQmR3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE4MV8xMTVfODNfNDZfMjNfMTI3Xzg0fHY0LXdlYnw0LzIxLzIwMTYgMjoxNSBQTXwxODguMTY2LjE0Ny40NA==
 #EXTINF:-1 $ExtFilter="" tvg-name="Trans tv" tvg-logo="" group-title="Indonesia",Trans tv
-http://edge.nim.mivo.tv/wh76pzref44u53o6/transtv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE2IDI6MTU6MTEgUE0maGFzaF92YWx1ZT1ObFROOHh2aXBSQk9SOHlMVHpUQmR3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE4MV8xMTVfODNfNDZfMjNfMTI3Xzg0fHY0LXdlYnw0LzIxLzIwMTYgMjoxNSBQTXwxODguMTY2LjE0Ny40NA==
+https://raw.githubusercontent.com/alzahmi001/TV-LIVE-FREE/master/Transtv.m3u8
 #EXTINF:-1 $ExtFilter="" tvg-name="Metro tv" tvg-logo="" group-title="Indonesia",Metro tv
 http://edge.nim.mivo.tv/wh76pzref44u53o6/metrotv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE2IDI6MTU6MTEgUE0maGFzaF92YWx1ZT1ObFROOHh2aXBSQk9SOHlMVHpUQmR3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD1FVjE4MV8xMTVfODNfNDZfMjNfMTI3Xzg0fHY0LXdlYnw0LzIxLzIwMTYgMjoxNSBQTXwxODguMTY2LjE0Ny40NA==
 #EXTINF:-1 $ExtFilter="" tvg-name="ANTV" tvg-logo="" group-title="Indonesia",ANTV 
