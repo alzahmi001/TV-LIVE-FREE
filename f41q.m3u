@@ -19,3 +19,27 @@ http://114.112.91.199:9009/live/chid=608
 http://114.112.91.199:9009/live/chid=609
 #EXTINF:-1,Channel 10
 http://114.112.91.199:9009/live/chid=6010
+#EXTINF:0,Bein Sport HD1
+http://149.202.198.114:8000/play/beins1hd
+#EXTINF:0,Bein Sport HD2
+http://149.202.198.114:8000/play/beins2hd
+#EXTINF:0,Bein Sport HD3
+http://149.202.198.114:8000/play/beinshd3
+#EXTINF:0,Bein Sport HD4
+http://149.202.198.114:8000/play/beinshd4
+#EXTINF:0,Bein Sport HD5
+http://149.202.198.114:8000/play/beinshd5
+#EXTINF:0,Bein Sport HD6
+http://149.202.198.114:8000/play/beinshd6
+#EXTINF:0,Bein Sport HD7
+http://149.202.198.114:8000/play/beinshd7
+#EXTINF:0,Bein Sport HD8
+http://149.202.198.114:8000/play/beinshd8
+#EXTINF:0,Bein Sport HD9
+http://149.202.198.114:8000/play/beinshd9
+#EXTINF:0,Bein Sport HD10
+http://149.202.198.114:8000/play/beinshd10
+#EXTINF:0,Bein Sport HD 12
+http://149.202.198.114:8000/play/beinshd12
+#EXTINF:0,Bein Sport HD 13
+http://149.202.198.114:8000/play/beins13hd
