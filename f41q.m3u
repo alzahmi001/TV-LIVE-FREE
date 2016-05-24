@@ -27,5 +27,5 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",14. TRANS TV
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160524170803&etime=20160524210803&encoded=03ea7decd3728f149db8e
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",14. TRANS TV MIVO
-http://edge.nim.mivo.tv/wh76pzref44u53o6/transtv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDE2IDU6NTQ6NDUgUE0maGFzaF92YWx1ZT1GVUdLUzNrL2pNc1NHajVZK3VEUkpBPT0mdmFsaWRtaW51dGVzPTEwJmlkPUVWMTUwXzEyMF81N183XzUwXzEwN18yOXx2NC13ZWJ8NS8yNC8yMDE2IDU6NTQgUE18MzYuODAuMTU2LjEyNQ==
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",14. YOUTUBE
+https://www.youtube.com/watch?v=DzwkcbTQ7ZE
