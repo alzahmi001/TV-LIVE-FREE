@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", IDX TV
+#EXTINF:1 tvg-logo="samplelogo.png" group-title="Indonesia", IDX TV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000072/index1024.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", MNC MUSLIM
+#EXTINF:2 tvg-logo="samplelogo.png" group-title="Indonesia", MNC MUSLIM
 http://edge.okeinfo.net/live/muslim/playlist.m3u8
 #EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", MNC SHOP
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index1024.m3u8
