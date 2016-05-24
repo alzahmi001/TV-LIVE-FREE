@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", IDX TV 1
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia",1. IDX TV 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000072/index1024.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", MNC MUSLIM 2
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia",2. MNC MUSLIM 
 http://edge.okeinfo.net/live/muslim/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", MNC SHOP 3
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia",3. MNC SHOP 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index1024.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", MNC LIFE 4
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia",4. MNC LIFE 
 http://edge.okeinfo.net/live/life/playlist.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", MNC WORLD NEWS 5
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia",5. MNC WORLD NEWS 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000073/index1024.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", NEWS TV 6
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia",6. NEWS TV 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index1024.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", MNC NEWS
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia",7. MNC NEWS
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wn9m6PP1V40/U_dg4FbBP5I/AAAAAAAAAoc/aaV0nDNX-CM/s1600/mnctv.png" group-title="Indonesia", MNC
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wn9m6PP1V40/U_dg4FbBP5I/AAAAAAAAAoc/aaV0nDNX-CM/s1600/mnctv.png" group-title="Indonesia",8. MNC
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-sP0N9IctRTY/U_dhZLQ-0QI/AAAAAAAAApM/5X3H6qG_Rz8/s1600/rcti.png" group-title="Indonesia", RCTI
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-sP0N9IctRTY/U_dhZLQ-0QI/AAAAAAAAApM/5X3H6qG_Rz8/s1600/rcti.png" group-title="Indonesia",9. RCTI
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-pcEjQwpEOo0/U_dfPWFdAHI/AAAAAAAAAmA/UeQdULI1Hhk/s1600/globaltv.png" group-title="Indonesia", GLOBAL TV
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-pcEjQwpEOo0/U_dfPWFdAHI/AAAAAAAAAmA/UeQdULI1Hhk/s1600/globaltv.png" group-title="Indonesia",10. GLOBAL TV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index1024.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", MNC ENTERTAINMENT
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia",11. MNC ENTERTAINMENT
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/index1024.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", MNC MUSIK
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia",12. MNC MUSIK
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u8
-#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia", DRAMA CHANEL
+#EXTINF:-1 tvg-logo="samplelogo.png" group-title="Indonesia",13. DRAMA CHANEL
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
