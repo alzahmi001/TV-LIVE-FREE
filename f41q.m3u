@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",1. IDX TV 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",1: IDX TV 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000072/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_muslim.png" group-title="Indonesia",2. MNC MUSLIM 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_muslim.png" group-title="Indonesia",2: MNC MUSLIM 
 http://edge.okeinfo.net/live/muslim/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_shop.png" group-title="Indonesia",3. MNC SHOP 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_shop.png" group-title="Indonesia",3: MNC SHOP 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_lifestyle.png" group-title="Indonesia",4. MNC LIFE 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_lifestyle.png" group-title="Indonesia",4: MNC LIFE 
 http://edge.okeinfo.net/live/life/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_world_news.png" group-title="Indonesia",5. MNC WORLD NEWS 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_world_news.png" group-title="Indonesia",5: MNC WORLD NEWS 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000073/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/i_news_tv_id.png" group-title="Indonesia",6. I NEWS 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index1024.m3u8
@@ -27,5 +27,3 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",14. TRANS TV
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160524170803&etime=20160524210803&encoded=03ea7decd3728f149db8e
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",14. YOUTUBE
-https://www.youtube.com/watch?v=DzwkcbTQ7ZE
