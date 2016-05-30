@@ -45,7 +45,7 @@ http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 #EXTINF:0,[B][COLOR blue]--THAI--[/COLOR][/B]
 
 #EXTINF:-1 tvg-logo="" group-title="Thailand",THAI: UNIVERSAL CHANNEL
-http://iliketot.dyndns.tv/tot/web/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
+http://114.112.91.199:9009/live/chid=601
 
 # EXTM3U
 #EXTINF:-1 group-title="CHINA",CCTV1HD
