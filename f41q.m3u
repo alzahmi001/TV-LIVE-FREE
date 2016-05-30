@@ -1,33 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",1: IDX TV 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",ID: IDX TV 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000072/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_muslim.png" group-title="Indonesia",2: MNC MUSLIM 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_muslim.png" group-title="Indonesia",ID: MNC MUSLIM 
 http://edge.okeinfo.net/live/muslim/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_shop.png" group-title="Indonesia",3: MNC SHOP 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_shop.png" group-title="Indonesia",ID: MNC SHOP 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_lifestyle.png" group-title="Indonesia",4: MNC LIFE 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_lifestyle.png" group-title="Indonesia",ID: MNC LIFE 
 http://edge.okeinfo.net/live/life/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_world_news.png" group-title="Indonesia",5: MNC WORLD NEWS 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_world_news.png" group-title="Indonesia",ID: MNC WORLD NEWS 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000073/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/i_news_tv_id.png" group-title="Indonesia",6. I NEWS 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/i_news_tv_id.png" group-title="Indonesia",ID: I NEWS 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_news.png" group-title="Indonesia",7. MNC NEWS
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_news.png" group-title="Indonesia",ID: MNC NEWS
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_channel.png" group-title="Indonesia",8. MNC
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_channel.png" group-title="Indonesia",ID: MNC
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="Indonesia",9. RCTI
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="Indonesia",ID: RCTI
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/gg/global_tv_id.png" group-title="Indonesia",10. GLOBAL TV
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/gg/global_tv_id.png" group-title="Indonesia",ID: GLOBAL TV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_infotainment.png" group-title="Indonesia",11. MNC ENTERTAINMENT
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_infotainment.png" group-title="Indonesia",ID: MNC ENTERTAINMENT
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1434682878_logo_MUSIC-CHANNEL.png" group-title="Indonesia",12. MNC MUSIK
+#EXTINF:-1 tvg-logo="http://www.mncchannels.com/files/logo/1434682878_logo_MUSIC-CHANNEL.png" group-title="Indonesia",ID: MNC MUSIK
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_drama.png" group-title="Indonesia",13. DRAMA CHANNEL
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_drama.png" group-title="Indonesia",ID: DRAMA CHANNEL
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",14. TRANS TV
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160530145353&etime=20160530185353&encoded=0e5ca5453ea4bcd2f7bc8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",14. FOX
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: TRANS TV
+http://livestreaming.production.liputan6.static6.com/tv/transtv600.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: FOX PREMIUM
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",14. PEMI
-rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
