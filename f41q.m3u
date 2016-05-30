@@ -15,7 +15,7 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index1024.m3u
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_channel.png" group-title="Indonesia",ID: MNC
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://bit.do/rcti" group-title="Indonesia",ID: RCTI
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="Indonesia",ID: RCTI
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/gg/global_tv_id.png" group-title="Indonesia",ID: GLOBAL TV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index1024.m3u8
@@ -27,7 +27,9 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: TRANS TV
 http://livestreaming.production.liputan6.static6.com/tv/transtv600.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: TRANS 7
+http://livestreaming.production.liputan6.static6.com/tv/trans7600.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: FOX PREMIUM
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: FOX PREMIUM
-http://www.useetv.co.vu/2015/09/jaktv.html
+#EXTINF:-1 tvg-logo="" group-title="Thailand",THAI: UNIVERSAL CHANNEL
+http://iliketot.dyndns.tv/tot/web/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
