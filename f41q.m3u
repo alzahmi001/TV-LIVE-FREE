@@ -46,3 +46,349 @@ http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Thailand",THAI: UNIVERSAL CHANNEL
 http://iliketot.dyndns.tv/tot/web/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
+
+# EXTM3U
+#EXTINF:-1 group-title="CHINA",CCTV1HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000158&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV2HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000139&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV3HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000152&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV4HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000140&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV5HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000151&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV5+HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000160&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV6HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000159&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV7HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000141&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV8HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000150&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV9HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000142&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV10HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000143&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV12HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000144&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV14HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000145&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Dragon TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000161&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Tianjin TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000162&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Shandong TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000163&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Hubei TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000164&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Anhui TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000165&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Hunan Satellite TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000166&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Zhejiang TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000167&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Jiangsu Satellite TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000168&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Beijing TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000169&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Chongqing TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000170&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Heilongjiang TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000171&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Guangdong TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000172&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Shenzhen Satellite TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000173&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Liaoning TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000137&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Sichuan TV HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000138&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Golden Eagle Documentary
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000134&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Beijing documentary
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000135&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Shanghai Documentary
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000136&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", high-definition video HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000146&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", New Vision HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000147&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", ATV Asia Taiwan
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000148&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", HD documentary
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000149&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", 3D experience channels
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000153&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Phoenix IT HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000154&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Phoenix HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000155&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Hong Kong Phoenix HD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000156&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", HKC an HD movie
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000157&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", HKC an HD movie
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000103&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", video
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000102&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Chinese Film
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000104&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV1
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000007&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV2
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000008&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV3
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000018&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV4
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000014&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV5
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000019&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV6
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000020&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV7
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000009&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV8
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000021&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV9
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000022&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV10
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000010&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV11
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000011&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV12
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000012&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV13
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000023&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV14
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000024&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV15
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000013&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",CCTV NEWS
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000016&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", China Weather Channel
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000015&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", early education
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000083&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", MIDDLE SCHOOL STUDENTS
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000130&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", CETV1
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000061&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", CETV2
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000132&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", CETV4
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000133&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Shandong Education
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000106&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", the Xinhua Chinese
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000126&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", China Yellow River
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000113&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Yellow TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000001&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Anhui TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000114&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired,", Henan TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000116&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired" ,Ningxia TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000117&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Sichuan TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000118&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Jiangxi TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000119&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired" ,Shaanxi TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000120&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired,", Agriculture and Forestry TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000121&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Gansu TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000122&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Beijing TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000025&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Tianjin TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000026&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Shanxi TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000027&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Shandong TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000028&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Hebei TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000029&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Zhejiang TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000030&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Travel Channel
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000031&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Heilongjiang TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000032&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Jilin TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000033&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Yanbian TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000034&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Tibet TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000035&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Xinjiang TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000036&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Southeast TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000037&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Guizhou TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000038&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Jiangsu Satellite TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000039&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Liaoning TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000041&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Qinghai Satellite TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000059&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Hubei TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000060&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Dragon TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000063&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Inner Mongolia Satellite TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000064&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Guangxi TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000096&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Guangdong TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000097&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Yunnan TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000098&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Shenzhen Satellite TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000099&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Corps TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000101&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Jiajia Cartoon
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000100&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Golden Eagle cartoon
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000042&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", excellent Man cartoon
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000017&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Hyun action cartoon
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000062&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Shinco Animation
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000128&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", cartoon show
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000044&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", world geography
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000065&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", military defense
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000066&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Storm Music
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000067&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", culture of quality CCTV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000068&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", nostalgic theater
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000069&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", football situation
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000070&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Storm Theater
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000071&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", the first theater
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000072&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired" ,world's best sports
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000045&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired,", the entire documentary
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000046&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Oriental Financial
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000047&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Fu elderly
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000048&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", happy color
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000049&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", game situation
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000050&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", voyage of discovery
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000051&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", global spectacle
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000052&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", old story
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000053&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", calligraphy
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000054&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", women's fashion
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000055&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", modern women
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000056&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", CTV Shopping
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000057&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", health
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000058&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", treasure trove of artifacts
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000131&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", pretty makeup
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000073&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", study world
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000074&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", pear channel
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000075&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", racing game
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000076&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", tea Channels
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000077&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", DV life
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000078&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Go
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000079&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Automobiles
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000080&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", photography channel
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000081&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", remedial English
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000082&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Online Lottery
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000084&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", martial arts world
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000085&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="平遥有线",U BABY TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000086&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Urban Construction
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000087&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", world rule of law
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000088&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", laughter Theatre
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000089&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", charm music
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000090&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Colorful Drama
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000091&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired" ,golden channel
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000092&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired" ,Lifestyle
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000093&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired" ,Fast Cars
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000094&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired" ,city theater
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000095&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired" ,Celestial Movies
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000105&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", TVB Galaxia
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000107&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired" ,Sun TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000108&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Macau Lotus
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000109&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Phoenix IT
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000110&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Phoenix
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000111&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", HBO
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000123&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Star TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000124&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", CETV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000125&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Guoxue Channel
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000127&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Happy Fishing
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000129&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Shanxi Television
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000002&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Shanxi public
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000003&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired" Shanxi Science and Education
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000004&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Shanxi Children
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000005&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired" Jinzhong News
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000006&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Pingyao TV
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000043&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF: -1 Group-title = "Pingyao wired", Pingyao Information
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000174&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate
+#EXTINF: -1 Group-title = "Pingyao Wired", Wired Pingyao
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000158&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
