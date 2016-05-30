@@ -46,22 +46,40 @@ http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 1
 http://114.112.91.199:9009/live/chid=601
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 1
+#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 2
 http://114.112.91.199:9009/live/chid=602
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 1
+#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH KIDS 3
 http://114.112.91.199:9009/live/chid=603
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 1
+#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 4
 http://114.112.91.199:9009/live/chid=604
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 1
+#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 5
 http://114.112.91.199:9009/live/chid=605
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 1
+#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 6
 http://114.112.91.199:9009/live/chid=606
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 1
+#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 7
 http://114.112.91.199:9009/live/chid=607
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 1
+#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 8
 http://114.112.91.199:9009/live/chid=608
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 1
+#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 9
 http://114.112.91.199:9009/live/chid=609
+#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 32
+http://183.207.249.6/PLTV/3/224/3221225532/playstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 33
+http://183.207.249.6/PLTV/3/224/3221225533/playstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 34
+http://183.207.249.6/PLTV/3/224/3221225534/playstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 35
+http://183.207.249.6/PLTV/3/224/3221225535/playstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 36
+http://183.207.249.6/PLTV/3/224/3221225536/playstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 37
+http://183.207.249.6/PLTV/3/224/3221225537/playstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 38
+http://183.207.249.6/PLTV/3/224/3221225538/playstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 39
+http://183.207.249.6/PLTV/3/224/3221225539/playstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 40
+http://183.207.249.6/PLTV/3/224/3221225540/playstream.m3u8
 
 # EXTM3U
 #EXTINF:-1 group-title="CHINA",CCTV1HD
