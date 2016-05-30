@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="CHINA",CCTV1HD
+#EXTINF:-1 group-title="CHINA",:CH:CCTV1 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000158&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1 group-title="CHINA",:CH:CCTV1 SD
+http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000007&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="平遥有线",CCTV2HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000139&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="平遥有线",CCTV3HD
@@ -85,8 +87,6 @@ http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y7
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000102&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="平遥有线",中国电影
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000104&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="平遥有线",CCTV1
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000007&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="平遥有线",CCTV2
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000008&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="平遥有线",CCTV3
