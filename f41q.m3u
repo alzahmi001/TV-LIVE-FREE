@@ -27,3 +27,7 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",14. TRANS TV
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160530145353&etime=20160530185353&encoded=0e5ca5453ea4bcd2f7bc8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",14. FOX
+http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",14. PEMI
+rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
