@@ -41,6 +41,9 @@ http://livestreaming.production.liputan6.static6.com/tv/indosiar600.m3u8
 http://livestreaming.production.liputan6.static6.com/tv/SCTV600.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: FOX PREMIUM
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w971076124_b1300000_sleng.m3u8
+
 
 #EXTINF:0,[B][COLOR blue]--THAI--[/COLOR][/B]
 
