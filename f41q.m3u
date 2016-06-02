@@ -56,9 +56,11 @@ http://103.29.151.139/a_bio2016/court1/chunklist_w342003596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ASTRO AWANI
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.stream2watch.co/images/thumbs/n24%20live%20stream.jpg" group-title="GR",GR:N24
+http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR",GR:Sky Sport News HD
 http://tv.stream4k.net/hls/ssnhd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR",GR:Sky Sport HD 1
+#EXTINF:-1 tvg-logo="http://www.stream2watch.co/images/thumbs/sky%20sport%201%20de%20live%20stream.png" group-title="GR",GR:Sky Sport HD 1
 http://tv.stream4k.net/hls/sporthd1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR",GR:Sky Sport HD 2
 http://tv.stream4k.net/hls/sporthd2.m3u8
