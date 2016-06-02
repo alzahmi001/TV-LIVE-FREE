@@ -32,9 +32,9 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_drama.png" group-title="Indonesia",ID: DRAMA CHANNEL
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: TRANS TV
-http://livestreaming.production.liputan6.static6.com/tv/transtv600.m3u8
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160602142418&etime=20160602182418&encoded=0e29230f85c42847c2f3b
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: TRANS 7
-http://livestreaming.production.liputan6.static6.com/tv/trans7600.m3u8
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160602133656&etime=20160602173656&encoded=09fe2003c7e3aad214764
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: INDOSIAR
 http://livestreaming.production.liputan6.static6.com/tv/indosiar600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: SCTV
