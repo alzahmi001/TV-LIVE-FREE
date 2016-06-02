@@ -38,12 +38,23 @@ http://livestreaming.production.liputan6.static6.com/tv/trans7600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: INDOSIAR
 http://livestreaming.production.liputan6.static6.com/tv/indosiar600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: SCTV
-http://livestreaming.production.liputan6.static6.com/tv/SCTV600.m3u8
+http://119.235.249.60:1935/eratvonline/live/chunklist_w1015527562.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: FOX PREMIUM
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w971076124_b1300000_sleng.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: NHK
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: KIDS
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream6/masterPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ALJAZEERA
+rtmp://aljazeeraflashlivefs.fplive.net:443/aljazeeraflashlive-live/aljazeera_doc_high
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ALFORAT
+http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: KOMPI TV
+http://103.29.151.139/a_bio2016/court1/chunklist_w342003596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ASTRO AWANI
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
 #EXTINF:0,[B][COLOR blue]--THAI--[/COLOR][/B]
 
