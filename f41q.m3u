@@ -31,17 +31,17 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000038/index1024.m3u
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_drama.png" group-title="Indonesia",ID: DRAMA CHANNEL
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: TRANS TV
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",ID: TRANS TV
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160603174530&etime=20160603214530&encoded=0c9aed0794b1e3d570a12
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: TRANS 7
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",ID: TRANS 7
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160603174658&etime=20160603214658&encoded=060bedb9f5a4bce3f380d
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ANTV
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="Indonesia",ID: ANTV
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20160603174749&etime=20160603214749&encoded=036847c39d64e1e056456
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: SCTV
 http://119.235.249.60:1935/eratvonline/live/chunklist_w1015527562.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: FOX PREMIUM
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: METRO TV
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="Indonesia",ID: METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w971076124_b1300000_sleng.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: NHK
 http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
