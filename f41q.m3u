@@ -58,28 +58,6 @@ http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.stream2watch.co/images/thumbs/n24%20live%20stream.jpg" group-title="GR",GR:N24
 http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR",GR:Sky Sport News HD
-http://tv.stream4k.net/hls/ssnhd.m3u8
-#EXTINF:-1 tvg-logo="http://www.stream2watch.co/images/thumbs/sky%20sport%201%20de%20live%20stream.png" group-title="GR",GR:Sky Sport HD 1
-http://tv.stream4k.net/hls/sporthd1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR",GR:Sky Sport HD 2
-http://tv.stream4k.net/hls/sporthd2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR",GR:Sky Cinema HD
-http://tv.stream4k.net/hls/cinema.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR",GR:Sky Hits HD
-http://tv.stream4k.net/hls/007.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR",GR:Fox HD
-http://tv.stream4k.net/hls/foxhd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR",GR:Sky Discovery HD
-http://tv.stream4k.net/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR",GR:National Geographic HD
-http://tv.stream4k.net/hls/national.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR",GR:National Geographic Wild HD
-http://tv.stream4k.net/hls/nationalwild.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR",GR:Sky Atlantic HD
-http://tv.stream4k.net/hls/atlantic.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR",GR:Sport US HD
-http://tv.stream4k.net/hls/sportus.m3u8
 
 #EXTM3U
 #EXTINF:0,LT-tv3
