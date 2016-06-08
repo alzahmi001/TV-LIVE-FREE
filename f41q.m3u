@@ -65,6 +65,295 @@ http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
 
 
+#EXTINF:0,beIN SPORTS News HD
+http://163.172.17.191:5890/live/brahim1/brahim1/918.ts
+#EXTINF:0,beIN SPORTS News SD
+http://163.172.17.191:5890/live/brahim1/brahim1/1042.ts
+#EXTINF:0,beIN SPORTS HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1603.ts
+#EXTINF:0,beIN SPORTS Max 1
+http://163.172.17.191:5890/live/brahim1/brahim1/1797.ts
+#EXTINF:0,beIN SPORTS Max 2
+http://163.172.17.191:5890/live/brahim1/brahim1/1796.ts
+#EXTINF:0,beinHD Sports HD1
+http://163.172.17.191:5890/live/brahim1/brahim1/1.ts
+#EXTINF:0,beIN SPORTS 1HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1400.ts
+#EXTINF:0,Bein Sport 1HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1390.ts
+#EXTINF:0,BeinHD Sports HD2
+http://163.172.17.191:5890/live/brahim1/brahim1/3.ts
+#EXTINF:0,beIN SPORTS 2HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1401.ts
+#EXTINF:0,Bein Sport 2HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1391.ts
+#EXTINF:0,beinHD Sports HD3
+http://163.172.17.191:5890/live/brahim1/brahim1/5.ts
+#EXTINF:0,beIN SPORTS 3HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1402.ts
+#EXTINF:0,Bein Sport 3HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1392.ts
+#EXTINF:0,beinHD Sports HD4
+http://163.172.17.191:5890/live/brahim1/brahim1/7.ts
+#EXTINF:0,beIN SPORTS 4HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1403.ts
+#EXTINF:0,Bein Sport 4HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1393.ts
+#EXTINF:0,beinHD Sports HD5
+http://163.172.17.191:5890/live/brahim1/brahim1/9.ts
+#EXTINF:0,beIN SPORTS 5HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1404.ts
+#EXTINF:0,Bein Sport 5HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1394.ts
+#EXTINF:0,beinHD Sports HD6
+http://163.172.17.191:5890/live/brahim1/brahim1/11.ts
+#EXTINF:0,beIN SPORTS 6HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1405.ts
+#EXTINF:0,Bein Sport 6HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1395.ts
+#EXTINF:0,beinHD Sports HD7
+http://163.172.17.191:5890/live/brahim1/brahim1/13.ts
+#EXTINF:0,beIN SPORTS 7HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1406.ts
+#EXTINF:0,Bein Sport 7HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1396.ts
+#EXTINF:0,beinHD Sports HD8
+http://163.172.17.191:5890/live/brahim1/brahim1/15.ts
+#EXTINF:0,beIN SPORTS 8HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1407.ts
+#EXTINF:0,Bein Sport 8HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1397.ts
+#EXTINF:0,beinHD Sports HD9
+http://163.172.17.191:5890/live/brahim1/brahim1/17.ts
+#EXTINF:0,beIN SPORTS 9HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1408.ts
+#EXTINF:0,Bein Sport 9HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1398.ts
+#EXTINF:0,beinHD Sports HD10
+http://163.172.17.191:5890/live/brahim1/brahim1/19.ts
+#EXTINF:0,beIN SPORTS 10HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1409.ts
+#EXTINF:0,Bein Sport 10HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1399.ts
+#EXTINF:0,beinHD Sports HD11
+http://163.172.17.191:5890/live/brahim1/brahim1/864.ts
+#EXTINF:0,beinHD Sports HD12
+http://163.172.17.191:5890/live/brahim1/brahim1/865.ts
+#EXTINF:0,beinHD Sports HD13
+http://163.172.17.191:5890/live/brahim1/brahim1/1156.ts
+#EXTINF:0,beinHD Sports HD14
+http://163.172.17.191:5890/live/brahim1/brahim1/1157.ts
+#EXTINF:0,beinHD Sports HD15
+http://163.172.17.191:5890/live/brahim1/brahim1/1158.ts
+#EXTINF:0,beinHD Sports HD16
+http://163.172.17.191:5890/live/brahim1/brahim1/1159.ts
+#EXTINF:0,¤¤¤¤¤¤MOVIES¤¤¤¤¤¤
+http://163.172.17.191:5890/live/brahim1/brahim1/1508.ts
+#EXTINF:0,beIN MOVIES 1HD
+http://163.172.17.191:5890/live/brahim1/brahim1/840.ts
+#EXTINF:0,beIN MOVIES 2HD
+http://163.172.17.191:5890/live/brahim1/brahim1/839.ts
+#EXTINF:0,beIN MOVIES 3HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1458.ts
+#EXTINF:0,beIN MOVIES 4HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1477.ts
+#EXTINF:0,————-sky uk————–
+http://163.172.17.191:5890/live/brahim1/brahim1/1466.ts
+#EXTINF:0,
+http://163.172.17.191:5890/live/brahim1/brahim1/859.ts
+#EXTINF:0,¤¤¤¤¤¤Generale¤¤¤¤¤¤
+http://163.172.17.191:5890/live/brahim1/brahim1/1452.ts
+#EXTINF:0,RTÉ One
+http://163.172.17.191:5890/live/brahim1/brahim1/922.ts
+#EXTINF:0,RTÉ Two
+http://163.172.17.191:5890/live/brahim1/brahim1/923.ts
+#EXTINF:0,Tlc
+http://163.172.17.191:5890/live/brahim1/brahim1/1256.ts
+#EXTINF:0,BBC News
+http://163.172.17.191:5890/live/brahim1/brahim1/301.ts
+#EXTINF:0,BBC One HD
+http://163.172.17.191:5890/live/brahim1/brahim1/297.ts
+#EXTINF:0,BBC Two HD
+http://163.172.17.191:5890/live/brahim1/brahim1/298.ts
+#EXTINF:0,BBC Three HD
+http://163.172.17.191:5890/live/brahim1/brahim1/299.ts
+#EXTINF:0,BBC Four
+http://163.172.17.191:5890/live/brahim1/brahim1/300.ts
+#EXTINF:0,TG4
+http://163.172.17.191:5890/live/brahim1/brahim1/1263.ts
+#EXTINF:0,ITV HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1080.ts
+#EXTINF:0,ITV2 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1081.ts
+#EXTINF:0,ITV3 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1082.ts
+#EXTINF:0,ITV4 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1083.ts
+#EXTINF:0,Cbs Reality
+http://163.172.17.191:5890/live/brahim1/brahim1/1209.ts
+#EXTINF:0,Cbs Drama
+http://163.172.17.191:5890/live/brahim1/brahim1/1210.ts
+#EXTINF:0,Cbs Action
+http://163.172.17.191:5890/live/brahim1/brahim1/1211.ts
+#EXTINF:0,London Live
+http://163.172.17.191:5890/live/brahim1/brahim1/1128.ts
+#EXTINF:0,Channel 4 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/270.ts
+#EXTINF:0,Channel 5 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1079.ts
+#EXTINF:0,Home
+http://163.172.17.191:5890/live/brahim1/brahim1/1255.ts
+#EXTINF:0,Sky News HD
+http://163.172.17.191:5890/live/brahim1/brahim1/812.ts
+#EXTINF:0,¤¤¤¤¤¤Sports¤¤¤¤¤¤
+http://163.172.17.191:5890/live/brahim1/brahim1/1449.ts
+#EXTINF:0,BT Sport 1 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/279.ts
+#EXTINF:0,BT Sport 2 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/280.ts
+#EXTINF:0,BT Sport // ESPN
+http://163.172.17.191:5890/live/brahim1/brahim1/1257.ts
+#EXTINF:0,BT Sport EuroHD
+http://163.172.17.191:5890/live/brahim1/brahim1/1215.ts
+#EXTINF:0,Sky Sports 1 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/273.ts
+#EXTINF:0,Sky Sports 2 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/274.ts
+#EXTINF:0,Sky Sports 3 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/275.ts
+#EXTINF:0,Sky Sports 4 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/276.ts
+#EXTINF:0,Sky Sports 5 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/277.ts
+#EXTINF:0,Sky Sports F1 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/278.ts
+#EXTINF:0,Box Nation
+http://163.172.17.191:5890/live/brahim1/brahim1/1711.ts
+#EXTINF:0,Setanta Ireland
+http://163.172.17.191:5890/live/brahim1/brahim1/281.ts
+#EXTINF:0,Racing UK
+http://163.172.17.191:5890/live/brahim1/brahim1/1259.ts
+#EXTINF:0,MOTORS TV UK
+http://163.172.17.191:5890/live/brahim1/brahim1/1258.ts
+#EXTINF:0,¤¤¤¤¤¤Cinema¤¤¤¤¤¤
+http://163.172.17.191:5890/live/brahim1/brahim1/1448.ts
+#EXTINF:0,Sky1 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/266.ts
+#EXTINF:0,Sky2
+http://163.172.17.191:5890/live/brahim1/brahim1/267.ts
+#EXTINF:0,Film4 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1086.ts
+#EXTINF:0,Sky Arts 1
+http://163.172.17.191:5890/live/brahim1/brahim1/1254.ts
+#EXTINF:0,Sky Select HD
+http://163.172.17.191:5890/live/brahim1/brahim1/257.ts
+#EXTINF:0,Sky Movies Premiere
+http://163.172.17.191:5890/live/brahim1/brahim1/264.ts
+#EXTINF:0,UK:SkyMoviesGreat&Modern
+http://163.172.17.191:5890/live/brahim1/brahim1/1207.ts
+#EXTINF:0,Sky Movies Disney HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1253.ts
+#EXTINF:0,Sky Moveis Drama
+http://163.172.17.191:5890/live/brahim1/brahim1/258.ts
+#EXTINF:0,UK:DinsenyChannelUK
+http://163.172.17.191:5890/live/brahim1/brahim1/1090.ts
+#EXTINF:0,Sky Disney HD
+http://163.172.17.191:5890/live/brahim1/brahim1/282.ts
+#EXTINF:0,Sky Movies Comedy
+http://163.172.17.191:5890/live/brahim1/brahim1/806.ts
+#EXTINF:0,Sky Atlantic HD
+http://163.172.17.191:5890/live/brahim1/brahim1/261.ts
+#EXTINF:0,Sky ScFi/HorHD
+http://163.172.17.191:5890/live/brahim1/brahim1/263.ts
+#EXTINF:0,Sky Movies Showcase
+http://163.172.17.191:5890/live/brahim1/brahim1/1087.ts
+#EXTINF:0,Sky Movies Family
+http://163.172.17.191:5890/live/brahim1/brahim1/1088.ts
+#EXTINF:0,Sky Movies Action
+http://163.172.17.191:5890/live/brahim1/brahim1/1089.ts
+#EXTINF:0,Sky Living
+http://163.172.17.191:5890/live/brahim1/brahim1/1085.ts
+#EXTINF:0,Sky Movies Thriller
+http://163.172.17.191:5890/live/brahim1/brahim1/260.ts
+#EXTINF:0,Sky True Movies
+http://163.172.17.191:5890/live/brahim1/brahim1/271.ts
+#EXTINF:0,Sky True Movies 2
+http://163.172.17.191:5890/live/brahim1/brahim1/272.ts
+#EXTINF:0,Dave
+http://163.172.17.191:5890/live/brahim1/brahim1/269.ts
+#EXTINF:0,UK:Fox
+http://163.172.17.191:5890/live/brahim1/brahim1/1208.ts
+#EXTINF:0,uk:Syfy
+http://163.172.17.191:5890/live/brahim1/brahim1/265.ts
+#EXTINF:0,Good Food
+http://163.172.17.191:5890/live/brahim1/brahim1/1213.ts
+#EXTINF:0,Food Network
+http://163.172.17.191:5890/live/brahim1/brahim1/1212.ts
+#EXTINF:0,¤¤¤¤¤¤Culture¤¤¤¤¤¤
+http://163.172.17.191:5890/live/brahim1/brahim1/1450.ts
+#EXTINF:0,Uk:NatGeoGraphic
+http://163.172.17.191:5890/live/brahim1/brahim1/286.ts
+#EXTINF:0,UK:NationalGeography-Wild
+http://163.172.17.191:5890/live/brahim1/brahim1/807.ts
+#EXTINF:0,Uk:DiscoverySc
+http://163.172.17.191:5890/live/brahim1/brahim1/291.ts
+#EXTINF:0,Uk:DiscoveryHistory
+http://163.172.17.191:5890/live/brahim1/brahim1/292.ts
+#EXTINF:0,Disc. Turbo
+http://163.172.17.191:5890/live/brahim1/brahim1/1106.ts
+#EXTINF:0,Uk:DiscoveryCI
+http://163.172.17.191:5890/live/brahim1/brahim1/290.ts
+#EXTINF:0,Discovery HD
+http://163.172.17.191:5890/live/brahim1/brahim1/289.ts
+#EXTINF:0,Uk:DiscoveryWorld
+http://163.172.17.191:5890/live/brahim1/brahim1/1260.ts
+#EXTINF:0,Uk:AnimalPlanet
+http://163.172.17.191:5890/live/brahim1/brahim1/288.ts
+#EXTINF:0,¤¤¤¤¤¤Enfants¤¤¤¤¤¤
+http://163.172.17.191:5890/live/brahim1/brahim1/1451.ts
+#EXTINF:0,Nick Jr.
+http://163.172.17.191:5890/live/brahim1/brahim1/1084.ts
+#EXTINF:0,Nicktoons
+http://163.172.17.191:5890/live/brahim1/brahim1/284.ts
+#EXTINF:0,nickelodeon
+http://163.172.17.191:5890/live/brahim1/brahim1/285.ts
+#EXTINF:0,Disney Junior
+http://163.172.17.191:5890/live/brahim1/brahim1/283.ts
+#EXTINF:0,Cartoon Netwrk
+http://163.172.17.191:5890/live/brahim1/brahim1/813.ts
+#EXTINF:0,———–USA————-
+http://163.172.17.191:5890/live/brahim1/brahim1/1771.ts
+#EXTINF:0,beIN SPORTS US
+http://163.172.17.191:5890/live/brahim1/brahim1/1723.ts
+#EXTINF:0,NFL
+http://163.172.17.191:5890/live/brahim1/brahim1/1789.ts
+#EXTINF:0,ESPN
+http://163.172.17.191:5890/live/brahim1/brahim1/1791.ts
+#EXTINF:0,TSN 1
+http://163.172.17.191:5890/live/brahim1/brahim1/1765.ts
+#EXTINF:0,TSN 2
+http://163.172.17.191:5890/live/brahim1/brahim1/1764.ts
+#EXTINF:0,TSN 3
+http://163.172.17.191:5890/live/brahim1/brahim1/1763.ts
+#EXTINF:0,TSN 4
+http://163.172.17.191:5890/live/brahim1/brahim1/1762.ts
+#EXTINF:0,TSN 5
+http://163.172.17.191:5890/live/brahim1/brahim1/1761.ts
+#EXTINF:0,FOX SPORT 1 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1767.ts
+#EXTINF:0,FOX SPORT 2 HD
+http://163.172.17.191:5890/live/brahim1/brahim1/1766.ts
+#EXTINF:0,ASTRO SPORT 1
+http://163.172.17.191:5890/live/brahim1/brahim1/1769.ts
+#EXTINF:0,ASTRO SPORT 2
+http://163.172.17.191:5890/live/brahim1/brahim1/1770.ts
+#EXTINF:0,ASTRO SPORT 3
+http://163.172.17.191:5890/live/brahim1/brahim1/1768.ts
+#EXTINF:0,ASTRO SPORT 4
+http://163.172.17.191:5890/live/brahim1/brahim1/1790.ts
+#EXTINF:0,ABC NEWS
+http://163.172.17.191:5890/live/brahim1/brahim1/1760.ts
+
 #EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 1
 http://114.112.91.199:9009/live/chid=601
 #EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 2
