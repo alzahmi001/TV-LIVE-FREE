@@ -32,13 +32,13 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_drama.png" group-title="Indonesia",ID: DRAMA CHANNEL
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",ID: TRANS TV
-http://edge.nim.mivo.tv/wh76pzref44u53o6/transtv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMTYgNDowOTo0MSBQTSZoYXNoX3ZhbHVlPXRUTmw2QXcxRnE1VmtDTG5SWjA1b2c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9RVYxMTIxXzEwXzExMV81NF85OV8xOF8zN3x2NC13ZWJ8Ni84LzIwMTYgNDowOSBQTXwxODAuMjU0LjI1MC4xNw==
+http://edge.nim.mivo.tv/wh76pzref44u53o6/transtv2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMTYgNzozNDowOSBQTSZoYXNoX3ZhbHVlPXRUYm1nTFJ6Z0JleXJETmJMdDRlb2c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9RVYxMTExXzI0XzM1XzJfMTNfMTE0XzYxfHY0LXdlYnw2LzgvMjAxNiA3OjM0IFBNfDE4MC4yNTQuMjUwLjE3
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",ID: TRANS 7
-http://edge.nim.mivo.tv/wh76pzref44u53o6/trans72_all/sedz1j6exe/trans72_576p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMTYgNDowOTo0MSBQTSZoYXNoX3ZhbHVlPXRUTmw2QXcxRnE1VmtDTG5SWjA1b2c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9RVYxMTIxXzEwXzExMV81NF85OV8xOF8zN3x2NC13ZWJ8Ni84LzIwMTYgNDowOSBQTXwxODAuMjU0LjI1MC4xNw==
+http://edge.nim.mivo.tv/wh76pzref44u53o6/trans72_all/sedz1j6exe/trans72_576p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMTYgNzozNDowOSBQTSZoYXNoX3ZhbHVlPXRUYm1nTFJ6Z0JleXJETmJMdDRlb2c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9RVYxMTExXzI0XzM1XzJfMTNfMTE0XzYxfHY0LXdlYnw2LzgvMjAxNiA3OjM0IFBNfDE4MC4yNTQuMjUwLjE3
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",ID: JGO
-http://edge.nim.mivo.tv/wh76pzref44u53o6/jgo_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMTYgNDowOTo0MSBQTSZoYXNoX3ZhbHVlPXRUTmw2QXcxRnE1VmtDTG5SWjA1b2c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9RVYxMTIxXzEwXzExMV81NF85OV8xOF8zN3x2NC13ZWJ8Ni84LzIwMTYgNDowOSBQTXwxODAuMjU0LjI1MC4xNw==
+http://edge.nim.mivo.tv/wh76pzref44u53o6/jgo_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMTYgNzozNDowOSBQTSZoYXNoX3ZhbHVlPXRUYm1nTFJ6Z0JleXJETmJMdDRlb2c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9RVYxMTExXzI0XzM1XzJfMTNfMTE0XzYxfHY0LXdlYnw2LzgvMjAxNiA3OjM0IFBNfDE4MC4yNTQuMjUwLjE3
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="Indonesia",ID: ANTV
 
