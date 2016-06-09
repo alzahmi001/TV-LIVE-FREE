@@ -32,16 +32,15 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_drama.png" group-title="Indonesia",ID: DRAMA CHANNEL
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",ID: TRANS TV
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160609121431&etime=20160609161431&encoded=0bdf8cb93fb0bffbd5d4a
-
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160609170710&etime=20160609210710&encoded=01f6bb7ea33ae47db0748
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",ID: TRANS 7
-http://edge.nim.mivo.tv/wh76pzref44u53o6/trans72_all/sedz1j6exe/trans72_576p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMTYgNzozNDowOSBQTSZoYXNoX3ZhbHVlPXRUYm1nTFJ6Z0JleXJETmJMdDRlb2c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9RVYxMTExXzI0XzM1XzJfMTNfMTE0XzYxfHY0LXdlYnw2LzgvMjAxNiA3OjM0IFBNfDE4MC4yNTQuMjUwLjE3
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",ID: JGO
-http://edge.nim.mivo.tv/wh76pzref44u53o6/jgo_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMTYgNzozNDowOSBQTSZoYXNoX3ZhbHVlPXRUYm1nTFJ6Z0JleXJETmJMdDRlb2c9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9RVYxMTExXzI0XzM1XzJfMTNfMTE0XzYxfHY0LXdlYnw2LzgvMjAxNiA3OjM0IFBNfDE4MC4yNTQuMjUwLjE3
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160609170821&etime=20160609210821&encoded=058f32efaa562119db8d2
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",ID: KOMPAS
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20160609170601&etime=20160609210601&encoded=04ea17406340155023d61
 
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="Indonesia",ID: ANTV
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20160609170255&etime=20160609210255&encoded=0a87b52bf2b69c2dc604f
 
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: SCTV
 http://119.235.249.60:1935/eratvonline/live/chunklist_w1015527562.m3u8
