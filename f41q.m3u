@@ -47,10 +47,18 @@ http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:bd5f8644de53/chunklist_b1
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w971076124_b1300000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="Indonesia",ID: METRO TV USEE
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1232000000.m3u8?stime=20160610110402&etime=20160610150402&encoded=08d13241fb99fe57cad4c
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="Indonesia",ID: BERITA SATU
-http://edge.telin.swiftserve.com/live/sejXc8RhId_livetv-sbr/9743af894424/chunklist.m3u8?stime=20160610110000&etime=20160610150000&encoded=095317ccf02f832e0d6b4&
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png" group-title="Indonesia",ID: BERITA SATU
+http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:bsnews/chunklist_b2217000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: NHK
 http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_1200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: RT NEWS
+https://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: RHD
+http://testlivestream.rfn.ru/live/smil:rhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: HD MUSIC
+http://80.250.191.10:1935/live/livestream3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: KIDS
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream6/masterPlaylist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ALJAZEERA
