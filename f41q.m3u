@@ -26,15 +26,15 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_drama.png" group-title="Indonesia",ID: DRAMA CHANNEL
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",ID: TRANS TV
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160610160253&etime=20160610200253&encoded=08b18ed6a7310d52ec72c
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160611120226&etime=20160611160226&encoded=0a3b4fb8b86ae2e6f30d5
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",ID: TRANS 7
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160610105821&etime=20160610145821&encoded=03296c59e1d4041dc6ece
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",ID: KOMPAS
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20160610105932&etime=20160610145932&encoded=0bcee92b64a786a92ce5c
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",ID: TV ONE
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1232000000.m3u8?stime=20160610110111&etime=20160610150111&encoded=09bfe657703fb7eea0a85
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160611120307&etime=20160611160307&encoded=00b61f9882c4c650e0d96
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="Indonesia",ID: KOMPAS
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20160611120346&etime=20160611160346&encoded=05f19009c5abd2c78a64d
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="Indonesia",ID: TV ONE
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1232000000.m3u8?stime=20160611120435&etime=20160611160435&encoded=0bdaa156e927f2c1109d0
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="Indonesia",ID: ANTV
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20160610110213&etime=20160610150213&encoded=053fb5598dc0296dc4908
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20160611120655&etime=20160611160655&encoded=07048408c52624988f877
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: SCTV
 http://119.235.249.60:1935/eratvonline/live/chunklist_w1015527562.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: FOX PREMIUM
@@ -42,11 +42,11 @@ http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: TVRI
 http://180.250.29.21/jhos/tvri/1465556266/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",ID: NET
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:bd5f8644de53/chunklist_b1328000.m3u8?stime=20160610110858&etime=20160610150858&encoded=089d9c15cb57d8909783d
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:bd5f8644de53/chunklist_b1328000.m3u8?stime=20160611120754&etime=20160611160754&encoded=0ebac9d94b583ee758f1f
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="Indonesia",ID: METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w971076124_b1300000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="Indonesia",ID: METRO TV USEE
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1232000000.m3u8?stime=20160610110402&etime=20160610150402&encoded=08d13241fb99fe57cad4c
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1232000000.m3u8?stime=20160611120851&etime=20160611160851&encoded=0d841cd4fd74bbe096f24
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png" group-title="Indonesia",ID: BERITA SATU
 http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:bsnews/chunklist_b2217000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: NHK
@@ -65,11 +65,8 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream6/masterP
 rtmp://aljazeeraflashlivefs.fplive.net:443/aljazeeraflashlive-live/aljazeera_doc_high
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ALFORAT
 http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: KOMPI TV
-http://edge.nim.mivo.tv/wh76pzref44u53o6/indosiar2_all/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni84LzIwMTYgNzo0Mzo1MyBQTSZoYXNoX3ZhbHVlPWVPdURLZmFGcHpwbGZ3a0pJNjBuSmc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9RVYxMTExXzI0XzM1XzJfMTNfMTE0XzYxfHY0LXdlYnw2LzgvMjAxNiA3OjQzIFBNfDE4MC4yNTQuMjUwLjE3
-
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ASTRO AWANI
-http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: IHc
+http://180.250.29.21/jhos/ihc/1465646383/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.stream2watch.co/images/thumbs/n24%20live%20stream.jpg" group-title="GR",GR:N24
 http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
