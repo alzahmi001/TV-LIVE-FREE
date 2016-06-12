@@ -26,7 +26,7 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_drama.png" group-title="Indonesia",ID: DRAMA CHANNEL
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",ID: TRANS TV
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160611120226&etime=20160611160226&encoded=0a3b4fb8b86ae2e6f30d5
+http://103.18.239.130/sedz1j6exe/transtv2_all/sedz1j6exe/transtv2_576p/chunks.m3u8?nimblesessionid=76592467&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDE2IDE6MjU6NTMgUE0maGFzaF92YWx1ZT13L0RoNjVWaFVqbWR0M0tvQTNNQ1J3PT0mdmFsaWRtaW51dGVzPTEwJmlkPUVWMTQ0XzdfMTI3XzEyNl8xMDBfMzVfNDd8djQtd2VifDYvMTIvMjAxNiAxOjI1IFBNfDIwMi4xMjkuMjE3LjQ==
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",ID: TRANS 7
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160611120307&etime=20160611160307&encoded=00b61f9882c4c650e0d96
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="Indonesia",ID: KOMPAS
