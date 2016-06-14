@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",ID: IDX TV 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000072/index1024.m3u8
+<item>
+<title>RTM1</title>
+<link>http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000155&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no</link>
+<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tv1/tv1.png</thumbnail>
+</item>
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_muslim.png" group-title="Indonesia",ID: MNC MUSLIM 
 http://edge.okeinfo.net/live/muslim/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_shop.png" group-title="Indonesia",ID: MNC SHOP 
