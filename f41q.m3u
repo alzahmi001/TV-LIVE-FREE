@@ -1,8 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",ID: IDX TV 
+#EXTINF:-1 tvg-logo="" group-title="Korea",ID: TV CHOSUN
 rtmp://edge1.everyon.tv/etv1/phd341
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",ID: IDX TV 
+#EXTINF:-1 tvg-logo="" group-title="Korea",ID: MBC 
 http://119.202.61.202:1935/live/livetv/chunklist.m3u8?wowzasessionid=1945258789&time=1454360631890
+#EXTINF:-1 tvg-logo="" group-title="Korea",ID: SBS
+http://nlive.sbs.co.kr/sbsch6pc/sbs1ch61.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:-1 tvg-logo="" group-title="Korea",ID: KBS 1
+rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTdBRjY4M0U5NDFEJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9NUEzOEY0RDAwRDAyJnBhdGg9LzF0dl9ob21lL19kZWZpbnN0Xy8xdHZfaG9tZS5zdHJlYW0mZmlsZT0xdHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NDQ=
+#EXTINF:-1 tvg-logo="" group-title="Korea",ID: KBS 2
+rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTg0RUU3NzhCNjU3Jmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9RTcxNkFCNUEyRjBCJnBhdGg9LzJ0dl9ob21lL19kZWZpbnN0Xy8ydHZfaG9tZS5zdHJlYW0mZmlsZT0ydHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NjM=
+#EXTINF:-1 tvg-logo="" group-title="Korea",ID: KBS 2
+rtmp://123.108.164.71/etv2/phd847
+#EXTINF:-1 tvg-logo="" group-title="Korea",ID: DaeGyo Kids TV HD
+rtmp://edge1.everyon.tv/etv1sb/phd5
+#EXTINF:-1 tvg-logo="" group-title="Korea",ID: PLAYY WEST
+http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",ID: FOX SPORTS
+http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",ID: ARTE
+http://edge1.everyon.tv/etv1/phd35/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Korea",ID: CHANNEL A
+http://edge1.everyon.tv/etv1/phd251/chunklist_w1976174258.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",ID: IDX TV 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000072/index.m3u8
