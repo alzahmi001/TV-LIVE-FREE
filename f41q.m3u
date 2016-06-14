@@ -165,63 +165,63 @@ http://183.207.249.6/PLTV/3/224/3221225567/playstream.m3u8
 http://183.207.249.6/PLTV/3/224/3221225568/playstream.m3u8
 
 # EXTM3U
-#EXTINF:-1 group-title="CHINA",CCTV1 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv01.png" group-title="CHINA",CCTV1 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000158&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV1 SD
+#EXTINF:-1 tvg-logo="" group-title="CHINA",CCTV1 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000007&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV2 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv02.png" group-title="CHINA",CCTV2 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000008&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV2 SD
+#EXTINF:-1  group-title="CHINA",CCTV2 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000139&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV3 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv03.png" group-title="CHINA",CCTV3 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000152&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="CHINA",CCTV3 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000018&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV4 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv04.png" group-title="CHINA",CCTV4 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000140&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="CHINA",CCTV4 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000014&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV5 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv05.png" group-title="CHINA",CCTV5 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000151&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="CHINA",CCTV5 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000019&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV5+HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv05_plus.png" group-title="CHINA",CCTV5+HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000160&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV6 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv06.png" group-title="CHINA",CCTV6 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000159&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="CHINA",CCTV6 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000020&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV7 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv07.png" group-title="CHINA",CCTV7 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000141&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="CHINA",CCTV7 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000009&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV8 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv08.png" group-title="CHINA",CCTV8 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000150&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="CHINA",CCTV8 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000021&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV9 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv09.png" group-title="CHINA",CCTV9 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000142&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="CHINA",CCTV9 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000022&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV10 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv10.png" group-title="CHINA",CCTV10 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000143&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="CHINA",CCTV10 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000010&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV11 SD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv11.png" group-title="CHINA",CCTV11 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000011&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV12 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv12.png" group-title="CHINA",CCTV12 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000144&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="CHINA",CCTV12 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000012&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV13
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv13.png" group-title="CHINA",CCTV13
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000023&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV14 HD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv14.png" group-title="CHINA",CCTV14 HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000145&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF:-1 group-title="CHINA",CCTV14 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000024&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV15 SD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv15.png" group-title="CHINA",CCTV15 SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000013&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV NEWS SD
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv_news_english.png" group-title="CHINA",CCTV NEWS SD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000016&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
 #EXTINF: -1 Group-title = "Pingyao wired", Dragon TV HD
 http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000161&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
