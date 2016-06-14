@@ -86,16 +86,30 @@ http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:beritasatuenglish/play
 http://www.kitatv.com:1935/live/mp4:myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: NHK
 http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: NHK WORLD
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_1200.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="News",ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG"  group-title="News",BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: RT NEWS
 https://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: RHD
 http://testlivestream.rfn.ru/live/smil:rhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: HD MUSIC
 http://80.250.191.10:1935/live/livestream3/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: KIDS
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream6/masterPlaylist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: KIDS
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: KIDS
+http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/103.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ALJAZEERA
 rtmp://aljazeeraflashlivefs.fplive.net:443/aljazeeraflashlive-live/aljazeera_doc_high
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ALFORAT
