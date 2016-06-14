@@ -1,11 +1,87 @@
+#EXTINF:-1,SBS
+http://nlive.sbs.co.kr/sbsch6pc/sbs1ch61.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:-1,MBC
+http://119.202.61.202:1935/live/livetv/chunklist.m3u8?wowzasessionid=1945258789&time=1454360631890
+#EXTINF:-1 tvg-logo="http://img.kbs.co.kr/kplayer/WebV3/assets/images/empty/pc/channel_11.png" group-title="Others",KBS1
+rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTdBRjY4M0U5NDFEJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9NUEzOEY0RDAwRDAyJnBhdGg9LzF0dl9ob21lL19kZWZpbnN0Xy8xdHZfaG9tZS5zdHJlYW0mZmlsZT0xdHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NDQ=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7qM17ZfCWkGD8cOKrCMaRLEOYCgW1ladBd8-hD3G00YIerTBc" group-title="Others",KBS2
+rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTg0RUU3NzhCNjU3Jmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9RTcxNkFCNUEyRjBCJnBhdGg9LzJ0dl9ob21lL19kZWZpbnN0Xy8ydHZfaG9tZS5zdHJlYW0mZmlsZT0ydHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NjM=
+#EXTINF:-1,JTBC
+rtmp://edge2.everyon.tv/etv2//phd343
+#EXTINF:-1,KBS World
+rtmp://118.97.183.196/jhos//kbs
+#EXTINF:-1,Drama
+rtmp://123.108.164.71/etv2/phd847
+#EXTINF:-1,SBS NICKELODEON
+http://nlive.sbs.co.kr/sbsnickpc/sbsnick3.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:-1,DaeGyo Kids TV HD
+rtmp://edge1.everyon.tv/etv1sb/phd5
+#EXTINF:-1,SBS PLUS
+rtmp://sbs.relay01.live.wms.stream.nfractals.com:1935/pooqsbsplus/_definst_/live3.stream|rtmp://sbs.relay02.live.wms.stream.nfractals.com:1935/pooqsbsplus/_definst_/live3.stream
+#EXTINF:-1,SBS FUN E
+http://nlive.sbs.co.kr/sbsetvpc/sbsetv3.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:-1,SBS GOLF
+http://nlive.sbs.co.kr/sbsgolfpc/sbsgolf3.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=&time=1454374137916
+#EXTINF:-1,SBS SPORTS
+http://nlive.sbs.co.kr/sbsespnpc/sbsespn3.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:-1,SBS CNBC
+http://nlive.sbs.co.kr/sbscnbcpc/sbscnbc3.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:-1,JTBC3 FOX SPORTS
+http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
+#EXTINF:-1,JTBC GOLF
+http://edge1.everyon.tv/etv1sb/phd58/chunklist_w570063991.m3u8?time=1454374878239
+#EXTINF:-1,ARTE
+http://edge1.everyon.tv/etv1/phd35/playlist.m3u8
+#EXTINF:-1,CHANNEL A
+http://edge1.everyon.tv/etv1/phd251/chunklist_w1976174258.m3u8
+#EXTINF:-1,TV Chosun
+rtmp://edge1.everyon.tv/etv1/phd341
+#EXTINF:-1,EBS1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist_w1081857294.m3u8?time=1454375113788
+#EXTINF:-1,EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,ETN
+http://edge2.everyon.tv/etv2sb/phd2/chunklist_w1140818506.m3u8
+#EXTINF:-1,FOOD TV
+http://edge1.everyon.tv/etv1sb/phd1015/chunklist_w734832299.m3u8
+#EXTINF:-1,MBN
+http://edge1.everyon.tv/etv1/phd17/chunklist_w1437660854.m3u8?time=1454375338605
+#EXTINF:-1,OBS
+http://edge2.everyon.tv/etv2sb/phd1042/chunklist_w312619350.m3u8
+#EXTINF:-1,YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:-1,Arirang
+http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea4.m3u8
+#EXTINF:-1,CTS
+http://ctsnanum.rtsp.vercoop.com:1935/CTS/CTS_5689_200.sdp/HasBahCa.m3u8
+#EXTINF:-1,CBS
+mms://vod2.cbs.co.kr/cbs_tv_live34
+#EXTINF:0,KBS 1 
+http://rtmpplay3.idol001.com/live/korea_kbs1.m3u8 
+#EXTINF:0,KBS 2 
+http://rtmpplay3.idol001.com/live/korea_kbs2.m3u8 
+#EXTINF:0,MBC 
+http://rtmpplay3.idol001.com/live/korea_mbc.m3u8 
+#EXTINF:0,SBS 
+http://rtmpplay3.idol001.com/live/korea_sbs.m3u8 
+#EXTINF:0,MNET 
+http://rtmpplay3.idol001.com/live/korea_mnet.m3u8 
+#EXTINF:0,MBC MUSIC 
+http://rtmpplay3.idol001.com/live/korea_mbcmusic.m3u8 
+#EXTINF:0,MBC EVERY 
+http://rtmpplay3.idol001.com/live/korea_mbcevery1.m3u8 
+#EXTINF:0,SBS MTV 
+http://rtmpplay3.idol001.com/live/korea_sbsmtv.m3u8 
+#EXTINF:0,TVN 
+http://rtmpplay3.idol001.com/live/korea_tvn.m3u8 
+#EXTINF:0,JTBC 
+http://rtmpplay3.idol001.com/live/korea_jtbc.m3u8 
+#EXTINF:0,ON STYLE 
+http://rtmpplay3.idol001.com/live/korea_onstyle.m3u8
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",ID: IDX TV 
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000072/index1024.m3u8
-<item>
-<title>RTM1</title>
-<link>http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000155&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no</link>
-<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tv1/tv1.png</thumbnail>
-</item>
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_muslim.png" group-title="Indonesia",ID: MNC MUSLIM 
 http://edge.okeinfo.net/live/muslim/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_shop.png" group-title="Indonesia",ID: MNC SHOP 
