@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: TV CHOSUN
-rtmp://edge1.everyon.tv/etv1/phd341
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: MBC 
-http://119.202.61.202:1935/live/livetv/chunklist.m3u8?wowzasessionid=1945258789&time=1454360631890
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: SBS
-plugin://plugin.video.youtube/?action=play_video&amp;videoid=OWEFYfmwSeo
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: KBS 1
-rtmp://live2.kbs.gscdn.com/1tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTdBRjY4M0U5NDFEJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9NUEzOEY0RDAwRDAyJnBhdGg9LzF0dl9ob21lL19kZWZpbnN0Xy8xdHZfaG9tZS5zdHJlYW0mZmlsZT0xdHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NDQ=
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: KBS 2 
-rtmp://live2.kbs.gscdn.com/2tv_home/_definst_/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTg0RUU3NzhCNjU3Jmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9RTcxNkFCNUEyRjBCJnBhdGg9LzJ0dl9ob21lL19kZWZpbnN0Xy8ydHZfaG9tZS5zdHJlYW0mZmlsZT0ydHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NjM=
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: KBS 2 HD
-rtmp://123.108.164.71/etv2/phd847
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: ur
-rtmp://123.108.164.71/etv2/phd846
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: DaeGyo Kids TV HD
-rtmp://edge1.everyon.tv/etv1sb/phd5
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/tv-chosun.png" group-title="Korea",KR: TV CHOSUN
+rtmp://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/mbc-tv.png" group-title="Korea",KR: MBC 
+http://1001-t.wice.cf:1935/live/mbc.stream/chunklist_w1301208457.m3u8
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/mbn.png" group-title="Korea",KR: MBN 
+http://edge1.everyon.tv/etv1/pld17/chunklist_w548332220.m3u8
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/ebs-tv.png" group-title="Korea",KR: EBS
+rtmp://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/jtbc.png" group-title="Korea",KR: JTBC
+http://edge2.everyon.tv/etv2sb/pld343/chunklist_w753097417.m3u8
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/kbs1.png" group-title="Korea",KR: KBS 1
+rtmp://live.kbskme.gscdn.com/1tv/_definst_/1tv_5.streamnews24_home_800.stream/?id=2101&si=2&secure=NzJjM2E5MjA3MDgyYmU0MWIyODhiYWMzYzZlMzA2ZDRlYzkxYzNhMTlhMDdmZWQzYWMzNzM0Mjk2NGJkNWJkZjk4ZTg1OWRiMTc1ZjU2OTc3MTI3Y2U1NWM4Y2MyNWU2Y2RmZDFhMTAzNjllMzI5Yzk0MGU2N2FhNThjZTdiNTQ3NmQ2YTJhOGQyNzVmMTNiMTJiZmMxMDJiZTZiZGNkYTQwZDY0ZWQ4Y2Q5Y2IzMjlmZTBkZTk2NGJmZmNmZDE4MmVjZTJmZjc3YTdhYjk0YjQxOGM1MDk3N2E3YjZkZWJkOTcxODY2OWFiODRkM2NhODc4YjE5MzgzODAwZGI3ZjFiMDIzNzY1MGQ5ZDYyNTdmMmUzM2RlOTE2NWY4MGEw&csu=false
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/kbs2.png" group-title="Korea",KR: KBS 2 
+rtmp://live.kbskme.gscdn.com/2tv/_definst_/2tv_5.streamnews24_home_800.stream/?id=2101&si=3&secure=Y2JhYjYxM2Y5OWU1N2U3ZTk2NmQzNmY3NjQ5NzNiODgxOGVlZTRhMTE2NDMzY2NlZGM1MzllMGVmMDI1YWNkZGUxODI2MDI0ZWM0YWM0M2ZhZmM1NmFhOTVhNDc5MjY2ZWYyYWFlMjcwMzFhNmJmNDJlODAzYmVmYTgxZjU3YzYxYTdkNDJhYmI3OGU4Y2M2NWEzOTcwM2Y2YTQ4YjhlMGFkZTRlZjI5ZTI1ZDk5YzJhMzZhZTdlNWE4Y2VhNjU2NGRjOTFhNmI5ZjA3ZDA0ZDc5Nzk2ODkwYjcwMTZkOTRkYTQ3YjM5ZjBlODJlNjZmZDIyMzc1NGViMTQ0MzQzNmZmMzBiOTg2ZDRmZGMwNDE4ZDEwNGEwMzgzN2ZhYzBj&csu=false
+#EXTINF:-1 tvg-logo="" group-title="Korea",KR: 24 KBS
+rtmp://news24kbs-2.gscdn.com/news24_home_800/_definst_//news24_home_800.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDk0ZDBjODI1OGZkN2Q0YWNlN2ZkYmYyZTU0NWJiNDkwMjMxM2MxYmI1MWU4N2I2ODA0ZWI4NjE4NDM3NTM0NmY2OGExN2QwNmQ5ZmMxMTlhNzdkMWYxOTY0YmNkYTExNmI1NGFkZjRhNWEwMDhmMmFlNGM5ZTQyOGE1YmM4Y2Y1YTYxMTMyNWUwNDczYmQ1MzU2NjZhZWU5ZWFlOWJhNmZmZTcxZTFjODA3YmExZTc4ZDg4YjZlMTFkZWZiOTE5ODBhN2IwMTkxYjIzZDNlNzAyODllNDIwYzZiMjA5NzU0YTFkYmJiYTZmZmM5NDhlOWIwYzA3Yzg3ZmJiZGU3YmUzMTJiMTM5N2U0ODQ3NDE2YzlhOGNmZDRlYjlmNTkyMzNjODc3MDFkMzU4ZTdmNjhhNmNkMWFlMzIzZGRmYzZi&csu=false
 #EXTINF:-1 tvg-logo="" group-title="Korea",KR: PLAYY WEST
 http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",KR: FOX SPORTS
 http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Korea",KR: ARTE
 http://edge1.everyon.tv/etv1/phd35/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: CHANNEL A
-http://edge1.everyon.tv/etv1/phd251/chunklist_w1976174258.m3u8
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/channel-a.png" group-title="Korea",KR: CHANNEL A
+httphttp://edge1.everyon.tv/etv1/pld251/chunklist_w1994648692.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",ID: IDX TV 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000072/index.m3u8
@@ -84,19 +84,25 @@ http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:bsnews/chunklist_b2217
 http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:beritasatuenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/kita_tv_id.png" group-title="Indonesia",ID: KITA TV
 http://www.kitatv.com:1935/live/mp4:myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: NHK
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/arirang-tv.png" group-title="Indonesia",ID: ARIRANG
+http://edge1.everyon.tv/etv1sb/pld36/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/nhk-world.png" group-title="Indonesia",ID: NHK
 http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: NHK WORLD
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/nhk-world.png" group-title="Indonesia",ID: NHK WORLD
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: FRANCE 24
 http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_1200.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.zoptv.com/assets/logo/al-jazeera-english.png" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="News",ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG"  group-title="News",BLOOMBERG
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: RT NEWS
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.zoptv.com/assets/logo/cnn.png" tvg-name="BLOOMBERG"  group-title="News",CNN
+http://live.dianshibo.com/_ds/live.m3u8?id=cnn&auth=11f8c1b88e0c3c150b27bc5af27f17a76cd2ef6eae58fba984a41c8e102c309c
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.zoptv.com/assets/logo/cnn.png" tvg-name="BLOOMBERG"  group-title="News",CNN
+http://edge2.everyon.tv/etv2sb/pld1206/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/rt.png" group-title="Indonesia",ID: RT NEWS
 https://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
