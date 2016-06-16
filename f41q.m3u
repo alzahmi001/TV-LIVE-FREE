@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1, [COLOR yellow]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/tv-chosun.png" group-title="Korea",KR: TV CHOSUN
 rtmp://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/mbc-tv.png" group-title="Korea",KR: MBC 
@@ -23,7 +24,7 @@ http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
 http://edge1.everyon.tv/etv1/phd35/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/channel-a.png" group-title="Korea",KR: CHANNEL A
 httphttp://edge1.everyon.tv/etv1/pld251/chunklist_w1994648692.m3u8
-
+#EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",ID: IDX TV 
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000072/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_muslim.png" group-title="Indonesia",ID: MNC MUSLIM 
