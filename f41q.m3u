@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, [COLOR yellow]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/tv-chosun.png" group-title="Korea",KR: TV CHOSUN
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/tv-chosun.png" group-title="Korea",KR: TV CHOSUN [COLOR red]OFFLINE[/COLOR]
 rtmp://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/mbc-tv.png" group-title="Korea",KR: MBC 
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/mbc-tv.png" group-title="Korea",KR: MBC  [COLOR yellow]OFFLINE[/COLOR]
 http://1001-t.wice.cf:1935/live/mbc.stream/chunklist_w1301208457.m3u8
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/mbn.png" group-title="Korea",KR: MBN 
 http://edge1.everyon.tv/etv1/pld17/chunklist_w548332220.m3u8
