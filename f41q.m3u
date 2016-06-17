@@ -51,21 +51,21 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_drama.png" group-title="Indonesia",[COLOR orange] DRAMA CHANNEL [/COLOR]
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",[COLOR orange] TRANS TV [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160615123820&etime=20160615163820&encoded=0f120cf931405881bd9e1
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",[COLOR orange] TRANS 7 [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160615123909&etime=20160615163909&encoded=0e9fb0ded7b18bc82ebef
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160617135031&etime=20160617175031&encoded=0288468eb498398862e5b
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",[COLOR orange] TRANS 7 [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160617135227&etime=20160617175227&encoded=02f96f47dcf81bf49f176
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="Indonesia",[COLOR orange] KOMPAS [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20160615124007&etime=20160615164007&encoded=0677df32a71bc21469483
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20160617135345&etime=20160617175345&encoded=0cba7ed88de562c5b42f3
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="Indonesia",[COLOR orange] TV ONE [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1232000000.m3u8?stime=20160615124102&etime=20160615164102&encoded=0a2b24438128dd86610c0
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1232000000.m3u8?stime=20160617135506&etime=20160617175506&encoded=032c10c7bf740f4d18526
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="Indonesia",[COLOR orange] METRO TV USEE [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1232000000.m3u8?stime=20160615124200&etime=20160615164200&encoded=0ccd57c2bca59fad5877e
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1232000000.m3u8?stime=20160617135629&etime=20160617175629&encoded=020cd48a95c48dfd1ed48
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="Indonesia",[COLOR orange] ANTV [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20160615124253&etime=20160615164253&encoded=04e1d7ac62a941c275f9a
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20160617135734&etime=20160617175734&encoded=0c1f98d456b9c97cf6392
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",[COLOR orange] NET [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:bd5f8644de53/chunklist_b1328000.m3u8?stime=20160615124350&etime=20160615164350&encoded=0c484d4db8ddda67e5286
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:bd5f8644de53/chunklist_b1328000.m3u8?stime=20160617135900&etime=20160617175900&encoded=0d3da3e9bd5ff94b82a87
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_bloomtv_big1.png" group-title="Indonesia",[COLOR orange] JAK TV [/COLOR]
-http://edge.telin.swiftserve.com/live/sejXc8RhId_livetv-sbr/f1c6a490c135/chunklist.m3u8?stime=20160615120000&etime=20160615160000&encoded=0de1c80a988a53408c3ab&
+http://edge.telin.swiftserve.com/live/sejXc8RhId_livetv-sbr/f1c6a490c135/chunklist.m3u8?stime=20160617130000&etime=20160617170000&encoded=06eb645e089a8f534d708&
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",[COLOR orange] SCTV [/COLOR]
 http://119.235.249.60:1935/eratvonline/live/chunklist_w1015527562.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",[COLOR orange] FOX PREMIUM [/COLOR]
@@ -82,19 +82,19 @@ http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:bsnews/chunklist_b2217
 http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:beritasatuenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/kita_tv_id.png" group-title="Indonesia",[COLOR orange] KITA TV [/COLOR]
 http://www.kitatv.com:1935/live/mp4:myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/arirang-tv.png" group-title="Indonesia",ID: ARIRANG
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/arirang-tv.png" group-title="Indonesia",[COLOR red] ARIRANG [/COLOR]
 http://edge1.everyon.tv/etv1sb/pld36/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/nhk-world.png" group-title="Indonesia",ID: NHK
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/nhk-world.png" group-title="Indonesia",[COLOR red] NHK [/COLOR]
 http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/nhk-world.png" group-title="Indonesia",ID: NHK WORLD
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/nhk-world.png" group-title="Indonesia",[COLOR red] NHK WORLD [/COLOR]
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: FRANCE 24
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",[COLOR red] FRANCE 24 [/COLOR]
 http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_1200.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.zoptv.com/assets/logo/al-jazeera-english.png" tvg-name="AL JAZEERA ENGLISH"  group-title="News",AL JAZEERA ENGLISH
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="News",ABC NEWS
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC NEWS"  group-title="News",[COLOR red]ABC NEWS [/COLOR]
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG"  group-title="News",BLOOMBERG
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG"  group-title="News",[COLOR red]BLOOMBERG [/COLOR]
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.zoptv.com/assets/logo/cnn.png" tvg-name="BLOOMBERG"  group-title="News",CNN
 http://live.dianshibo.com/_ds/live.m3u8?id=cnn&auth=11f8c1b88e0c3c150b27bc5af27f17a76cd2ef6eae58fba984a41c8e102c309c
