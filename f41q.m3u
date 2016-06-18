@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/tv-chosun.png" group-title="Korea",[COLOR orange]KR: TV CHOSUN[/COLOR]
-rtmp://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream
+#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/tv-chosun.png" group-title="Korea",[COLOR lime]KR: TV CHOSUN[/COLOR]
+http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2209.ts
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/mbc-tv.png" group-title="Korea",KR: MBC  [COLOR yellow]OFFLINE[/COLOR]
 http://1001-t.wice.cf:1935/live/mbc.stream/chunklist_w1301208457.m3u8
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/mbn.png" group-title="Korea",KR: MBN 
