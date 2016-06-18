@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/tv-chosun.png" group-title="Korea",[COLOR lime]KR: TV CHOSUN[/COLOR]
 http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2209.ts
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/mbc-tv.png" group-title="Korea",KR: MBC  [COLOR yellow]OFFLINE[/COLOR]
-http://1001-t.wice.cf:1935/live/mbc.stream/chunklist_w1301208457.m3u8
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_tv_hd_Web.smil/playlist.m3u8?e=1466290747&a=ID&h=75add121b33a405ce74dbac509fb3c9e&domain=production&key1=dittotv.com~Chrome~50&key2=anonymous~anonymous~no~NA~NA&key3=live~
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/mbn.png" group-title="Korea",KR: MBN 
 http://edge1.everyon.tv/etv1/pld17/chunklist_w548332220.m3u8
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/ebs-tv.png" group-title="Korea",KR: EBS
