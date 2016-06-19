@@ -4,7 +4,7 @@ http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2209.ts
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dittotv/secure/draco/Shows/Ditto_Live_Images/01_ZEETV-HD-India-115x95.png" group-title="India",[COLOR lime] ZEE TV [/COLOR]
 http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_tv_hd_Web.smil/playlist.m3u8?e=1466290747&a=ID&h=75add121b33a405ce74dbac509fb3c9e&domain=production&key1=dittotv.com~Chrome~50&key2=anonymous~anonymous~no~NA~NA&key3=live~
 #EXTINF:-1 tvg-logo="http://zeel.bc.cdn.bitgravity.com/shows_posters/Zee_Cinema_HD_115x95.png" group-title="India",[COLOR lime] ZEE CINEMA [/COLOR]
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_cinema_hd_Web.smil/playlist.m3u8?e=1466291606&a=ID&h=3f7d61525b1486cdc498f9b950e6d3b9&domain=production&key1=dittotv.com~Chrome~50&key2=anonymous~anonymous~no~NA~NA&key3=live~
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_cinema_hd_Web.smil/playlist.m3u8?e=1466347124&a=ID&h=24e6767215de1b29d88baa5b4f0f1992&domain=production&key1=dittotv.com~Chrome~50&key2=anonymous~anonymous~no~NA~NA&key3=live~
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/ebs-tv.png" group-title="Korea",KR: EBS
 rtmp://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/jtbc.png" group-title="Korea",KR: JTBC
