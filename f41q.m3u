@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/tv-chosun.png" group-title="Korea",[COLOR lime]KR: TV CHOSUN[/COLOR]
 http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2209.ts
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dittotv/secure/draco/Shows/Ditto_Live_Images/01_ZEETV-HD-India-115x95.png" group-title="India",[COLOR lime] ZEE TV [/COLOR]
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_tv_hd_Web.smil/playlist.m3u8?e=1466348416&a=ID&h=f845a5a1614895eeadfa950b7a9afa1a&domain=production&key1=dittotv.com~Chrome~50&key2=anonymous~anonymous~no~NA~NA&key3=live~
+https://r17---sn-a5m7ln7z.c.docs.google.com/videoplayback?requiressl=yes&id=b2252f1fe3ccd6af&itag=37&source=webdrive&app=texmex&ip=2604:180:3:c1f::e6c9&ipbits=32&expire=1466470962&sparams=requiressl%2Cid%2Citag%2Csource%2Cip%2Cipbits%2Cexpire&signature=7A8DB77A6627E4326E5630AE9ECDA447CDAC3485.50C2ECD3C15A8D393283B95C009D343A4173BAAA&key=ck2&mm=30&mn=sn-a5m7ln7z&ms=nxu&mt=1466456056&mv=u&nh=IgpwcjAxLmxheDAyKgkxMjcuMC4wLjE&pl=53&mime=video/mp4&title=%5B1080p%5D%20LK21.TV%20The%20Final%20Master%20%282015%29
 #EXTINF:-1 tvg-logo="http://zeel.bc.cdn.bitgravity.com/shows_posters/Zee_Cinema_HD_115x95.png" group-title="India",[COLOR lime] ZEE CINEMA [/COLOR]
 http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_cinema_hd_Web.smil/playlist.m3u8?e=1466347124&a=ID&h=24e6767215de1b29d88baa5b4f0f1992&domain=production&key1=dittotv.com~Chrome~50&key2=anonymous~anonymous~no~NA~NA&key3=live~
 #EXTINF:-1 tvg-logo="http://zeel.bc.cdn.bitgravity.com/shows_posters/Zee-Telugu-10-Years-115x95.png" group-title="Korea",[COLOR lime] ZEE TELUGU [/COLOR]
