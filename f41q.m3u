@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/tv-chosun.png" group-title="Korea",[COLOR lime]KR: TV CHOSUN[/COLOR]
 http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2209.ts
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dittotv/secure/draco/Shows/Ditto_Live_Images/01_ZEETV-HD-India-115x95.png" group-title="India",[COLOR lime] ZEE TV [/COLOR]
-https://r17---sn-a5m7ln7z.c.docs.google.com/videoplayback?requiressl=yes&id=b2252f1fe3ccd6af&itag=37&source=webdrive&app=texmex&ip=2604:180:3:c1f::e6c9&ipbits=32&expire=1466470962&sparams=requiressl%2Cid%2Citag%2Csource%2Cip%2Cipbits%2Cexpire&signature=7A8DB77A6627E4326E5630AE9ECDA447CDAC3485.50C2ECD3C15A8D393283B95C009D343A4173BAAA&key=ck2&mm=30&mn=sn-a5m7ln7z&ms=nxu&mt=1466456056&mv=u&nh=IgpwcjAxLmxheDAyKgkxMjcuMC4wLjE&pl=53&mime=video/mp4&title=%5B1080p%5D%20LK21.TV%20The%20Final%20Master%20%282015%29
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD66L240P/chunklist_b700000.m3u8
 #EXTINF:-1 tvg-logo="http://zeel.bc.cdn.bitgravity.com/shows_posters/Zee_Cinema_HD_115x95.png" group-title="India",[COLOR lime] ZEE CINEMA [/COLOR]
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_cinema_hd_Web.smil/playlist.m3u8?e=1466347124&a=ID&h=24e6767215de1b29d88baa5b4f0f1992&domain=production&key1=dittotv.com~Chrome~50&key2=anonymous~anonymous~no~NA~NA&key3=live~
+http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD500L240P/chunklist_b700000.m3u8
 #EXTINF:-1 tvg-logo="http://zeel.bc.cdn.bitgravity.com/shows_posters/Zee-Telugu-10-Years-115x95.png" group-title="Korea",[COLOR lime] ZEE TELUGU [/COLOR]
 http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_telugu_Web.smil/playlist.m3u8?e=1466348540&a=ID&h=4f542b7d636d71d863bddba92dc380ab&domain=production&key1=dittotv.com~Chrome~50&key2=anonymous~anonymous~no~NA~NA&key3=live~
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/jtbc.png" group-title="Korea",KR: JTBC
@@ -51,21 +51,21 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_drama.png" group-title="Indonesia",[COLOR orange] DRAMA CHANNEL [/COLOR]
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",[COLOR orange] TRANS TV [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160619133110&etime=20160619173110&encoded=0329f6ecaeadb867746f8
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160626032343&etime=20160626072343&encoded=00c473f34538933f97f45
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",[COLOR orange] TRANS 7 [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160619133155&etime=20160619173155&encoded=00cc6149d925b62a4a4cd
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160626032447&etime=20160626072447&encoded=00f5a5e91dfd806091fed
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="Indonesia",[COLOR orange] KOMPAS [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20160619133230&etime=20160619173230&encoded=06756a6e62f3ccc00232b
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20160626032521&etime=20160626072521&encoded=0346c21b0568de6cf173e
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="Indonesia",[COLOR orange] TV ONE [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1232000000.m3u8?stime=20160619133307&etime=20160619173307&encoded=08ce37fcc724f677e197e
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1232000000.m3u8?stime=20160626032619&etime=20160626072619&encoded=0f4ff5efa1ba2f6faa114
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="Indonesia",[COLOR orange] METRO TV USEE [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1232000000.m3u8?stime=20160619133356&etime=20160619173356&encoded=08c35783db4f12ebbe801
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1232000000.m3u8?stime=20160626032816&etime=20160626072816&encoded=040792537248e95df9e34
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="Indonesia",[COLOR orange] ANTV [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20160619133425&etime=20160619173425&encoded=0cc5de26177aa9e7850a4
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20160626032730&etime=20160626072730&encoded=0bdc4d793d75389e59a73
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",[COLOR orange] NET [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:bd5f8644de53/chunklist_b1328000.m3u8?stime=20160618140027&etime=20160618180027&encoded=0404f3e1d92109decbac3
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:bd5f8644de53/chunklist_b1328000.m3u8?stime=20160626032857&etime=20160626072857&encoded=039c7b212d4c762a8cb37
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_bloomtv_big1.png" group-title="Indonesia",[COLOR orange] JAK TV [/COLOR]
-http://edge.telin.swiftserve.com/live/sejXc8RhId_livetv-sbr/f1c6a490c135/chunklist.m3u8?stime=20160618140000&etime=20160618180000&encoded=0a0ac7e0a41ba3a339f49&
+http://edge.telin.swiftserve.com/live/sejXc8RhId_livetv-sbr/f1c6a490c135/chunklist.m3u8?stime=20160626030000&etime=20160626070000&encoded=013d971a27428e51afa60&
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",[COLOR orange] SCTV [/COLOR]
 http://119.235.249.60:1935/eratvonline/live/chunklist_w1015527562.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",[COLOR orange] FOX PREMIUM [/COLOR]
@@ -118,8 +118,6 @@ http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/103.m3u8
 rtmp://aljazeeraflashlivefs.fplive.net:443/aljazeeraflashlive-live/aljazeera_doc_high
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ALFORAT
 http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: IHc
-http://180.250.29.21/jhos/ihc/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.moskvatv.org/logo/1kanal.jpg" group-title="",RUSIA: ORT TV
