@@ -51,21 +51,19 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000039/index1024.m3u
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_drama.png" group-title="Indonesia",[COLOR orange] DRAMA CHANNEL [/COLOR]
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",[COLOR orange] TRANS TV [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160626032343&etime=20160626072343&encoded=00c473f34538933f97f45
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1232000000.m3u8?stime=20160711074159&etime=20160711114159&encoded=0064c7e3be4b3f1908a9b
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",[COLOR orange] TRANS 7 [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160626032447&etime=20160626072447&encoded=00f5a5e91dfd806091fed
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1232000000.m3u8?stime=20160711074524&etime=20160711114524&encoded=0b97f761b12ae6b8509ea
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="Indonesia",[COLOR orange] KOMPAS [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20160626032521&etime=20160626072521&encoded=0346c21b0568de6cf173e
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20160711074618&etime=20160711114618&encoded=0db4769e6874c6c3565e1
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="Indonesia",[COLOR orange] TV ONE [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1232000000.m3u8?stime=20160626032619&etime=20160626072619&encoded=0f4ff5efa1ba2f6faa114
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1232000000.m3u8?stime=20160711074659&etime=20160711114659&encoded=0868129b2a9b08aca58bf
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="Indonesia",[COLOR orange] METRO TV USEE [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1232000000.m3u8?stime=20160626032816&etime=20160626072816&encoded=040792537248e95df9e34
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1232000000.m3u8?stime=20160711074745&etime=20160711114745&encoded=0eb12566021a3d314255b
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="Indonesia",[COLOR orange] ANTV [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20160626032730&etime=20160626072730&encoded=0bdc4d793d75389e59a73
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20160711074828&etime=20160711114828&encoded=0a413606b700cdacf75de
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",[COLOR orange] NET [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:bd5f8644de53/chunklist_b1328000.m3u8?stime=20160626032857&etime=20160626072857&encoded=039c7b212d4c762a8cb37
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_bloomtv_big1.png" group-title="Indonesia",[COLOR orange] JAK TV [/COLOR]
-http://edge.telin.swiftserve.com/live/sejXc8RhId_livetv-sbr/f1c6a490c135/chunklist.m3u8?stime=20160626030000&etime=20160626070000&encoded=013d971a27428e51afa60&
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:bd5f8644de53/chunklist_b1328000.m3u8?stime=20160711074910&etime=20160711114910&encoded=03bce74a288e9af8aca79
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",[COLOR orange] SCTV [/COLOR]
 http://119.235.249.60:1935/eratvonline/live/chunklist_w1015527562.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",[COLOR orange] FOX PREMIUM [/COLOR]
