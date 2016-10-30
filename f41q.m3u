@@ -1,28 +1,48 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/tv-chosun.png" group-title="Korea",[COLOR lime]KR: TV CHOSUN[/COLOR]
-http://orbit-iptv.com:2500/live/imtiaz/imtiaz/2209.ts
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dittotv/secure/draco/Shows/Ditto_Live_Images/01_ZEETV-HD-India-115x95.png" group-title="India",[COLOR lime] ZEE TV [/COLOR]
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD66L240P/chunklist_b700000.m3u8
-#EXTINF:-1 tvg-logo="http://zeel.bc.cdn.bitgravity.com/shows_posters/Zee_Cinema_HD_115x95.png" group-title="India",[COLOR lime] ZEE CINEMA [/COLOR]
-http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD500L240P/chunklist_b700000.m3u8
-#EXTINF:-1 tvg-logo="http://zeel.bc.cdn.bitgravity.com/shows_posters/Zee-Telugu-10-Years-115x95.png" group-title="Korea",[COLOR lime] ZEE TELUGU [/COLOR]
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_telugu_Web.smil/playlist.m3u8?e=1466348540&a=ID&h=4f542b7d636d71d863bddba92dc380ab&domain=production&key1=dittotv.com~Chrome~50&key2=anonymous~anonymous~no~NA~NA&key3=live~
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/jtbc.png" group-title="Korea",KR: JTBC
-http://edge2.everyon.tv/etv2sb/pld343/chunklist_w753097417.m3u8
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/kbs1.png" group-title="Korea",KR: KBS 1
-rtmp://live.kbskme.gscdn.com/1tv/_definst_/1tv_5.streamnews24_home_800.stream/?id=2101&si=2&secure=NzJjM2E5MjA3MDgyYmU0MWIyODhiYWMzYzZlMzA2ZDRlYzkxYzNhMTlhMDdmZWQzYWMzNzM0Mjk2NGJkNWJkZjk4ZTg1OWRiMTc1ZjU2OTc3MTI3Y2U1NWM4Y2MyNWU2Y2RmZDFhMTAzNjllMzI5Yzk0MGU2N2FhNThjZTdiNTQ3NmQ2YTJhOGQyNzVmMTNiMTJiZmMxMDJiZTZiZGNkYTQwZDY0ZWQ4Y2Q5Y2IzMjlmZTBkZTk2NGJmZmNmZDE4MmVjZTJmZjc3YTdhYjk0YjQxOGM1MDk3N2E3YjZkZWJkOTcxODY2OWFiODRkM2NhODc4YjE5MzgzODAwZGI3ZjFiMDIzNzY1MGQ5ZDYyNTdmMmUzM2RlOTE2NWY4MGEw&csu=false
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/kbs2.png" group-title="Korea",KR: KBS 2 
-rtmp://live.kbskme.gscdn.com/2tv/_definst_/2tv_5.streamnews24_home_800.stream/?id=2101&si=3&secure=Y2JhYjYxM2Y5OWU1N2U3ZTk2NmQzNmY3NjQ5NzNiODgxOGVlZTRhMTE2NDMzY2NlZGM1MzllMGVmMDI1YWNkZGUxODI2MDI0ZWM0YWM0M2ZhZmM1NmFhOTVhNDc5MjY2ZWYyYWFlMjcwMzFhNmJmNDJlODAzYmVmYTgxZjU3YzYxYTdkNDJhYmI3OGU4Y2M2NWEzOTcwM2Y2YTQ4YjhlMGFkZTRlZjI5ZTI1ZDk5YzJhMzZhZTdlNWE4Y2VhNjU2NGRjOTFhNmI5ZjA3ZDA0ZDc5Nzk2ODkwYjcwMTZkOTRkYTQ3YjM5ZjBlODJlNjZmZDIyMzc1NGViMTQ0MzQzNmZmMzBiOTg2ZDRmZGMwNDE4ZDEwNGEwMzgzN2ZhYzBj&csu=false
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: 24 KBS
-rtmp://news24kbs-2.gscdn.com/news24_home_800/_definst_//news24_home_800.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDk0ZDBjODI1OGZkN2Q0YWNlN2ZkYmYyZTU0NWJiNDkwMjMxM2MxYmI1MWU4N2I2ODA0ZWI4NjE4NDM3NTM0NmY2OGExN2QwNmQ5ZmMxMTlhNzdkMWYxOTY0YmNkYTExNmI1NGFkZjRhNWEwMDhmMmFlNGM5ZTQyOGE1YmM4Y2Y1YTYxMTMyNWUwNDczYmQ1MzU2NjZhZWU5ZWFlOWJhNmZmZTcxZTFjODA3YmExZTc4ZDg4YjZlMTFkZWZiOTE5ODBhN2IwMTkxYjIzZDNlNzAyODllNDIwYzZiMjA5NzU0YTFkYmJiYTZmZmM5NDhlOWIwYzA3Yzg3ZmJiZGU3YmUzMTJiMTM5N2U0ODQ3NDE2YzlhOGNmZDRlYjlmNTkyMzNjODc3MDFkMzU4ZTdmNjhhNmNkMWFlMzIzZGRmYzZi&csu=false
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: PLAYY WEST
-http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: FOX SPORTS
-http://edge1.everyon.tv/etv1/phd197/chunklist_w1486078391.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Korea",KR: ARTE
-http://edge1.everyon.tv/etv1/phd35/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/channel-a.png" group-title="Korea",KR: CHANNEL A
-httphttp://edge1.everyon.tv/etv1/pld251/chunklist_w1994648692.m3u8
+#EXTINF:-1,Al Hayat 2
+http://72.88.202.45:9003
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9004
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9007
+#EXTINF:-1,ABN Sat
+http://72.88.202.45:9009
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9011
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9013
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9015
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9016
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9022
+#EXTINF:-1,Chryst TV
+http://72.88.202.45:9025
+#EXTINF:-1,STMark TV
+http://72.88.202.45:9027
+#EXTINF:-1,MME
+http://72.88.202.45:9029
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9034
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9035
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9036
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9037
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9038
+#EXTINF:-1,ETV
+http://72.88.202.45:9039
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9040
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9041
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9042
+#EXTINF:-1,Arabic channel
+http://72.88.202.45:9045
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",[COLOR orange] IDX TV [/COLOR]
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000072/index.m3u8
