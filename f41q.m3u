@@ -94,443 +94,893 @@ rtmp://aljazeeraflashlivefs.fplive.net:443/aljazeeraflashlive-live/aljazeera_doc
 http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.moskvatv.org/logo/1kanal.jpg" group-title="",RUSIA: ORT TV
-http://62.210.91.25:8080/hls1/ORT-TV.m3u8?token=qOB4A_9svqyhw9BZUzraxw&e=1466137277
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: MOVIE 
-http://106.120.175.80:55336/tslive/c20_lb_dianying_high_t10/c20_lb_dianying_high_t10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 1
-http://114.112.91.199:9009/live/chid=601
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 2
-http://114.112.91.199:9009/live/chid=602
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH KIDS 3
-http://114.112.91.199:9009/live/chid=603
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 4
-http://114.112.91.199:9009/live/chid=604
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 5
-http://114.112.91.199:9009/live/chid=605
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 6
-http://114.112.91.199:9009/live/chid=606
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 7
-http://114.112.91.199:9009/live/chid=607
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 8
-http://114.112.91.199:9009/live/chid=608
-#EXTINF:-1 tvg-logo="" group-title="CH",CNA: CH 9
-http://114.112.91.199:9009/live/chid=609
-#EXTINF:-1 tvg-logo="" group-title="PLTV",[COLOR orange]CCTV 9[/COLOR] 32
-http://183.207.249.6/PLTV/3/224/3221225532/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 33
-http://183.207.249.6/PLTV/3/224/3221225533/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",[COLOR orange]CCTV 4[/COLOR] 34
-http://183.207.249.6/PLTV/3/224/3221225534/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 35
-http://183.207.249.6/PLTV/3/224/3221225535/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 36
-http://183.207.249.6/PLTV/3/224/3221225536/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 37
-http://183.207.249.6/PLTV/3/224/3221225537/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 38
-http://183.207.249.6/PLTV/3/224/3221225538/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 39
-http://183.207.249.6/PLTV/3/224/3221225539/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 40
-http://183.207.249.6/PLTV/3/224/3221225540/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 41
-http://183.207.249.6/PLTV/3/224/3221225541/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 42
-http://183.207.249.6/PLTV/3/224/3221225542/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 43
-http://183.207.249.6/PLTV/3/224/3221225543/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 44
-http://183.207.249.6/PLTV/3/224/3221225544/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 45
-http://183.207.249.6/PLTV/3/224/3221225545/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 46
-http://183.207.249.6/PLTV/3/224/3221225546/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 47
-http://183.207.249.6/PLTV/3/224/3221225547/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 48
-http://183.207.249.6/PLTV/3/224/3221225548/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 49
-http://183.207.249.6/PLTV/3/224/3221225549/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 50
-http://183.207.249.6/PLTV/3/224/3221225550/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 51
-http://183.207.249.6/PLTV/3/224/3221225551/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 52
-http://183.207.249.6/PLTV/3/224/3221225552/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 53
-http://183.207.249.6/PLTV/3/224/3221225553/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 54
-http://183.207.249.6/PLTV/3/224/3221225554/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 55
-http://183.207.249.6/PLTV/3/224/3221225555/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 56
-http://183.207.249.6/PLTV/3/224/3221225556/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 57
-http://183.207.249.6/PLTV/3/224/3221225557/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 58
-http://183.207.249.6/PLTV/3/224/3221225558/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 59
-http://183.207.249.6/PLTV/3/224/3221225559/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 60
-http://183.207.249.6/PLTV/3/224/3221225560/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 61
-http://183.207.249.6/PLTV/3/224/3221225561/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 62
-http://183.207.249.6/PLTV/3/224/3221225562/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 64
-http://183.207.249.6/PLTV/3/224/3221225564/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 65
-http://183.207.249.6/PLTV/3/224/3221225565/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 66
-http://183.207.249.6/PLTV/3/224/3221225566/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 67
-http://183.207.249.6/PLTV/3/224/3221225567/playstream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PLTV",CNA: PLTV 68
-http://183.207.249.6/PLTV/3/224/3221225568/playstream.m3u8
-
-# EXTM3U
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv01.png" group-title="CHINA",CCTV1 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000158&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHINA",CCTV1 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000007&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv02.png" group-title="CHINA",CCTV2 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000008&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1  group-title="CHINA",CCTV2 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000139&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv03.png" group-title="CHINA",CCTV3 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000152&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV3 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000018&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv04.png" group-title="CHINA",CCTV4 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000140&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV4 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000014&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv05.png" group-title="CHINA",CCTV5 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000151&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV5 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000019&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv05_plus.png" group-title="CHINA",CCTV5+HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000160&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv06.png" group-title="CHINA",CCTV6 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000159&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV6 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000020&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv07.png" group-title="CHINA",CCTV7 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000141&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV7 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000009&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv08.png" group-title="CHINA",CCTV8 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000150&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV8 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000021&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv09.png" group-title="CHINA",CCTV9 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000142&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV9 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000022&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv10.png" group-title="CHINA",CCTV10 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000143&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV10 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000010&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv11.png" group-title="CHINA",CCTV11 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000011&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv12.png" group-title="CHINA",CCTV12 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000144&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV12 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000012&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv13.png" group-title="CHINA",CCTV13
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000023&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv14.png" group-title="CHINA",CCTV14 HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000145&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="CHINA",CCTV14 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000024&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv15.png" group-title="CHINA",CCTV15 SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000013&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cctv_news_english.png" group-title="CHINA",CCTV NEWS SD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000016&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Dragon TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000161&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Tianjin TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000162&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Shandong TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000163&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Hubei TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000164&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Anhui TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000165&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Hunan Satellite TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000166&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Zhejiang TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000167&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Jiangsu Satellite TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000168&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Beijing TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000169&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Chongqing TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000170&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Heilongjiang TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000171&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Guangdong TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000172&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Shenzhen Satellite TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000173&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Liaoning TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000137&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Sichuan TV HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000138&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Golden Eagle Documentary
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000134&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Beijing documentary
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000135&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Shanghai Documentary
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000136&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", high-definition video HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000146&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", New Vision HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000147&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", ATV Asia Taiwan
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000148&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", HD documentary
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000149&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", 3D experience channels
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000153&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Phoenix IT HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000154&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Phoenix HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000155&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Hong Kong Phoenix HD
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000156&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", HKC an HD movie
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000157&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", HKC an HD movie
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000103&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", video
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000102&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Chinese Film
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000104&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", China Weather Channel
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000015&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", early education
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000083&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", MIDDLE SCHOOL STUDENTS
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000130&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", CETV1
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000061&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", CETV2
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000132&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", CETV4
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000133&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Shandong Education
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000106&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", the Xinhua Chinese
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000126&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", China Yellow River
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000113&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Yellow TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000001&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Anhui TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000114&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired,", Henan TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000116&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired" ,Ningxia TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000117&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Sichuan TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000118&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Jiangxi TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000119&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired" ,Shaanxi TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000120&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired,", Agriculture and Forestry TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000121&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Gansu TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000122&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Beijing TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000025&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Tianjin TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000026&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Shanxi TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000027&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Shandong TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000028&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Hebei TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000029&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Zhejiang TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000030&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Travel Channel
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000031&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Heilongjiang TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000032&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Jilin TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000033&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Yanbian TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000034&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Tibet TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000035&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Xinjiang TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000036&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Southeast TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000037&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Guizhou TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000038&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Jiangsu Satellite TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000039&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Liaoning TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000041&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Qinghai Satellite TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000059&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Hubei TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000060&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Dragon TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000063&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Inner Mongolia Satellite TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000064&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Guangxi TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000096&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Guangdong TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000097&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Yunnan TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000098&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Shenzhen Satellite TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000099&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Corps TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000101&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Jiajia Cartoon
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000100&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Golden Eagle cartoon
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000042&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", excellent Man cartoon
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000017&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Hyun action cartoon
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000062&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Shinco Animation
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000128&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", cartoon show
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000044&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", world geography
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000065&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", military defense
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000066&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Storm Music
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000067&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", culture of quality CCTV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000068&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", nostalgic theater
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000069&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", football situation
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000070&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Storm Theater
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000071&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", the first theater
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000072&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired" ,world's best sports
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000045&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired,", the entire documentary
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000046&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Oriental Financial
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000047&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Fu elderly
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000048&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", happy color
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000049&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", game situation
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000050&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", voyage of discovery
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000051&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", global spectacle
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000052&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", old story
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000053&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", calligraphy
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000054&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", women's fashion
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000055&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", modern women
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000056&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", CTV Shopping
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000057&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", health
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000058&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", treasure trove of artifacts
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000131&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", pretty makeup
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000073&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", study world
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000074&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", pear channel
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000075&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", racing game
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000076&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", tea Channels
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000077&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", DV life
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000078&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Go
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000079&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Automobiles
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000080&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", photography channel
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000081&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", remedial English
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000082&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Online Lottery
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000084&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", martial arts world
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000085&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF:-1 group-title="平遥有线",U BABY TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000086&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Urban Construction
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000087&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", world rule of law
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000088&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", laughter Theatre
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000089&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", charm music
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000090&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Colorful Drama
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000091&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired" ,golden channel
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000092&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired" ,Lifestyle
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000093&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired" ,Fast Cars
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000094&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired" ,city theater
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000095&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired" ,Celestial Movies
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000105&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", TVB Galaxia
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000107&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired" ,Sun TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000108&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Macau Lotus
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000109&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Phoenix IT
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000110&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Phoenix
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000111&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", HBO
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000123&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Star TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000124&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", CETV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000125&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Guoxue Channel
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000127&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Happy Fishing
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000129&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Shanxi Television
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000002&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Shanxi public
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000003&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired" Shanxi Science and Education
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000004&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Shanxi Children
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000005&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired" Jinzhong News
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000006&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Pingyao TV
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000043&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
-#EXTINF: -1 Group-title = "Pingyao wired", Pingyao Information
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000174&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate
-#EXTINF: -1 Group-title = "Pingyao Wired", Wired Pingyao
-http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=T3Y704LL4Y54T3JVS9N5BAI25M1460162885K50008700W381696&programid=4200000158&playtoken=31609AZZAZAZZAZ1&verifycode=11814&rate=raw&auth=no
+#EXTINF:-1,NL: ZIGGO_SPORT_RACING
+http://live.softiptv.com:9900/live/3month/3month/17487.ts 
+#EXTINF:-1,NL: ZIGGO_SPORT_EXTRA
+http://live.softiptv.com:9900/live/3month/3month/17488.ts 
+#EXTINF:-1,NL: VERONICA
+http://live.softiptv.com:9900/live/3month/3month/17489.ts 
+#EXTINF:-1,NL: SBS-9
+http://live.softiptv.com:9900/live/3month/3month/17485.ts 
+#EXTINF:-1,NL: SBS-6
+http://live.softiptv.com:9900/live/3month/3month/17482.ts 
+#EXTINF:-1,NL: RTL-8
+http://live.softiptv.com:9900/live/3month/3month/17484.ts 
+#EXTINF:-1,NL: RTL-7
+http://live.softiptv.com:9900/live/3month/3month/17483.ts 
+#EXTINF:-1,NL: RTL-5
+http://live.softiptv.com:9900/live/3month/3month/17481.ts 
+#EXTINF:-1,NL: RTL-4
+http://live.softiptv.com:9900/live/3month/3month/17480.ts 
+#EXTINF:-1,NL: NPO3
+http://live.softiptv.com:9900/live/3month/3month/17479.ts 
+#EXTINF:-1,NL: NPO2
+http://live.softiptv.com:9900/live/3month/3month/17478.ts 
+#EXTINF:-1,NL: NPO1
+http://live.softiptv.com:9900/live/3month/3month/17477.ts 
+#EXTINF:-1,NL: NET-5
+http://live.softiptv.com:9900/live/3month/3month/17497.ts 
+#EXTINF:-1,NL: HBO3_HD
+http://live.softiptv.com:9900/live/3month/3month/17476.ts 
+#EXTINF:-1,NL: HBO2_HD
+http://live.softiptv.com:9900/live/3month/3month/17475.ts 
+#EXTINF:-1,NL: HBO1_HD
+http://live.softiptv.com:9900/live/3month/3month/17474.ts 
+#EXTINF:-1,NL: Fox_Sports6
+http://live.softiptv.com:9900/live/3month/3month/17505.ts 
+#EXTINF:-1,NL: Fox_Sports5
+http://live.softiptv.com:9900/live/3month/3month/17504.ts 
+#EXTINF:-1,NL: Fox_Sports4
+http://live.softiptv.com:9900/live/3month/3month/17503.ts 
+#EXTINF:-1,NL: Fox_Sports3
+http://live.softiptv.com:9900/live/3month/3month/17502.ts 
+#EXTINF:-1,NL: Fox_Sports2
+http://live.softiptv.com:9900/live/3month/3month/17501.ts 
+#EXTINF:-1,NL: Fox_Sports1
+http://live.softiptv.com:9900/live/3month/3month/17500.ts 
+#EXTINF:-1,NL: FILM1_SUNDANCE
+http://live.softiptv.com:9900/live/3month/3month/17492.ts 
+#EXTINF:-1,NL: FILM1_PREMIERE
+http://live.softiptv.com:9900/live/3month/3month/17491.ts 
+#EXTINF:-1,NL: DISCOVERY_ID
+http://live.softiptv.com:9900/live/3month/3month/17495.ts 
+#EXTINF:-1,NL: DISCOVERY
+http://live.softiptv.com:9900/live/3month/3month/17496.ts 
+#EXTINF:-1,NL: 13th_Street
+http://live.softiptv.com:9900/live/3month/3month/17499.ts 
+#EXTINF:-1,NL: NPO Zappelin Xtra/Humor TV
+http://live.softiptv.com:9900/live/3month/3month/16933.ts 
+#EXTINF:-1,NL: Nicktoons
+http://live.softiptv.com:9900/live/3month/3month/16934.ts 
+#EXTINF:-1,NL: Nickelodeon
+http://live.softiptv.com:9900/live/3month/3month/16935.ts 
+#EXTINF:-1,NL: Nick Jr
+http://live.softiptv.com:9900/live/3month/3month/16936.ts 
+#EXTINF:-1,NL: National Geographic HD
+http://live.softiptv.com:9900/live/3month/3month/16937.ts 
+#EXTINF:-1,NL: MTV HD
+http://live.softiptv.com:9900/live/3month/3month/16938.ts 
+#EXTINF:-1,NL: Ketnet HD
+http://live.softiptv.com:9900/live/3month/3month/16939.ts 
+#EXTINF:-1,NL: Film 1 Sundance
+http://live.softiptv.com:9900/live/3month/3month/16940.ts 
+#EXTINF:-1,NL: Film 1 Spotlight
+http://live.softiptv.com:9900/live/3month/3month/16941.ts 
+#EXTINF:-1,NL: Film 1 Premiere HD
+http://live.softiptv.com:9900/live/3month/3month/16942.ts 
+#EXTINF:-1,NL: Edge Sport HD
+http://live.softiptv.com:9900/live/3month/3month/16943.ts 
+#EXTINF:-1,NL: Disney Junior
+http://live.softiptv.com:9900/live/3month/3month/16944.ts 
+#EXTINF:-1,NL: Disney Channel HD
+http://live.softiptv.com:9900/live/3month/3month/16945.ts 
+#EXTINF:-1,NL: Crime & Investigation
+http://live.softiptv.com:9900/live/3month/3month/16946.ts 
+#EXTINF:-1,NL: Comedy Central
+http://live.softiptv.com:9900/live/3month/3month/16947.ts 
+#EXTINF:-1,NL: BBC Entertainment
+http://live.softiptv.com:9900/live/3month/3month/16948.ts 
+#EXTINF:-1,♣♣♣♣♣Turkish Channels♣♣♣♣♣
+http://live.softiptv.com:9900/live/3month/3month/7457.ts 
+#EXTINF:-1,TR: ULKE_TV_HD
+http://live.softiptv.com:9900/live/3month/3month/17525.ts 
+#EXTINF:-1,TR: TV8 HD
+http://live.softiptv.com:9900/live/3month/3month/18987.ts 
+#EXTINF:-1,TR: TRT WORLD
+http://live.softiptv.com:9900/live/3month/3month/18988.ts 
+#EXTINF:-1,TR: TRT MUZIK
+http://live.softiptv.com:9900/live/3month/3month/18989.ts 
+#EXTINF:-1,TR: TRT BELGESEL HD
+http://live.softiptv.com:9900/live/3month/3month/19005.ts 
+#EXTINF:-1,TR: TRT 1 HD
+http://live.softiptv.com:9900/live/3month/3month/18981.ts 
+#EXTINF:-1,TR: STAR HD
+http://live.softiptv.com:9900/live/3month/3month/18992.ts 
+#EXTINF:-1,TR: SINEMA 9
+http://live.softiptv.com:9900/live/3month/3month/18975.ts 
+#EXTINF:-1,TR: SINEMA 8
+http://live.softiptv.com:9900/live/3month/3month/18974.ts 
+#EXTINF:-1,TR: SINEMA 7
+http://live.softiptv.com:9900/live/3month/3month/18973.ts 
+#EXTINF:-1,TR: SINEMA 6
+http://live.softiptv.com:9900/live/3month/3month/18972.ts 
+#EXTINF:-1,TR: SINEMA 5
+http://live.softiptv.com:9900/live/3month/3month/18971.ts 
+#EXTINF:-1,TR: SINEMA 4
+http://live.softiptv.com:9900/live/3month/3month/18970.ts 
+#EXTINF:-1,TR: SINEMA 3
+http://live.softiptv.com:9900/live/3month/3month/18969.ts 
+#EXTINF:-1,TR: SINEMA 2
+http://live.softiptv.com:9900/live/3month/3month/18968.ts 
+#EXTINF:-1,TR: SINEMA 10
+http://live.softiptv.com:9900/live/3month/3month/18976.ts 
+#EXTINF:-1,TR: SINEMA 1
+http://live.softiptv.com:9900/live/3month/3month/18967.ts 
+#EXTINF:-1,TR: SHOW TV HD
+http://live.softiptv.com:9900/live/3month/3month/18983.ts 
+#EXTINF:-1,TR: SHOW TURK
+http://live.softiptv.com:9900/live/3month/3month/18984.ts 
+#EXTINF:-1,TR: SALON 3 HD
+http://live.softiptv.com:9900/live/3month/3month/18985.ts 
+#EXTINF:-1,TR: SALON 1 HD
+http://live.softiptv.com:9900/live/3month/3month/18986.ts 
+#EXTINF:-1,TR: POWERTURK TV HD
+http://live.softiptv.com:9900/live/3month/3month/18995.ts 
+#EXTINF:-1,TR: NR1 TURK  HD
+http://live.softiptv.com:9900/live/3month/3month/18982.ts 
+#EXTINF:-1,TR: National Geographic HD
+http://live.softiptv.com:9900/live/3month/3month/18950.ts 
+#EXTINF:-1,TR: NAT GEO WILD HD
+http://live.softiptv.com:9900/live/3month/3month/19006.ts 
+#EXTINF:-1,TR: Nat Geo People HD
+http://live.softiptv.com:9900/live/3month/3month/18951.ts 
+#EXTINF:-1,TR: MOVIEMAX STARS
+http://live.softiptv.com:9900/live/3month/3month/18977.ts 
+#EXTINF:-1,TR: MOVIEMAX FAMILY
+http://live.softiptv.com:9900/live/3month/3month/18978.ts 
+#EXTINF:-1,TR: MOVIEMAX ACTION
+http://live.softiptv.com:9900/live/3month/3month/18980.ts 
+#EXTINF:-1,TR: KANAL D HD
+http://live.softiptv.com:9900/live/3month/3month/18996.ts 
+#EXTINF:-1,TR: KANAL 7 HD
+http://live.softiptv.com:9900/live/3month/3month/18997.ts 
+#EXTINF:-1,TR: Discovery Science HD
+http://live.softiptv.com:9900/live/3month/3month/18952.ts 
+#EXTINF:-1,TR: Discovery HD
+http://live.softiptv.com:9900/live/3month/3month/18953.ts 
+#EXTINF:-1,TR: CNN TURK
+http://live.softiptv.com:9900/live/3month/3month/19001.ts 
+#EXTINF:-1,TR: CINESTAR VIZYON 3
+http://live.softiptv.com:9900/live/3month/3month/18960.ts 
+#EXTINF:-1,TR: CINESTAR VIZYON 2
+http://live.softiptv.com:9900/live/3month/3month/18959.ts 
+#EXTINF:-1,TR: CINESTAR VIZYON 1
+http://live.softiptv.com:9900/live/3month/3month/18958.ts 
+#EXTINF:-1,TR: CINESTAR T
+http://live.softiptv.com:9900/live/3month/3month/18961.ts 
+#EXTINF:-1,TR: CINESTAR NOSTALJI
+http://live.softiptv.com:9900/live/3month/3month/18962.ts 
+#EXTINF:-1,TR: CINESTAR KORKU
+http://live.softiptv.com:9900/live/3month/3month/18963.ts 
+#EXTINF:-1,TR: CINESTAR KOMEDI
+http://live.softiptv.com:9900/live/3month/3month/18964.ts 
+#EXTINF:-1,TR: CINESTAR GERILIM
+http://live.softiptv.com:9900/live/3month/3month/18965.ts 
+#EXTINF:-1,TR: TVNET
+http://live.softiptv.com:9900/live/3month/3month/17526.ts 
+#EXTINF:-1,TR: TV8
+http://live.softiptv.com:9900/live/3month/3month/17528.ts 
+#EXTINF:-1,TR: TV2
+http://live.softiptv.com:9900/live/3month/3month/17527.ts 
+#EXTINF:-1,TR: TRT1_HD
+http://live.softiptv.com:9900/live/3month/3month/17529.ts 
+#EXTINF:-1,TR: TRT_SPOR_HD
+http://live.softiptv.com:9900/live/3month/3month/17530.ts 
+#EXTINF:-1,TR: TRT_HABER_HD
+http://live.softiptv.com:9900/live/3month/3month/17531.ts 
+#EXTINF:-1,TR: TRT_COCUK_HD
+http://live.softiptv.com:9900/live/3month/3month/17533.ts 
+#EXTINF:-1,TR: TRT_BELGESEL
+http://live.softiptv.com:9900/live/3month/3month/17534.ts 
+#EXTINF:-1,TR: STAR_TV
+http://live.softiptv.com:9900/live/3month/3month/17537.ts 
+#EXTINF:-1,TR: SPORTS_TV
+http://live.softiptv.com:9900/live/3month/3month/17514.ts 
+#EXTINF:-1,TR: MOVIESMART_TURK
+http://live.softiptv.com:9900/live/3month/3month/17532.ts 
+#EXTINF:-1,TR: MOVIESMART_PREMIUM
+http://live.softiptv.com:9900/live/3month/3month/17522.ts 
+#EXTINF:-1,TR: MOVIESMART_PLATIN
+http://live.softiptv.com:9900/live/3month/3month/17524.ts 
+#EXTINF:-1,TR: MOVIESMART_GOLD
+http://live.softiptv.com:9900/live/3month/3month/17523.ts 
+#EXTINF:-1,TR: MOVIESMART_FAMILY
+http://live.softiptv.com:9900/live/3month/3month/17521.ts 
+#EXTINF:-1,TR: MOVIESMART_ACTION
+http://live.softiptv.com:9900/live/3month/3month/17520.ts 
+#EXTINF:-1,TR: IGTV_2_HD
+http://live.softiptv.com:9900/live/3month/3month/17517.ts 
+#EXTINF:-1,TR: IGTV_1_HD
+http://live.softiptv.com:9900/live/3month/3month/17516.ts 
+#EXTINF:-1,TR: CINESTAR_YES?LCAM
+http://live.softiptv.com:9900/live/3month/3month/17509.ts 
+#EXTINF:-1,TR: CINESTAR_T
+http://live.softiptv.com:9900/live/3month/3month/17506.ts 
+#EXTINF:-1,TR: CINESTAR_NOSTALJI
+http://live.softiptv.com:9900/live/3month/3month/17513.ts 
+#EXTINF:-1,TR: CINESTAR_KORKU
+http://live.softiptv.com:9900/live/3month/3month/17512.ts 
+#EXTINF:-1,TR: CINESTAR_KOMEDI
+http://live.softiptv.com:9900/live/3month/3month/17511.ts 
+#EXTINF:-1,TR: CINESTAR_GERILIM
+http://live.softiptv.com:9900/live/3month/3month/17510.ts 
+#EXTINF:-1,TR: CINESTAR_AILE
+http://live.softiptv.com:9900/live/3month/3month/17507.ts 
+#EXTINF:-1,TR: A_SPOR_HD
+http://live.softiptv.com:9900/live/3month/3month/17515.ts 
+#EXTINF:-1,TRT 1 HD
+http://live.softiptv.com:9900/live/3month/3month/16765.ts 
+#EXTINF:-1,TR:TRT Spor
+http://live.softiptv.com:9900/live/3month/3month/16767.ts 
+#EXTINF:-1,TR: TV  8
+http://live.softiptv.com:9900/live/3month/3month/16774.ts 
+#EXTINF:-1,TR: Trt Okul
+http://live.softiptv.com:9900/live/3month/3month/16782.ts 
+#EXTINF:-1,TR: TRT Cocuk
+http://live.softiptv.com:9900/live/3month/3month/16784.ts 
+#EXTINF:-1,TR: TRT Avaz
+http://live.softiptv.com:9900/live/3month/3month/16780.ts 
+#EXTINF:-1,TR: Tivibu Sport 2
+http://live.softiptv.com:9900/live/3month/3month/16790.ts 
+#EXTINF:-1,TR: Sinetivi
+http://live.softiptv.com:9900/live/3month/3month/16777.ts 
+#EXTINF:-1,TR: Sinema TV
+http://live.softiptv.com:9900/live/3month/3month/16781.ts 
+#EXTINF:-1,TR: Sinema Aile
+http://live.softiptv.com:9900/live/3month/3month/16789.ts 
+#EXTINF:-1,TR: Sinema 1001
+http://live.softiptv.com:9900/live/3month/3month/16778.ts 
+#EXTINF:-1,TR: SHOW TV  HD
+http://live.softiptv.com:9900/live/3month/3month/16772.ts 
+#EXTINF:-1,TR: Salon 3
+http://live.softiptv.com:9900/live/3month/3month/16795.ts 
+#EXTINF:-1,TR: Salon 2
+http://live.softiptv.com:9900/live/3month/3month/16794.ts 
+#EXTINF:-1,TR: Salon 1
+http://live.softiptv.com:9900/live/3month/3month/16793.ts 
+#EXTINF:-1,TR: Ntv Sport
+http://live.softiptv.com:9900/live/3month/3month/16791.ts 
+#EXTINF:-1,TR: NTV
+http://live.softiptv.com:9900/live/3month/3month/16779.ts 
+#EXTINF:-1,TR: National geografic turk
+http://live.softiptv.com:9900/live/3month/3month/16783.ts 
+#EXTINF:-1,TR: NatGeo Wild Turk
+http://live.softiptv.com:9900/live/3month/3month/16776.ts 
+#EXTINF:-1,TR: Lig 3 TV
+http://live.softiptv.com:9900/live/3month/3month/16788.ts 
+#EXTINF:-1,TR: Lig 2 TV
+http://live.softiptv.com:9900/live/3month/3month/16787.ts 
+#EXTINF:-1,TR: Lig 1 TV
+http://live.softiptv.com:9900/live/3month/3month/16786.ts 
+#EXTINF:-1,TR: KANAL D
+http://live.softiptv.com:9900/live/3month/3month/16770.ts 
+#EXTINF:-1,TR: KANAL 7
+http://live.softiptv.com:9900/live/3month/3month/16771.ts 
+#EXTINF:-1,TR: FOX  TV
+http://live.softiptv.com:9900/live/3month/3month/16769.ts 
+#EXTINF:-1,TR: Cartoon Network Turk
+http://live.softiptv.com:9900/live/3month/3month/16785.ts 
+#EXTINF:-1,TR: Beyaz TV
+http://live.softiptv.com:9900/live/3month/3month/16775.ts 
+#EXTINF:-1,TR: ATV
+http://live.softiptv.com:9900/live/3month/3month/16768.ts 
+#EXTINF:-1,TR: A sport
+http://live.softiptv.com:9900/live/3month/3month/16792.ts 
+#EXTINF:-1,TIVIBUSPOR 2
+http://live.softiptv.com:9900/live/3month/3month/3977.ts 
+#EXTINF:-1,TGRT HABER
+http://live.softiptv.com:9900/live/3month/3month/3979.ts 
+#EXTINF:-1,SALON 3 HD
+http://live.softiptv.com:9900/live/3month/3month/3980.ts 
+#EXTINF:-1,SALON 2 HD
+http://live.softiptv.com:9900/live/3month/3month/3981.ts 
+#EXTINF:-1,LIGTV 3 HD
+http://live.softiptv.com:9900/live/3month/3month/3984.ts 
+#EXTINF:-1,LIGTV 2 HD
+http://live.softiptv.com:9900/live/3month/3month/3985.ts 
+#EXTINF:-1,LIG TV HD 1
+http://live.softiptv.com:9900/live/3month/3month/3986.ts 
+#EXTINF:-1,AL:ZJarr TV (Musik)
+http://live.softiptv.com:9900/live/3month/3month/19371.ts 
+#EXTINF:-1,AL:Zico Tv
+http://live.softiptv.com:9900/live/3month/3month/19217.ts 
+#EXTINF:-1,AL:Zana Islam HD
+http://live.softiptv.com:9900/live/3month/3month/19262.ts 
+#EXTINF:-1,AL:Wedding-Channel TV
+http://live.softiptv.com:9900/live/3month/3month/19373.ts 
+#EXTINF:-1,AL:Vizion Plus -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19331.ts 
+#EXTINF:-1,AL:TVSH
+http://live.softiptv.com:9900/live/3month/3month/19195.ts 
+#EXTINF:-1,AL:TV Sharri HD
+http://live.softiptv.com:9900/live/3month/3month/19202.ts 
+#EXTINF:-1,AL:TV Samadrexha
+http://live.softiptv.com:9900/live/3month/3month/19211.ts 
+#EXTINF:-1,AL:TV OPOJA (Musik)
+http://live.softiptv.com:9900/live/3month/3month/19203.ts 
+#EXTINF:-1,AL:TV Mitrovica
+http://live.softiptv.com:9900/live/3month/3month/19233.ts 
+#EXTINF:-1,AL:TV Jeta
+http://live.softiptv.com:9900/live/3month/3month/19216.ts 
+#EXTINF:-1,AL:TV Gura
+http://live.softiptv.com:9900/live/3month/3month/19226.ts 
+#EXTINF:-1,AL:TV 2
+http://live.softiptv.com:9900/live/3month/3month/19363.ts 
+#EXTINF:-1,AL:Tring World -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19325.ts 
+#EXTINF:-1,AL:Tring Tring -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19321.ts 
+#EXTINF:-1,AL:Tring Super-Tring
+http://live.softiptv.com:9900/live/3month/3month/19318.ts 
+#EXTINF:-1,AL:Tring Super -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19319.ts 
+#EXTINF:-1,AL:Tring Sport News -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19332.ts 
+#EXTINF:-1,AL:Tring Planet -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19326.ts 
+#EXTINF:-1,AL:Tring Max -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19317.ts 
+#EXTINF:-1,AL:Tring Life -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19320.ts 
+#EXTINF:-1,AL:Tring Komedi -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19323.ts 
+#EXTINF:-1,AL:Tring Histori -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19327.ts 
+#EXTINF:-1,AL:Tring Fantazi -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19316.ts 
+#EXTINF:-1,AL:Tribuna TV (Lajme)
+http://live.softiptv.com:9900/live/3month/3month/19374.ts 
+#EXTINF:-1,AL:Travel Channel -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19335.ts 
+#EXTINF:-1,AL:TopEstrada Tv
+http://live.softiptv.com:9900/live/3month/3month/19205.ts 
+#EXTINF:-1,AL:Top News -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19286.ts 
+#EXTINF:-1,AL:Top Channel HD -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19278.ts 
+#EXTINF:-1,AL:Top Channel -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19280.ts 
+#EXTINF:-1,AL:Tirana TV
+http://live.softiptv.com:9900/live/3month/3month/19230.ts 
+#EXTINF:-1,AL:Tip TV -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19337.ts 
+#EXTINF:-1,AL:T Stinet-Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19279.ts 
+#EXTINF:-1,AL:T HD Channel -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19282.ts 
+#EXTINF:-1,AL:STV Folk -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19237.ts 
+#EXTINF:-1,AL:Sofia -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19300.ts 
+#EXTINF:-1,AL:Smile -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19299.ts 
+#EXTINF:-1,AL:Sky Shkence
+http://live.softiptv.com:9900/live/3month/3month/19347.ts 
+#EXTINF:-1,AL:Sky Histori
+http://live.softiptv.com:9900/live/3month/3month/19346.ts 
+#EXTINF:-1,AL:ShqipTV Western HD
+http://live.softiptv.com:9900/live/3month/3month/19258.ts 
+#EXTINF:-1,AL:ShqipTV Stupcat HD
+http://live.softiptv.com:9900/live/3month/3month/19254.ts 
+#EXTINF:-1,AL:ShqipTV Mimi HD
+http://live.softiptv.com:9900/live/3month/3month/19256.ts 
+#EXTINF:-1,AL:ShqipTV Komedi HD
+http://live.softiptv.com:9900/live/3month/3month/19252.ts 
+#EXTINF:-1,AL:ShqipTV Kino-DE HD
+http://live.softiptv.com:9900/live/3month/3month/19248.ts 
+#EXTINF:-1,AL:ShqipTV Islam HD
+http://live.softiptv.com:9900/live/3month/3month/19257.ts 
+#EXTINF:-1,AL:ShqipTV Horror HD
+http://live.softiptv.com:9900/live/3month/3month/19251.ts 
+#EXTINF:-1,AL:ShqipTV Hindi HD
+http://live.softiptv.com:9900/live/3month/3month/19253.ts 
+#EXTINF:-1,AL:ShqipTV Film HD
+http://live.softiptv.com:9900/live/3month/3month/19249.ts 
+#EXTINF:-1,AL:ShqipTV Aksion HD
+http://live.softiptv.com:9900/live/3month/3month/19247.ts 
+#EXTINF:-1,AL:ShqipTV 
+http://live.softiptv.com:9900/live/3month/3month/19255.ts 
+#EXTINF:-1,AL:RTV21 Popullore -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19187.ts 
+#EXTINF:-1,AL:RTV21 Plus -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19189.ts 
+#EXTINF:-1,AL:RTV21 Mix
+http://live.softiptv.com:9900/live/3month/3month/19190.ts 
+#EXTINF:-1,AL:RTV21 Maqedonia -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19191.ts 
+#EXTINF:-1,AL:RTV21 junior -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19192.ts 
+#EXTINF:-1,AL:RTV21 -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19188.ts 
+#EXTINF:-1,AL:RTSH ART
+http://live.softiptv.com:9900/live/3month/3month/19228.ts 
+#EXTINF:-1,AL:RTK4
+http://live.softiptv.com:9900/live/3month/3month/19186.ts 
+#EXTINF:-1,AL:RTK3
+http://live.softiptv.com:9900/live/3month/3month/19185.ts 
+#EXTINF:-1,AL:RTK2 Toksor
+http://live.softiptv.com:9900/live/3month/3month/19184.ts 
+#EXTINF:-1,AL:RTK1
+http://live.softiptv.com:9900/live/3month/3month/19183.ts 
+#EXTINF:-1,AL:RROKUM TV
+http://live.softiptv.com:9900/live/3month/3month/19372.ts 
+#EXTINF:-1,AL:REAL RTV
+http://live.softiptv.com:9900/live/3month/3month/19369.ts 
+#EXTINF:-1,AL:Plus TV
+http://live.softiptv.com:9900/live/3month/3month/19375.ts 
+#EXTINF:-1,AL:Plus HD -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19285.ts 
+#EXTINF:-1,AL:News24 -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19289.ts 
+#EXTINF:-1,AL:National Geographic -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19287.ts 
+#EXTINF:-1,AL:NatGeo -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19288.ts 
+#EXTINF:-1,AL:MyMusic
+http://live.softiptv.com:9900/live/3month/3month/19376.ts 
+#EXTINF:-1,AL:MusicAL -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19240.ts 
+#EXTINF:-1,AL:Muse -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19339.ts 
+#EXTINF:-1,AL:MTV Kosova
+http://live.softiptv.com:9900/live/3month/3month/19223.ts 
+#EXTINF:-1,AL:Motors TV -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19336.ts 
+#EXTINF:-1,AL:Malesia HD
+http://live.softiptv.com:9900/live/3month/3month/19204.ts 
+#EXTINF:-1,AL:Living -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19328.ts 
+#EXTINF:-1,AL:KTV HD
+http://live.softiptv.com:9900/live/3month/3month/19193.ts 
+#EXTINF:-1,AL:KTV -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19194.ts 
+#EXTINF:-1,AL:KS Film Thriller
+http://live.softiptv.com:9900/live/3month/3month/19307.ts 
+#EXTINF:-1,AL:Koha TV
+http://live.softiptv.com:9900/live/3month/3month/19201.ts 
+#EXTINF:-1,AL:Klan TV -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19199.ts 
+#EXTINF:-1,AL:Klan Kosova -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19197.ts 
+#EXTINF:-1,AL:Klan HD -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19200.ts 
+#EXTINF:-1,AL:Kino Romanc
+http://live.softiptv.com:9900/live/3month/3month/19310.ts 
+#EXTINF:-1,AL:Kino Premium 3 HD -Permium
+http://live.softiptv.com:9900/live/3month/3month/19306.ts 
+#EXTINF:-1,AL:Kino Premium 2 HD -Permium
+http://live.softiptv.com:9900/live/3month/3month/19305.ts 
+#EXTINF:-1,AL:Kino Premium 1 HD -Permium
+http://live.softiptv.com:9900/live/3month/3month/19304.ts 
+#EXTINF:-1,AL:Kino Prank
+http://live.softiptv.com:9900/live/3month/3month/19311.ts 
+#EXTINF:-1,AL:Kino Family HD
+http://live.softiptv.com:9900/live/3month/3month/19308.ts 
+#EXTINF:-1,AL:Kino Dark HD
+http://live.softiptv.com:9900/live/3month/3month/19309.ts 
+#EXTINF:-1,AL:Kino Aksion -Permium
+http://live.softiptv.com:9900/live/3month/3month/19302.ts 
+#EXTINF:-1,AL:Kanali 7
+http://live.softiptv.com:9900/live/3month/3month/19333.ts 
+#EXTINF:-1,AL:Junior -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19281.ts 
+#EXTINF:-1,AL:JUG TV
+http://live.softiptv.com:9900/live/3month/3month/19362.ts 
+#EXTINF:-1,AL:IN Cine Mania TV
+http://live.softiptv.com:9900/live/3month/3month/19365.ts 
+#EXTINF:-1,AL:Haruni IPTV
+http://live.softiptv.com:9900/live/3month/3month/19209.ts 
+#EXTINF:-1,AL:H Muzik
+http://live.softiptv.com:9900/live/3month/3month/19210.ts 
+#EXTINF:-1,AL:Globi TV
+http://live.softiptv.com:9900/live/3month/3month/19364.ts 
+#EXTINF:-1,AL:FOX TV HD
+http://live.softiptv.com:9900/live/3month/3month/19340.ts 
+#EXTINF:-1,AL:Fox Life -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19283.ts 
+#EXTINF:-1,AL:Fox Life -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19329.ts 
+#EXTINF:-1,AL:Fox Crime -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19330.ts 
+#EXTINF:-1,AL:Fox Crime -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19284.ts 
+#EXTINF:-1,AL:Folklorit -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19239.ts 
+#EXTINF:-1,AL:Folk -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19238.ts 
+#EXTINF:-1,AL:First Channel-Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19242.ts 
+#EXTINF:-1,AL:Filma24 HD
+http://live.softiptv.com:9900/live/3month/3month/19246.ts 
+#EXTINF:-1,AL:Film Nje HD -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19269.ts 
+#EXTINF:-1,AL:Film Komedi -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19277.ts 
+#EXTINF:-1,AL:Film Dy HD -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19270.ts 
+#EXTINF:-1,AL:Film Drame -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19276.ts 
+#EXTINF:-1,AL:Film Aksion -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19271.ts 
+#EXTINF:-1,AL:EXP Shkenca -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19291.ts 
+#EXTINF:-1,AL:EXP Natyra -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19293.ts 
+#EXTINF:-1,AL:EXP Histori -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19294.ts 
+#EXTINF:-1,AL:ERA TV -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19234.ts 
+#EXTINF:-1,AL:Elrodi TV
+http://live.softiptv.com:9900/live/3month/3month/19236.ts 
+#EXTINF:-1,AL:Disney Channel -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19301.ts 
+#EXTINF:-1,AL:Discovery -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19292.ts 
+#EXTINF:-1,AL:Digi Gold 4 HD
+http://live.softiptv.com:9900/live/3month/3month/19268.ts 
+#EXTINF:-1,AL:Digi Gold 3 HD
+http://live.softiptv.com:9900/live/3month/3month/19267.ts 
+#EXTINF:-1,AL:Digi Gold 2 HD
+http://live.softiptv.com:9900/live/3month/3month/19266.ts 
+#EXTINF:-1,AL:Digi Gold 1 HD
+http://live.softiptv.com:9900/live/3month/3month/19265.ts 
+#EXTINF:-1,AL:Digi Gold -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19264.ts 
+#EXTINF:-1,AL:Dasma TV (Musik)
+http://live.softiptv.com:9900/live/3month/3month/19232.ts 
+#EXTINF:-1,AL:Cyti TV
+http://live.softiptv.com:9900/live/3month/3month/19377.ts 
+#EXTINF:-1,AL:Cufo -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19297.ts 
+#EXTINF:-1,AL:Club TV -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19338.ts 
+#EXTINF:-1,AL:CLICK-Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19334.ts 
+#EXTINF:-1,AL:City Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19213.ts 
+#EXTINF:-1,AL:Burimi TV
+http://live.softiptv.com:9900/live/3month/3month/19206.ts 
+#EXTINF:-1,AL:Blue Sky  TV
+http://live.softiptv.com:9900/live/3month/3month/19215.ts 
+#EXTINF:-1,AL:BBF -Tring TV
+http://live.softiptv.com:9900/live/3month/3month/19241.ts 
+#EXTINF:-1,AL:Bang Bang -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19296.ts 
+#EXTINF:-1,AL:Baby TV -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19298.ts 
+#EXTINF:-1,AL:Apollon
+http://live.softiptv.com:9900/live/3month/3month/19360.ts 
+#EXTINF:-1,AL:Antena HD
+http://live.softiptv.com:9900/live/3month/3month/19378.ts 
+#EXTINF:-1,AL:Alsat M -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19221.ts 
+#EXTINF:-1,AL:ALPO TV
+http://live.softiptv.com:9900/live/3month/3month/19361.ts 
+#EXTINF:-1,AL:ALB THRILLER
+http://live.softiptv.com:9900/live/3month/3month/19351.ts 
+#EXTINF:-1,AL:ALB POPULLOR
+http://live.softiptv.com:9900/live/3month/3month/19231.ts 
+#EXTINF:-1,AL:ALB MUSIK HD
+http://live.softiptv.com:9900/live/3month/3month/19353.ts 
+#EXTINF:-1,AL:Alb Kids 3
+http://live.softiptv.com:9900/live/3month/3month/19359.ts 
+#EXTINF:-1,AL:Alb Kids 2
+http://live.softiptv.com:9900/live/3month/3month/19358.ts 
+#EXTINF:-1,AL:Alb Kids 1
+http://live.softiptv.com:9900/live/3month/3month/19357.ts 
+#EXTINF:-1,AL:Alb Humor 2 HD
+http://live.softiptv.com:9900/live/3month/3month/19244.ts 
+#EXTINF:-1,AL:ALB Hits HD
+http://live.softiptv.com:9900/live/3month/3month/19354.ts 
+#EXTINF:-1,AL:ALB HINDI
+http://live.softiptv.com:9900/live/3month/3month/19349.ts 
+#EXTINF:-1,AL:Alb Cifteli HD
+http://live.softiptv.com:9900/live/3month/3month/19235.ts 
+#EXTINF:-1,AL:Alb Anime
+http://live.softiptv.com:9900/live/3month/3month/19356.ts 
+#EXTINF:-1,AL:Alb Action
+http://live.softiptv.com:9900/live/3month/3month/19348.ts 
+#EXTINF:-1,AL:ABC News -Digitalb
+http://live.softiptv.com:9900/live/3month/3month/19290.ts 
+#EXTINF:-1,AL:6 1 Vlora Tv
+http://live.softiptv.com:9900/live/3month/3month/19208.ts 
+#EXTINF:-1,AL: Supersonic TV
+http://live.softiptv.com:9900/live/3month/3month/19225.ts 
+#EXTINF:-1,AL: A1 Shqiptare
+http://live.softiptv.com:9900/live/3month/3month/19224.ts 
+#EXTINF:-1,ES-TOROS  HD
+http://live.softiptv.com:9900/live/3month/3month/19479.ts 
+#EXTINF:-1,ES-TOROS
+http://live.softiptv.com:9900/live/3month/3month/19521.ts 
+#EXTINF:-1,ES-TNT
+http://live.softiptv.com:9900/live/3month/3month/19506.ts 
+#EXTINF:-1,ES-Telesur
+http://live.softiptv.com:9900/live/3month/3month/19507.ts 
+#EXTINF:-1,ES-SYFY
+http://live.softiptv.com:9900/live/3month/3month/19522.ts 
+#EXTINF:-1,ES-SKY TG24
+http://live.softiptv.com:9900/live/3month/3month/19480.ts 
+#EXTINF:-1,ES-RT DOC
+http://live.softiptv.com:9900/live/3month/3month/19481.ts 
+#EXTINF:-1,ES-REAL MADRID TV
+http://live.softiptv.com:9900/live/3month/3month/19508.ts 
+#EXTINF:-1,ES-RAI NEWS24
+http://live.softiptv.com:9900/live/3month/3month/19482.ts 
+#EXTINF:-1,ES-QUATRO
+http://live.softiptv.com:9900/live/3month/3month/19509.ts 
+#EXTINF:-1,ES-Parlamento
+http://live.softiptv.com:9900/live/3month/3month/19510.ts 
+#EXTINF:-1,ES-PANDA
+http://live.softiptv.com:9900/live/3month/3month/19523.ts 
+#EXTINF:-1,ES-NICK JR
+http://live.softiptv.com:9900/live/3month/3month/19483.ts 
+#EXTINF:-1,ES-NEOX
+http://live.softiptv.com:9900/live/3month/3month/19524.ts 
+#EXTINF:-1,ES-MULTIDEPORTE
+http://live.softiptv.com:9900/live/3month/3month/19484.ts 
+#EXTINF:-1,ES-LOS 40
+http://live.softiptv.com:9900/live/3month/3month/19511.ts 
+#EXTINF:-1,ES-LALIGA TV BAR HD
+http://live.softiptv.com:9900/live/3month/3month/19512.ts 
+#EXTINF:-1,ES-LALIGA TV BAR
+http://live.softiptv.com:9900/live/3month/3month/19513.ts 
+#EXTINF:-1,ES-IBERALIA TV
+http://live.softiptv.com:9900/live/3month/3month/19525.ts 
+#EXTINF:-1,ES-HOLLYWOOD
+http://live.softiptv.com:9900/live/3month/3month/19526.ts 
+#EXTINF:-1,ES-HISTORY
+http://live.softiptv.com:9900/live/3month/3month/19485.ts 
+#EXTINF:-1,ES-GolTV
+http://live.softiptv.com:9900/live/3month/3month/19486.ts 
+#EXTINF:-1,ES-FOX NEWS
+http://live.softiptv.com:9900/live/3month/3month/19487.ts 
+#EXTINF:-1,ES-FDF
+http://live.softiptv.com:9900/live/3month/3month/19488.ts 
+#EXTINF:-1,ES-eurosport hd
+http://live.softiptv.com:9900/live/3month/3month/19489.ts 
+#EXTINF:-1,ES-ESTRELAS
+http://live.softiptv.com:9900/live/3month/3month/19514.ts 
+#EXTINF:-1,ES-EHS
+http://live.softiptv.com:9900/live/3month/3month/19527.ts 
+#EXTINF:-1,ES-DISNEY CHANNEL HD
+http://live.softiptv.com:9900/live/3month/3month/19490.ts 
+#EXTINF:-1,ES-DISCOVERY CHANNEL
+http://live.softiptv.com:9900/live/3month/3month/19491.ts 
+#EXTINF:-1,ES-CUATRO
+http://live.softiptv.com:9900/live/3month/3month/19492.ts 
+#EXTINF:-1,ES-COMEDY CENTRAL HD
+http://live.softiptv.com:9900/live/3month/3month/19515.ts 
+#EXTINF:-1,ES-CLASSICA
+http://live.softiptv.com:9900/live/3month/3month/19493.ts 
+#EXTINF:-1,ES-CLAN TVE
+http://live.softiptv.com:9900/live/3month/3month/19494.ts 
+#EXTINF:-1,ES-CAZA Y PESCA HD
+http://live.softiptv.com:9900/live/3month/3month/19516.ts 
+#EXTINF:-1,ES-CASTILLA LA MANCHA
+http://live.softiptv.com:9900/live/3month/3month/19495.ts 
+#EXTINF:-1,ES-CANAL DECASA
+http://live.softiptv.com:9900/live/3month/3month/19528.ts 
+#EXTINF:-1,ES-CANAL COCINA
+http://live.softiptv.com:9900/live/3month/3month/19517.ts 
+#EXTINF:-1,ES-CALLE 13 HD
+http://live.softiptv.com:9900/live/3month/3month/19496.ts 
+#EXTINF:-1,ES-C XTRA
+http://live.softiptv.com:9900/live/3month/3month/19529.ts 
+#EXTINF:-1,ES-C & I
+http://live.softiptv.com:9900/live/3month/3month/19497.ts 
+#EXTINF:-1,ES-C  COMEDIA
+http://live.softiptv.com:9900/live/3month/3month/19530.ts 
+#EXTINF:-1,ES-BLOOMBERG TV
+http://live.softiptv.com:9900/live/3month/3month/19498.ts 
+#EXTINF:-1,ES-BEIN SPORT HD
+http://live.softiptv.com:9900/live/3month/3month/19499.ts 
+#EXTINF:-1,ES-BEIN SPORT
+http://live.softiptv.com:9900/live/3month/3month/19500.ts 
+#EXTINF:-1,ES-BEIN LALIGA HD
+http://live.softiptv.com:9900/live/3month/3month/19518.ts 
+#EXTINF:-1,ES-BEIN LALIGA
+http://live.softiptv.com:9900/live/3month/3month/19519.ts 
+#EXTINF:-1,ES-Bar?a TV
+http://live.softiptv.com:9900/live/3month/3month/19501.ts 
+#EXTINF:-1,ES-AXN WHITE HD
+http://live.softiptv.com:9900/live/3month/3month/19502.ts 
+#EXTINF:-1,ES-ARIRANG WORLD
+http://live.softiptv.com:9900/live/3month/3month/19503.ts 
+#EXTINF:-1,ES-AMC
+http://live.softiptv.com:9900/live/3month/3month/19520.ts 
+#EXTINF:-1,ES-Al Jazeera
+http://live.softiptv.com:9900/live/3month/3month/19504.ts 
+#EXTINF:-1,ES-#0 HD
+http://live.softiptv.com:9900/live/3month/3month/19505.ts 
+#EXTINF:-1,ES-TNT HD
+http://live.softiptv.com:9900/live/3month/3month/8185.ts 
+#EXTINF:-1,ES-TELEDEPORTE
+http://live.softiptv.com:9900/live/3month/3month/8187.ts 
+#EXTINF:-1,ES-TELECINCO HD
+http://live.softiptv.com:9900/live/3month/3month/8188.ts 
+#EXTINF:-1,ES-TELECINCO
+http://live.softiptv.com:9900/live/3month/3month/8189.ts 
+#EXTINF:-1,ES-TCM HD
+http://live.softiptv.com:9900/live/3month/3month/8190.ts 
+#EXTINF:-1,ES-TCM
+http://live.softiptv.com:9900/live/3month/3month/8191.ts 
+#EXTINF:-1,ES-RT NEWS ENG
+http://live.softiptv.com:9900/live/3month/3month/8193.ts 
+#EXTINF:-1,ES-RT
+http://live.softiptv.com:9900/live/3month/3month/8194.ts 
+#EXTINF:-1,ES-PLAYBOY TV
+http://live.softiptv.com:9900/live/3month/3month/8196.ts 
+#EXTINF:-1,ES-PARAMOUNT
+http://live.softiptv.com:9900/live/3month/3month/8197.ts 
+#EXTINF:-1,ES-NOVA
+http://live.softiptv.com:9900/live/3month/3month/8199.ts 
+#EXTINF:-1,ES-Nickelodeon
+http://live.softiptv.com:9900/live/3month/3month/8200.ts 
+#EXTINF:-1,ES-NHK WORLD
+http://live.softiptv.com:9900/live/3month/3month/8201.ts 
+#EXTINF:-1,ES-NAT GEOGRAPH
+http://live.softiptv.com:9900/live/3month/3month/8203.ts 
+#EXTINF:-1,ES-NAT GEO WILD HD
+http://live.softiptv.com:9900/live/3month/3month/8204.ts 
+#EXTINF:-1,ES-NAT GEO WILD
+http://live.softiptv.com:9900/live/3month/3month/8205.ts 
+#EXTINF:-1,ES-MOVISTAR F1 HD
+http://live.softiptv.com:9900/live/3month/3month/8206.ts 
+#EXTINF:-1,ES-MOTOGP HD
+http://live.softiptv.com:9900/live/3month/3month/8207.ts 
+#EXTINF:-1,ES-MOTO GP
+http://live.softiptv.com:9900/live/3month/3month/8208.ts 
+#EXTINF:-1,ES-LTC
+http://live.softiptv.com:9900/live/3month/3month/8209.ts 
+#EXTINF:-1,ES-LIGA HD
+http://live.softiptv.com:9900/live/3month/3month/8210.ts 
+#EXTINF:-1,ES-LA SEXTA HD
+http://live.softiptv.com:9900/live/3month/3month/8212.ts 
+#EXTINF:-1,ES-LA SEXTA
+http://live.softiptv.com:9900/live/3month/3month/8213.ts 
+#EXTINF:-1,ES-LA 2
+http://live.softiptv.com:9900/live/3month/3month/8214.ts 
+#EXTINF:-1,ES-LA 1 HD
+http://live.softiptv.com:9900/live/3month/3month/8215.ts 
+#EXTINF:-1,ES-LA 1
+http://live.softiptv.com:9900/live/3month/3month/8216.ts 
+#EXTINF:-1,ES-HOLLYWOOD HD
+http://live.softiptv.com:9900/live/3month/3month/8217.ts 
+#EXTINF:-1,ES-HISTORIA
+http://live.softiptv.com:9900/live/3month/3month/8219.ts 
+#EXTINF:-1,ES-FRANCE 24-EN
+http://live.softiptv.com:9900/live/3month/3month/8220.ts 
+#EXTINF:-1,ES-FOX LIFE HD
+http://live.softiptv.com:9900/live/3month/3month/8221.ts 
+#EXTINF:-1,ES-FOX LIFE
+http://live.softiptv.com:9900/live/3month/3month/8222.ts 
+#EXTINF:-1,ES-FOX HD
+http://live.softiptv.com:9900/live/3month/3month/8223.ts 
+#EXTINF:-1,ES-FOX
+http://live.softiptv.com:9900/live/3month/3month/8224.ts 
+#EXTINF:-1,ES-EUROSPORT 2
+http://live.softiptv.com:9900/live/3month/3month/8225.ts 
+#EXTINF:-1,ES-EUROSPORT 1
+http://live.softiptv.com:9900/live/3month/3month/8226.ts 
+#EXTINF:-1,ES-ES-40 TV
+http://live.softiptv.com:9900/live/3month/3month/8228.ts 
+#EXTINF:-1,ES-ENERGY
+http://live.softiptv.com:9900/live/3month/3month/8229.ts 
+#EXTINF:-1,ES-DIVINITY
+http://live.softiptv.com:9900/live/3month/3month/8231.ts 
+#EXTINF:-1,ES-DISNEY XD
+http://live.softiptv.com:9900/live/3month/3month/8232.ts 
+#EXTINF:-1,ES-DISNEY JR
+http://live.softiptv.com:9900/live/3month/3month/8233.ts 
+#EXTINF:-1,ES-DISNEY CH.
+http://live.softiptv.com:9900/live/3month/3month/8234.ts 
+#EXTINF:-1,ES-DISCOVERY
+http://live.softiptv.com:9900/live/3month/3month/8235.ts 
+#EXTINF:-1,ES-DEPORTES 2
+http://live.softiptv.com:9900/live/3month/3month/8236.ts 
+#EXTINF:-1,ES-DCINE
+http://live.softiptv.com:9900/live/3month/3month/8237.ts 
+#EXTINF:-1,ES-CUATRO HD
+http://live.softiptv.com:9900/live/3month/3month/8238.ts 
+#EXTINF:-1,ES-COSMOPOLITAN HD
+http://live.softiptv.com:9900/live/3month/3month/8239.ts 
+#EXTINF:-1,ES-COSMO
+http://live.softiptv.com:9900/live/3month/3month/8240.ts 
+#EXTINF:-1,ES-CAZA Y PESCA
+http://live.softiptv.com:9900/live/3month/3month/8242.ts 
+#EXTINF:-1,ES-CANAL SUR ANDALUCIA
+http://live.softiptv.com:9900/live/3month/3month/8243.ts 
+#EXTINF:-1,ES-CANAL ODISEA
+http://live.softiptv.com:9900/live/3month/3month/8244.ts 
+#EXTINF:-1,ES-Canal Extremadura SAT
+http://live.softiptv.com:9900/live/3month/3month/8245.ts 
+#EXTINF:-1,ES-CALLE 13
+http://live.softiptv.com:9900/live/3month/3month/8248.ts 
+#EXTINF:-1,ES-C&I
+http://live.softiptv.com:9900/live/3month/3month/8249.ts 
+#EXTINF:-1,ES-C COMEDIA HD
+http://live.softiptv.com:9900/live/3month/3month/8250.ts 
+#EXTINF:-1,ES-C  SERIESXTRA
+http://live.softiptv.com:9900/live/3month/3month/8251.ts 
+#EXTINF:-1,ES-C  Series Xtra HD
+http://live.softiptv.com:9900/live/3month/3month/8252.ts 
+#EXTINF:-1,ES-C  SERIES HD
+http://live.softiptv.com:9900/live/3month/3month/8253.ts 
+#EXTINF:-1,ES-C  SERIES
+http://live.softiptv.com:9900/live/3month/3month/8254.ts 
+#EXTINF:-1,ES-C  PORTADA
+http://live.softiptv.com:9900/live/3month/3month/8255.ts 
+#EXTINF:-1,ES-C  LIGA
+http://live.softiptv.com:9900/live/3month/3month/8256.ts 
+#EXTINF:-1,ES-C  GOLF HD
+http://live.softiptv.com:9900/live/3month/3month/8257.ts 
+#EXTINF:-1,ES-C  GOLF
+http://live.softiptv.com:9900/live/3month/3month/8258.ts 
+#EXTINF:-1,ES-C  FUTBOL HD
+http://live.softiptv.com:9900/live/3month/3month/8259.ts 
+#EXTINF:-1,ES-C  FTBOL
+http://live.softiptv.com:9900/live/3month/3month/8260.ts 
+#EXTINF:-1,ES-C  DEPORTES
+http://live.softiptv.com:9900/live/3month/3month/8262.ts 
+#EXTINF:-1,ES-C  DCINE HD
+http://live.softiptv.com:9900/live/3month/3month/8263.ts 
+#EXTINF:-1,ES-C  ACCI©N HD
+http://live.softiptv.com:9900/live/3month/3month/8265.ts 
+#EXTINF:-1,ES-BOING
+http://live.softiptv.com:9900/live/3month/3month/8267.ts 
+#EXTINF:-1,ES-BEIN SPORT MAX 9
+http://live.softiptv.com:9900/live/3month/3month/8268.ts 
+#EXTINF:-1,ES-BEIN SPORT MAX 8
+http://live.softiptv.com:9900/live/3month/3month/8269.ts 
+#EXTINF:-1,ES-BEIN SPORT MAX 7
+http://live.softiptv.com:9900/live/3month/3month/8270.ts 
+#EXTINF:-1,ES-BEIN SPORT MAX 6
+http://live.softiptv.com:9900/live/3month/3month/8271.ts 
+#EXTINF:-1,ES-BEIN SPORT MAX 5
+http://live.softiptv.com:9900/live/3month/3month/8272.ts 
+#EXTINF:-1,ES-BEIN SPORT MAX 4
+http://live.softiptv.com:9900/live/3month/3month/8273.ts 
+#EXTINF:-1,ES-BEIN SPORT MAX 3
+http://live.softiptv.com:9900/live/3month/3month/8274.ts 
+#EXTINF:-1,ES-BEIN SPORT MAX 2
+http://live.softiptv.com:9900/live/3month/3month/8275.ts 
+#EXTINF:-1,ES-BEIN SPORT MAX 10
+http://live.softiptv.com:9900/live/3month/3month/8276.ts 
+#EXTINF:-1,ES-BEIN SPORT MAX 1
+http://live.softiptv.com:9900/live/3month/3month/8277.ts 
+#EXTINF:-1,ES-BAR TV
+http://live.softiptv.com:9900/live/3month/3month/8280.ts 
+#EXTINF:-1,ES-BABY TV
+http://live.softiptv.com:9900/live/3month/3month/8281.ts 
+#EXTINF:-1,ES-AXN WHITE
+http://live.softiptv.com:9900/live/3month/3month/8282.ts 
+#EXTINF:-1,ES-AXN HD
+http://live.softiptv.com:9900/live/3month/3month/8283.ts 
+#EXTINF:-1,ES-AXN
+http://live.softiptv.com:9900/live/3month/3month/8284.ts 
+#EXTINF:-1,ES-ARAGON TV
+http://live.softiptv.com:9900/live/3month/3month/8285.ts 
+#EXTINF:-1,ES-ANTENA 3 HD
+http://live.softiptv.com:9900/live/3month/3month/8286.ts 
+#EXTINF:-1,ES-ANTENA 3
+http://live.softiptv.com:9900/live/3month/3month/8287.ts 
+#EXTINF:-1,ES-AMC HD
+http://live.softiptv.com:9900/live/3month/3month/8288.ts 
+#EXTINF:-1,ES-AJE
+http://live.softiptv.com:9900/live/3month/3month/8290.ts 
+#EXTINF:-1,ES-A&E
+http://live.softiptv.com:9900/live/3month/3month/8291.ts 
+#EXTINF:-1,ES-24 HORAS
+http://live.softiptv.com:9900/live/3month/3month/8292.ts 
+#EXTINF:-1,ES-#0
+http://live.softiptv.com:9900/live/3month/3month/8293.ts
