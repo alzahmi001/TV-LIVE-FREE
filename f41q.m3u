@@ -95,894 +95,193 @@ rtmp://aljazeeraflashlivefs.fplive.net:443/aljazeeraflashlive-live/aljazeera_doc
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ALFORAT
 http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
 
-
-#EXTINF:-1,NL: ZIGGO_SPORT_RACING
-http://live.softiptv.com:9900/live/3month/3month/17487.ts 
-#EXTINF:-1,NL: ZIGGO_SPORT_EXTRA
-http://live.softiptv.com:9900/live/3month/3month/17488.ts 
-#EXTINF:-1,NL: VERONICA
-http://live.softiptv.com:9900/live/3month/3month/17489.ts 
-#EXTINF:-1,NL: SBS-9
-http://live.softiptv.com:9900/live/3month/3month/17485.ts 
-#EXTINF:-1,NL: SBS-6
-http://live.softiptv.com:9900/live/3month/3month/17482.ts 
-#EXTINF:-1,NL: RTL-8
-http://live.softiptv.com:9900/live/3month/3month/17484.ts 
-#EXTINF:-1,NL: RTL-7
-http://live.softiptv.com:9900/live/3month/3month/17483.ts 
-#EXTINF:-1,NL: RTL-5
-http://live.softiptv.com:9900/live/3month/3month/17481.ts 
-#EXTINF:-1,NL: RTL-4
-http://live.softiptv.com:9900/live/3month/3month/17480.ts 
-#EXTINF:-1,NL: NPO3
-http://live.softiptv.com:9900/live/3month/3month/17479.ts 
-#EXTINF:-1,NL: NPO2
-http://live.softiptv.com:9900/live/3month/3month/17478.ts 
-#EXTINF:-1,NL: NPO1
-http://live.softiptv.com:9900/live/3month/3month/17477.ts 
-#EXTINF:-1,NL: NET-5
-http://live.softiptv.com:9900/live/3month/3month/17497.ts 
-#EXTINF:-1,NL: HBO3_HD
-http://live.softiptv.com:9900/live/3month/3month/17476.ts 
-#EXTINF:-1,NL: HBO2_HD
-http://live.softiptv.com:9900/live/3month/3month/17475.ts 
-#EXTINF:-1,NL: HBO1_HD
-http://live.softiptv.com:9900/live/3month/3month/17474.ts 
-#EXTINF:-1,NL: Fox_Sports6
-http://live.softiptv.com:9900/live/3month/3month/17505.ts 
-#EXTINF:-1,NL: Fox_Sports5
-http://live.softiptv.com:9900/live/3month/3month/17504.ts 
-#EXTINF:-1,NL: Fox_Sports4
-http://live.softiptv.com:9900/live/3month/3month/17503.ts 
-#EXTINF:-1,NL: Fox_Sports3
-http://live.softiptv.com:9900/live/3month/3month/17502.ts 
-#EXTINF:-1,NL: Fox_Sports2
-http://live.softiptv.com:9900/live/3month/3month/17501.ts 
-#EXTINF:-1,NL: Fox_Sports1
-http://live.softiptv.com:9900/live/3month/3month/17500.ts 
-#EXTINF:-1,NL: FILM1_SUNDANCE
-http://live.softiptv.com:9900/live/3month/3month/17492.ts 
-#EXTINF:-1,NL: FILM1_PREMIERE
-http://live.softiptv.com:9900/live/3month/3month/17491.ts 
-#EXTINF:-1,NL: DISCOVERY_ID
-http://live.softiptv.com:9900/live/3month/3month/17495.ts 
-#EXTINF:-1,NL: DISCOVERY
-http://live.softiptv.com:9900/live/3month/3month/17496.ts 
-#EXTINF:-1,NL: 13th_Street
-http://live.softiptv.com:9900/live/3month/3month/17499.ts 
-#EXTINF:-1,NL: NPO Zappelin Xtra/Humor TV
-http://live.softiptv.com:9900/live/3month/3month/16933.ts 
-#EXTINF:-1,NL: Nicktoons
-http://live.softiptv.com:9900/live/3month/3month/16934.ts 
-#EXTINF:-1,NL: Nickelodeon
-http://live.softiptv.com:9900/live/3month/3month/16935.ts 
-#EXTINF:-1,NL: Nick Jr
-http://live.softiptv.com:9900/live/3month/3month/16936.ts 
-#EXTINF:-1,NL: National Geographic HD
-http://live.softiptv.com:9900/live/3month/3month/16937.ts 
-#EXTINF:-1,NL: MTV HD
-http://live.softiptv.com:9900/live/3month/3month/16938.ts 
-#EXTINF:-1,NL: Ketnet HD
-http://live.softiptv.com:9900/live/3month/3month/16939.ts 
-#EXTINF:-1,NL: Film 1 Sundance
-http://live.softiptv.com:9900/live/3month/3month/16940.ts 
-#EXTINF:-1,NL: Film 1 Spotlight
-http://live.softiptv.com:9900/live/3month/3month/16941.ts 
-#EXTINF:-1,NL: Film 1 Premiere HD
-http://live.softiptv.com:9900/live/3month/3month/16942.ts 
-#EXTINF:-1,NL: Edge Sport HD
-http://live.softiptv.com:9900/live/3month/3month/16943.ts 
-#EXTINF:-1,NL: Disney Junior
-http://live.softiptv.com:9900/live/3month/3month/16944.ts 
-#EXTINF:-1,NL: Disney Channel HD
-http://live.softiptv.com:9900/live/3month/3month/16945.ts 
-#EXTINF:-1,NL: Crime & Investigation
-http://live.softiptv.com:9900/live/3month/3month/16946.ts 
-#EXTINF:-1,NL: Comedy Central
-http://live.softiptv.com:9900/live/3month/3month/16947.ts 
-#EXTINF:-1,NL: BBC Entertainment
-http://live.softiptv.com:9900/live/3month/3month/16948.ts 
-#EXTINF:-1,♣♣♣♣♣Turkish Channels♣♣♣♣♣
-http://live.softiptv.com:9900/live/3month/3month/7457.ts 
-#EXTINF:-1,TR: ULKE_TV_HD
-http://live.softiptv.com:9900/live/3month/3month/17525.ts 
-#EXTINF:-1,TR: TV8 HD
-http://live.softiptv.com:9900/live/3month/3month/18987.ts 
-#EXTINF:-1,TR: TRT WORLD
-http://live.softiptv.com:9900/live/3month/3month/18988.ts 
-#EXTINF:-1,TR: TRT MUZIK
-http://live.softiptv.com:9900/live/3month/3month/18989.ts 
-#EXTINF:-1,TR: TRT BELGESEL HD
-http://live.softiptv.com:9900/live/3month/3month/19005.ts 
-#EXTINF:-1,TR: TRT 1 HD
-http://live.softiptv.com:9900/live/3month/3month/18981.ts 
-#EXTINF:-1,TR: STAR HD
-http://live.softiptv.com:9900/live/3month/3month/18992.ts 
-#EXTINF:-1,TR: SINEMA 9
-http://live.softiptv.com:9900/live/3month/3month/18975.ts 
-#EXTINF:-1,TR: SINEMA 8
-http://live.softiptv.com:9900/live/3month/3month/18974.ts 
-#EXTINF:-1,TR: SINEMA 7
-http://live.softiptv.com:9900/live/3month/3month/18973.ts 
-#EXTINF:-1,TR: SINEMA 6
-http://live.softiptv.com:9900/live/3month/3month/18972.ts 
-#EXTINF:-1,TR: SINEMA 5
-http://live.softiptv.com:9900/live/3month/3month/18971.ts 
-#EXTINF:-1,TR: SINEMA 4
-http://live.softiptv.com:9900/live/3month/3month/18970.ts 
-#EXTINF:-1,TR: SINEMA 3
-http://live.softiptv.com:9900/live/3month/3month/18969.ts 
-#EXTINF:-1,TR: SINEMA 2
-http://live.softiptv.com:9900/live/3month/3month/18968.ts 
-#EXTINF:-1,TR: SINEMA 10
-http://live.softiptv.com:9900/live/3month/3month/18976.ts 
-#EXTINF:-1,TR: SINEMA 1
-http://live.softiptv.com:9900/live/3month/3month/18967.ts 
-#EXTINF:-1,TR: SHOW TV HD
-http://live.softiptv.com:9900/live/3month/3month/18983.ts 
-#EXTINF:-1,TR: SHOW TURK
-http://live.softiptv.com:9900/live/3month/3month/18984.ts 
-#EXTINF:-1,TR: SALON 3 HD
-http://live.softiptv.com:9900/live/3month/3month/18985.ts 
-#EXTINF:-1,TR: SALON 1 HD
-http://live.softiptv.com:9900/live/3month/3month/18986.ts 
-#EXTINF:-1,TR: POWERTURK TV HD
-http://live.softiptv.com:9900/live/3month/3month/18995.ts 
-#EXTINF:-1,TR: NR1 TURK  HD
-http://live.softiptv.com:9900/live/3month/3month/18982.ts 
-#EXTINF:-1,TR: National Geographic HD
-http://live.softiptv.com:9900/live/3month/3month/18950.ts 
-#EXTINF:-1,TR: NAT GEO WILD HD
-http://live.softiptv.com:9900/live/3month/3month/19006.ts 
-#EXTINF:-1,TR: Nat Geo People HD
-http://live.softiptv.com:9900/live/3month/3month/18951.ts 
-#EXTINF:-1,TR: MOVIEMAX STARS
-http://live.softiptv.com:9900/live/3month/3month/18977.ts 
-#EXTINF:-1,TR: MOVIEMAX FAMILY
-http://live.softiptv.com:9900/live/3month/3month/18978.ts 
-#EXTINF:-1,TR: MOVIEMAX ACTION
-http://live.softiptv.com:9900/live/3month/3month/18980.ts 
-#EXTINF:-1,TR: KANAL D HD
-http://live.softiptv.com:9900/live/3month/3month/18996.ts 
-#EXTINF:-1,TR: KANAL 7 HD
-http://live.softiptv.com:9900/live/3month/3month/18997.ts 
-#EXTINF:-1,TR: Discovery Science HD
-http://live.softiptv.com:9900/live/3month/3month/18952.ts 
-#EXTINF:-1,TR: Discovery HD
-http://live.softiptv.com:9900/live/3month/3month/18953.ts 
-#EXTINF:-1,TR: CNN TURK
-http://live.softiptv.com:9900/live/3month/3month/19001.ts 
-#EXTINF:-1,TR: CINESTAR VIZYON 3
-http://live.softiptv.com:9900/live/3month/3month/18960.ts 
-#EXTINF:-1,TR: CINESTAR VIZYON 2
-http://live.softiptv.com:9900/live/3month/3month/18959.ts 
-#EXTINF:-1,TR: CINESTAR VIZYON 1
-http://live.softiptv.com:9900/live/3month/3month/18958.ts 
-#EXTINF:-1,TR: CINESTAR T
-http://live.softiptv.com:9900/live/3month/3month/18961.ts 
-#EXTINF:-1,TR: CINESTAR NOSTALJI
-http://live.softiptv.com:9900/live/3month/3month/18962.ts 
-#EXTINF:-1,TR: CINESTAR KORKU
-http://live.softiptv.com:9900/live/3month/3month/18963.ts 
-#EXTINF:-1,TR: CINESTAR KOMEDI
-http://live.softiptv.com:9900/live/3month/3month/18964.ts 
-#EXTINF:-1,TR: CINESTAR GERILIM
-http://live.softiptv.com:9900/live/3month/3month/18965.ts 
-#EXTINF:-1,TR: TVNET
-http://live.softiptv.com:9900/live/3month/3month/17526.ts 
-#EXTINF:-1,TR: TV8
-http://live.softiptv.com:9900/live/3month/3month/17528.ts 
-#EXTINF:-1,TR: TV2
-http://live.softiptv.com:9900/live/3month/3month/17527.ts 
-#EXTINF:-1,TR: TRT1_HD
-http://live.softiptv.com:9900/live/3month/3month/17529.ts 
-#EXTINF:-1,TR: TRT_SPOR_HD
-http://live.softiptv.com:9900/live/3month/3month/17530.ts 
-#EXTINF:-1,TR: TRT_HABER_HD
-http://live.softiptv.com:9900/live/3month/3month/17531.ts 
-#EXTINF:-1,TR: TRT_COCUK_HD
-http://live.softiptv.com:9900/live/3month/3month/17533.ts 
-#EXTINF:-1,TR: TRT_BELGESEL
-http://live.softiptv.com:9900/live/3month/3month/17534.ts 
-#EXTINF:-1,TR: STAR_TV
-http://live.softiptv.com:9900/live/3month/3month/17537.ts 
-#EXTINF:-1,TR: SPORTS_TV
-http://live.softiptv.com:9900/live/3month/3month/17514.ts 
-#EXTINF:-1,TR: MOVIESMART_TURK
-http://live.softiptv.com:9900/live/3month/3month/17532.ts 
-#EXTINF:-1,TR: MOVIESMART_PREMIUM
-http://live.softiptv.com:9900/live/3month/3month/17522.ts 
-#EXTINF:-1,TR: MOVIESMART_PLATIN
-http://live.softiptv.com:9900/live/3month/3month/17524.ts 
-#EXTINF:-1,TR: MOVIESMART_GOLD
-http://live.softiptv.com:9900/live/3month/3month/17523.ts 
-#EXTINF:-1,TR: MOVIESMART_FAMILY
-http://live.softiptv.com:9900/live/3month/3month/17521.ts 
-#EXTINF:-1,TR: MOVIESMART_ACTION
-http://live.softiptv.com:9900/live/3month/3month/17520.ts 
-#EXTINF:-1,TR: IGTV_2_HD
-http://live.softiptv.com:9900/live/3month/3month/17517.ts 
-#EXTINF:-1,TR: IGTV_1_HD
-http://live.softiptv.com:9900/live/3month/3month/17516.ts 
-#EXTINF:-1,TR: CINESTAR_YES?LCAM
-http://live.softiptv.com:9900/live/3month/3month/17509.ts 
-#EXTINF:-1,TR: CINESTAR_T
-http://live.softiptv.com:9900/live/3month/3month/17506.ts 
-#EXTINF:-1,TR: CINESTAR_NOSTALJI
-http://live.softiptv.com:9900/live/3month/3month/17513.ts 
-#EXTINF:-1,TR: CINESTAR_KORKU
-http://live.softiptv.com:9900/live/3month/3month/17512.ts 
-#EXTINF:-1,TR: CINESTAR_KOMEDI
-http://live.softiptv.com:9900/live/3month/3month/17511.ts 
-#EXTINF:-1,TR: CINESTAR_GERILIM
-http://live.softiptv.com:9900/live/3month/3month/17510.ts 
-#EXTINF:-1,TR: CINESTAR_AILE
-http://live.softiptv.com:9900/live/3month/3month/17507.ts 
-#EXTINF:-1,TR: A_SPOR_HD
-http://live.softiptv.com:9900/live/3month/3month/17515.ts 
-#EXTINF:-1,TRT 1 HD
-http://live.softiptv.com:9900/live/3month/3month/16765.ts 
-#EXTINF:-1,TR:TRT Spor
-http://live.softiptv.com:9900/live/3month/3month/16767.ts 
-#EXTINF:-1,TR: TV  8
-http://live.softiptv.com:9900/live/3month/3month/16774.ts 
-#EXTINF:-1,TR: Trt Okul
-http://live.softiptv.com:9900/live/3month/3month/16782.ts 
-#EXTINF:-1,TR: TRT Cocuk
-http://live.softiptv.com:9900/live/3month/3month/16784.ts 
-#EXTINF:-1,TR: TRT Avaz
-http://live.softiptv.com:9900/live/3month/3month/16780.ts 
-#EXTINF:-1,TR: Tivibu Sport 2
-http://live.softiptv.com:9900/live/3month/3month/16790.ts 
-#EXTINF:-1,TR: Sinetivi
-http://live.softiptv.com:9900/live/3month/3month/16777.ts 
-#EXTINF:-1,TR: Sinema TV
-http://live.softiptv.com:9900/live/3month/3month/16781.ts 
-#EXTINF:-1,TR: Sinema Aile
-http://live.softiptv.com:9900/live/3month/3month/16789.ts 
-#EXTINF:-1,TR: Sinema 1001
-http://live.softiptv.com:9900/live/3month/3month/16778.ts 
-#EXTINF:-1,TR: SHOW TV  HD
-http://live.softiptv.com:9900/live/3month/3month/16772.ts 
-#EXTINF:-1,TR: Salon 3
-http://live.softiptv.com:9900/live/3month/3month/16795.ts 
-#EXTINF:-1,TR: Salon 2
-http://live.softiptv.com:9900/live/3month/3month/16794.ts 
-#EXTINF:-1,TR: Salon 1
-http://live.softiptv.com:9900/live/3month/3month/16793.ts 
-#EXTINF:-1,TR: Ntv Sport
-http://live.softiptv.com:9900/live/3month/3month/16791.ts 
-#EXTINF:-1,TR: NTV
-http://live.softiptv.com:9900/live/3month/3month/16779.ts 
-#EXTINF:-1,TR: National geografic turk
-http://live.softiptv.com:9900/live/3month/3month/16783.ts 
-#EXTINF:-1,TR: NatGeo Wild Turk
-http://live.softiptv.com:9900/live/3month/3month/16776.ts 
-#EXTINF:-1,TR: Lig 3 TV
-http://live.softiptv.com:9900/live/3month/3month/16788.ts 
-#EXTINF:-1,TR: Lig 2 TV
-http://live.softiptv.com:9900/live/3month/3month/16787.ts 
-#EXTINF:-1,TR: Lig 1 TV
-http://live.softiptv.com:9900/live/3month/3month/16786.ts 
-#EXTINF:-1,TR: KANAL D
-http://live.softiptv.com:9900/live/3month/3month/16770.ts 
-#EXTINF:-1,TR: KANAL 7
-http://live.softiptv.com:9900/live/3month/3month/16771.ts 
-#EXTINF:-1,TR: FOX  TV
-http://live.softiptv.com:9900/live/3month/3month/16769.ts 
-#EXTINF:-1,TR: Cartoon Network Turk
-http://live.softiptv.com:9900/live/3month/3month/16785.ts 
-#EXTINF:-1,TR: Beyaz TV
-http://live.softiptv.com:9900/live/3month/3month/16775.ts 
-#EXTINF:-1,TR: ATV
-http://live.softiptv.com:9900/live/3month/3month/16768.ts 
-#EXTINF:-1,TR: A sport
-http://live.softiptv.com:9900/live/3month/3month/16792.ts 
-#EXTINF:-1,TIVIBUSPOR 2
-http://live.softiptv.com:9900/live/3month/3month/3977.ts 
-#EXTINF:-1,TGRT HABER
-http://live.softiptv.com:9900/live/3month/3month/3979.ts 
-#EXTINF:-1,SALON 3 HD
-http://live.softiptv.com:9900/live/3month/3month/3980.ts 
-#EXTINF:-1,SALON 2 HD
-http://live.softiptv.com:9900/live/3month/3month/3981.ts 
-#EXTINF:-1,LIGTV 3 HD
-http://live.softiptv.com:9900/live/3month/3month/3984.ts 
-#EXTINF:-1,LIGTV 2 HD
-http://live.softiptv.com:9900/live/3month/3month/3985.ts 
-#EXTINF:-1,LIG TV HD 1
-http://live.softiptv.com:9900/live/3month/3month/3986.ts 
-#EXTINF:-1,AL:ZJarr TV (Musik)
-http://live.softiptv.com:9900/live/3month/3month/19371.ts 
-#EXTINF:-1,AL:Zico Tv
-http://live.softiptv.com:9900/live/3month/3month/19217.ts 
-#EXTINF:-1,AL:Zana Islam HD
-http://live.softiptv.com:9900/live/3month/3month/19262.ts 
-#EXTINF:-1,AL:Wedding-Channel TV
-http://live.softiptv.com:9900/live/3month/3month/19373.ts 
-#EXTINF:-1,AL:Vizion Plus -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19331.ts 
-#EXTINF:-1,AL:TVSH
-http://live.softiptv.com:9900/live/3month/3month/19195.ts 
-#EXTINF:-1,AL:TV Sharri HD
-http://live.softiptv.com:9900/live/3month/3month/19202.ts 
-#EXTINF:-1,AL:TV Samadrexha
-http://live.softiptv.com:9900/live/3month/3month/19211.ts 
-#EXTINF:-1,AL:TV OPOJA (Musik)
-http://live.softiptv.com:9900/live/3month/3month/19203.ts 
-#EXTINF:-1,AL:TV Mitrovica
-http://live.softiptv.com:9900/live/3month/3month/19233.ts 
-#EXTINF:-1,AL:TV Jeta
-http://live.softiptv.com:9900/live/3month/3month/19216.ts 
-#EXTINF:-1,AL:TV Gura
-http://live.softiptv.com:9900/live/3month/3month/19226.ts 
-#EXTINF:-1,AL:TV 2
-http://live.softiptv.com:9900/live/3month/3month/19363.ts 
-#EXTINF:-1,AL:Tring World -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19325.ts 
-#EXTINF:-1,AL:Tring Tring -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19321.ts 
-#EXTINF:-1,AL:Tring Super-Tring
-http://live.softiptv.com:9900/live/3month/3month/19318.ts 
-#EXTINF:-1,AL:Tring Super -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19319.ts 
-#EXTINF:-1,AL:Tring Sport News -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19332.ts 
-#EXTINF:-1,AL:Tring Planet -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19326.ts 
-#EXTINF:-1,AL:Tring Max -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19317.ts 
-#EXTINF:-1,AL:Tring Life -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19320.ts 
-#EXTINF:-1,AL:Tring Komedi -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19323.ts 
-#EXTINF:-1,AL:Tring Histori -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19327.ts 
-#EXTINF:-1,AL:Tring Fantazi -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19316.ts 
-#EXTINF:-1,AL:Tribuna TV (Lajme)
-http://live.softiptv.com:9900/live/3month/3month/19374.ts 
-#EXTINF:-1,AL:Travel Channel -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19335.ts 
-#EXTINF:-1,AL:TopEstrada Tv
-http://live.softiptv.com:9900/live/3month/3month/19205.ts 
-#EXTINF:-1,AL:Top News -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19286.ts 
-#EXTINF:-1,AL:Top Channel HD -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19278.ts 
-#EXTINF:-1,AL:Top Channel -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19280.ts 
-#EXTINF:-1,AL:Tirana TV
-http://live.softiptv.com:9900/live/3month/3month/19230.ts 
-#EXTINF:-1,AL:Tip TV -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19337.ts 
-#EXTINF:-1,AL:T Stinet-Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19279.ts 
-#EXTINF:-1,AL:T HD Channel -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19282.ts 
-#EXTINF:-1,AL:STV Folk -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19237.ts 
-#EXTINF:-1,AL:Sofia -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19300.ts 
-#EXTINF:-1,AL:Smile -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19299.ts 
-#EXTINF:-1,AL:Sky Shkence
-http://live.softiptv.com:9900/live/3month/3month/19347.ts 
-#EXTINF:-1,AL:Sky Histori
-http://live.softiptv.com:9900/live/3month/3month/19346.ts 
-#EXTINF:-1,AL:ShqipTV Western HD
-http://live.softiptv.com:9900/live/3month/3month/19258.ts 
-#EXTINF:-1,AL:ShqipTV Stupcat HD
-http://live.softiptv.com:9900/live/3month/3month/19254.ts 
-#EXTINF:-1,AL:ShqipTV Mimi HD
-http://live.softiptv.com:9900/live/3month/3month/19256.ts 
-#EXTINF:-1,AL:ShqipTV Komedi HD
-http://live.softiptv.com:9900/live/3month/3month/19252.ts 
-#EXTINF:-1,AL:ShqipTV Kino-DE HD
-http://live.softiptv.com:9900/live/3month/3month/19248.ts 
-#EXTINF:-1,AL:ShqipTV Islam HD
-http://live.softiptv.com:9900/live/3month/3month/19257.ts 
-#EXTINF:-1,AL:ShqipTV Horror HD
-http://live.softiptv.com:9900/live/3month/3month/19251.ts 
-#EXTINF:-1,AL:ShqipTV Hindi HD
-http://live.softiptv.com:9900/live/3month/3month/19253.ts 
-#EXTINF:-1,AL:ShqipTV Film HD
-http://live.softiptv.com:9900/live/3month/3month/19249.ts 
-#EXTINF:-1,AL:ShqipTV Aksion HD
-http://live.softiptv.com:9900/live/3month/3month/19247.ts 
-#EXTINF:-1,AL:ShqipTV 
-http://live.softiptv.com:9900/live/3month/3month/19255.ts 
-#EXTINF:-1,AL:RTV21 Popullore -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19187.ts 
-#EXTINF:-1,AL:RTV21 Plus -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19189.ts 
-#EXTINF:-1,AL:RTV21 Mix
-http://live.softiptv.com:9900/live/3month/3month/19190.ts 
-#EXTINF:-1,AL:RTV21 Maqedonia -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19191.ts 
-#EXTINF:-1,AL:RTV21 junior -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19192.ts 
-#EXTINF:-1,AL:RTV21 -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19188.ts 
-#EXTINF:-1,AL:RTSH ART
-http://live.softiptv.com:9900/live/3month/3month/19228.ts 
-#EXTINF:-1,AL:RTK4
-http://live.softiptv.com:9900/live/3month/3month/19186.ts 
-#EXTINF:-1,AL:RTK3
-http://live.softiptv.com:9900/live/3month/3month/19185.ts 
-#EXTINF:-1,AL:RTK2 Toksor
-http://live.softiptv.com:9900/live/3month/3month/19184.ts 
-#EXTINF:-1,AL:RTK1
-http://live.softiptv.com:9900/live/3month/3month/19183.ts 
-#EXTINF:-1,AL:RROKUM TV
-http://live.softiptv.com:9900/live/3month/3month/19372.ts 
-#EXTINF:-1,AL:REAL RTV
-http://live.softiptv.com:9900/live/3month/3month/19369.ts 
-#EXTINF:-1,AL:Plus TV
-http://live.softiptv.com:9900/live/3month/3month/19375.ts 
-#EXTINF:-1,AL:Plus HD -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19285.ts 
-#EXTINF:-1,AL:News24 -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19289.ts 
-#EXTINF:-1,AL:National Geographic -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19287.ts 
-#EXTINF:-1,AL:NatGeo -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19288.ts 
-#EXTINF:-1,AL:MyMusic
-http://live.softiptv.com:9900/live/3month/3month/19376.ts 
-#EXTINF:-1,AL:MusicAL -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19240.ts 
-#EXTINF:-1,AL:Muse -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19339.ts 
-#EXTINF:-1,AL:MTV Kosova
-http://live.softiptv.com:9900/live/3month/3month/19223.ts 
-#EXTINF:-1,AL:Motors TV -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19336.ts 
-#EXTINF:-1,AL:Malesia HD
-http://live.softiptv.com:9900/live/3month/3month/19204.ts 
-#EXTINF:-1,AL:Living -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19328.ts 
-#EXTINF:-1,AL:KTV HD
-http://live.softiptv.com:9900/live/3month/3month/19193.ts 
-#EXTINF:-1,AL:KTV -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19194.ts 
-#EXTINF:-1,AL:KS Film Thriller
-http://live.softiptv.com:9900/live/3month/3month/19307.ts 
-#EXTINF:-1,AL:Koha TV
-http://live.softiptv.com:9900/live/3month/3month/19201.ts 
-#EXTINF:-1,AL:Klan TV -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19199.ts 
-#EXTINF:-1,AL:Klan Kosova -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19197.ts 
-#EXTINF:-1,AL:Klan HD -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19200.ts 
-#EXTINF:-1,AL:Kino Romanc
-http://live.softiptv.com:9900/live/3month/3month/19310.ts 
-#EXTINF:-1,AL:Kino Premium 3 HD -Permium
-http://live.softiptv.com:9900/live/3month/3month/19306.ts 
-#EXTINF:-1,AL:Kino Premium 2 HD -Permium
-http://live.softiptv.com:9900/live/3month/3month/19305.ts 
-#EXTINF:-1,AL:Kino Premium 1 HD -Permium
-http://live.softiptv.com:9900/live/3month/3month/19304.ts 
-#EXTINF:-1,AL:Kino Prank
-http://live.softiptv.com:9900/live/3month/3month/19311.ts 
-#EXTINF:-1,AL:Kino Family HD
-http://live.softiptv.com:9900/live/3month/3month/19308.ts 
-#EXTINF:-1,AL:Kino Dark HD
-http://live.softiptv.com:9900/live/3month/3month/19309.ts 
-#EXTINF:-1,AL:Kino Aksion -Permium
-http://live.softiptv.com:9900/live/3month/3month/19302.ts 
-#EXTINF:-1,AL:Kanali 7
-http://live.softiptv.com:9900/live/3month/3month/19333.ts 
-#EXTINF:-1,AL:Junior -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19281.ts 
-#EXTINF:-1,AL:JUG TV
-http://live.softiptv.com:9900/live/3month/3month/19362.ts 
-#EXTINF:-1,AL:IN Cine Mania TV
-http://live.softiptv.com:9900/live/3month/3month/19365.ts 
-#EXTINF:-1,AL:Haruni IPTV
-http://live.softiptv.com:9900/live/3month/3month/19209.ts 
-#EXTINF:-1,AL:H Muzik
-http://live.softiptv.com:9900/live/3month/3month/19210.ts 
-#EXTINF:-1,AL:Globi TV
-http://live.softiptv.com:9900/live/3month/3month/19364.ts 
-#EXTINF:-1,AL:FOX TV HD
-http://live.softiptv.com:9900/live/3month/3month/19340.ts 
-#EXTINF:-1,AL:Fox Life -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19283.ts 
-#EXTINF:-1,AL:Fox Life -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19329.ts 
-#EXTINF:-1,AL:Fox Crime -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19330.ts 
-#EXTINF:-1,AL:Fox Crime -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19284.ts 
-#EXTINF:-1,AL:Folklorit -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19239.ts 
-#EXTINF:-1,AL:Folk -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19238.ts 
-#EXTINF:-1,AL:First Channel-Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19242.ts 
-#EXTINF:-1,AL:Filma24 HD
-http://live.softiptv.com:9900/live/3month/3month/19246.ts 
-#EXTINF:-1,AL:Film Nje HD -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19269.ts 
-#EXTINF:-1,AL:Film Komedi -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19277.ts 
-#EXTINF:-1,AL:Film Dy HD -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19270.ts 
-#EXTINF:-1,AL:Film Drame -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19276.ts 
-#EXTINF:-1,AL:Film Aksion -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19271.ts 
-#EXTINF:-1,AL:EXP Shkenca -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19291.ts 
-#EXTINF:-1,AL:EXP Natyra -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19293.ts 
-#EXTINF:-1,AL:EXP Histori -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19294.ts 
-#EXTINF:-1,AL:ERA TV -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19234.ts 
-#EXTINF:-1,AL:Elrodi TV
-http://live.softiptv.com:9900/live/3month/3month/19236.ts 
-#EXTINF:-1,AL:Disney Channel -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19301.ts 
-#EXTINF:-1,AL:Discovery -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19292.ts 
-#EXTINF:-1,AL:Digi Gold 4 HD
-http://live.softiptv.com:9900/live/3month/3month/19268.ts 
-#EXTINF:-1,AL:Digi Gold 3 HD
-http://live.softiptv.com:9900/live/3month/3month/19267.ts 
-#EXTINF:-1,AL:Digi Gold 2 HD
-http://live.softiptv.com:9900/live/3month/3month/19266.ts 
-#EXTINF:-1,AL:Digi Gold 1 HD
-http://live.softiptv.com:9900/live/3month/3month/19265.ts 
-#EXTINF:-1,AL:Digi Gold -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19264.ts 
-#EXTINF:-1,AL:Dasma TV (Musik)
-http://live.softiptv.com:9900/live/3month/3month/19232.ts 
-#EXTINF:-1,AL:Cyti TV
-http://live.softiptv.com:9900/live/3month/3month/19377.ts 
-#EXTINF:-1,AL:Cufo -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19297.ts 
-#EXTINF:-1,AL:Club TV -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19338.ts 
-#EXTINF:-1,AL:CLICK-Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19334.ts 
-#EXTINF:-1,AL:City Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19213.ts 
-#EXTINF:-1,AL:Burimi TV
-http://live.softiptv.com:9900/live/3month/3month/19206.ts 
-#EXTINF:-1,AL:Blue Sky  TV
-http://live.softiptv.com:9900/live/3month/3month/19215.ts 
-#EXTINF:-1,AL:BBF -Tring TV
-http://live.softiptv.com:9900/live/3month/3month/19241.ts 
-#EXTINF:-1,AL:Bang Bang -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19296.ts 
-#EXTINF:-1,AL:Baby TV -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19298.ts 
-#EXTINF:-1,AL:Apollon
-http://live.softiptv.com:9900/live/3month/3month/19360.ts 
-#EXTINF:-1,AL:Antena HD
-http://live.softiptv.com:9900/live/3month/3month/19378.ts 
-#EXTINF:-1,AL:Alsat M -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19221.ts 
-#EXTINF:-1,AL:ALPO TV
-http://live.softiptv.com:9900/live/3month/3month/19361.ts 
-#EXTINF:-1,AL:ALB THRILLER
-http://live.softiptv.com:9900/live/3month/3month/19351.ts 
-#EXTINF:-1,AL:ALB POPULLOR
-http://live.softiptv.com:9900/live/3month/3month/19231.ts 
-#EXTINF:-1,AL:ALB MUSIK HD
-http://live.softiptv.com:9900/live/3month/3month/19353.ts 
-#EXTINF:-1,AL:Alb Kids 3
-http://live.softiptv.com:9900/live/3month/3month/19359.ts 
-#EXTINF:-1,AL:Alb Kids 2
-http://live.softiptv.com:9900/live/3month/3month/19358.ts 
-#EXTINF:-1,AL:Alb Kids 1
-http://live.softiptv.com:9900/live/3month/3month/19357.ts 
-#EXTINF:-1,AL:Alb Humor 2 HD
-http://live.softiptv.com:9900/live/3month/3month/19244.ts 
-#EXTINF:-1,AL:ALB Hits HD
-http://live.softiptv.com:9900/live/3month/3month/19354.ts 
-#EXTINF:-1,AL:ALB HINDI
-http://live.softiptv.com:9900/live/3month/3month/19349.ts 
-#EXTINF:-1,AL:Alb Cifteli HD
-http://live.softiptv.com:9900/live/3month/3month/19235.ts 
-#EXTINF:-1,AL:Alb Anime
-http://live.softiptv.com:9900/live/3month/3month/19356.ts 
-#EXTINF:-1,AL:Alb Action
-http://live.softiptv.com:9900/live/3month/3month/19348.ts 
-#EXTINF:-1,AL:ABC News -Digitalb
-http://live.softiptv.com:9900/live/3month/3month/19290.ts 
-#EXTINF:-1,AL:6 1 Vlora Tv
-http://live.softiptv.com:9900/live/3month/3month/19208.ts 
-#EXTINF:-1,AL: Supersonic TV
-http://live.softiptv.com:9900/live/3month/3month/19225.ts 
-#EXTINF:-1,AL: A1 Shqiptare
-http://live.softiptv.com:9900/live/3month/3month/19224.ts 
-#EXTINF:-1,ES-TOROS  HD
-http://live.softiptv.com:9900/live/3month/3month/19479.ts 
-#EXTINF:-1,ES-TOROS
-http://live.softiptv.com:9900/live/3month/3month/19521.ts 
-#EXTINF:-1,ES-TNT
-http://live.softiptv.com:9900/live/3month/3month/19506.ts 
-#EXTINF:-1,ES-Telesur
-http://live.softiptv.com:9900/live/3month/3month/19507.ts 
-#EXTINF:-1,ES-SYFY
-http://live.softiptv.com:9900/live/3month/3month/19522.ts 
-#EXTINF:-1,ES-SKY TG24
-http://live.softiptv.com:9900/live/3month/3month/19480.ts 
-#EXTINF:-1,ES-RT DOC
-http://live.softiptv.com:9900/live/3month/3month/19481.ts 
-#EXTINF:-1,ES-REAL MADRID TV
-http://live.softiptv.com:9900/live/3month/3month/19508.ts 
-#EXTINF:-1,ES-RAI NEWS24
-http://live.softiptv.com:9900/live/3month/3month/19482.ts 
-#EXTINF:-1,ES-QUATRO
-http://live.softiptv.com:9900/live/3month/3month/19509.ts 
-#EXTINF:-1,ES-Parlamento
-http://live.softiptv.com:9900/live/3month/3month/19510.ts 
-#EXTINF:-1,ES-PANDA
-http://live.softiptv.com:9900/live/3month/3month/19523.ts 
-#EXTINF:-1,ES-NICK JR
-http://live.softiptv.com:9900/live/3month/3month/19483.ts 
-#EXTINF:-1,ES-NEOX
-http://live.softiptv.com:9900/live/3month/3month/19524.ts 
-#EXTINF:-1,ES-MULTIDEPORTE
-http://live.softiptv.com:9900/live/3month/3month/19484.ts 
-#EXTINF:-1,ES-LOS 40
-http://live.softiptv.com:9900/live/3month/3month/19511.ts 
-#EXTINF:-1,ES-LALIGA TV BAR HD
-http://live.softiptv.com:9900/live/3month/3month/19512.ts 
-#EXTINF:-1,ES-LALIGA TV BAR
-http://live.softiptv.com:9900/live/3month/3month/19513.ts 
-#EXTINF:-1,ES-IBERALIA TV
-http://live.softiptv.com:9900/live/3month/3month/19525.ts 
-#EXTINF:-1,ES-HOLLYWOOD
-http://live.softiptv.com:9900/live/3month/3month/19526.ts 
-#EXTINF:-1,ES-HISTORY
-http://live.softiptv.com:9900/live/3month/3month/19485.ts 
-#EXTINF:-1,ES-GolTV
-http://live.softiptv.com:9900/live/3month/3month/19486.ts 
-#EXTINF:-1,ES-FOX NEWS
-http://live.softiptv.com:9900/live/3month/3month/19487.ts 
-#EXTINF:-1,ES-FDF
-http://live.softiptv.com:9900/live/3month/3month/19488.ts 
-#EXTINF:-1,ES-eurosport hd
-http://live.softiptv.com:9900/live/3month/3month/19489.ts 
-#EXTINF:-1,ES-ESTRELAS
-http://live.softiptv.com:9900/live/3month/3month/19514.ts 
-#EXTINF:-1,ES-EHS
-http://live.softiptv.com:9900/live/3month/3month/19527.ts 
-#EXTINF:-1,ES-DISNEY CHANNEL HD
-http://live.softiptv.com:9900/live/3month/3month/19490.ts 
-#EXTINF:-1,ES-DISCOVERY CHANNEL
-http://live.softiptv.com:9900/live/3month/3month/19491.ts 
-#EXTINF:-1,ES-CUATRO
-http://live.softiptv.com:9900/live/3month/3month/19492.ts 
-#EXTINF:-1,ES-COMEDY CENTRAL HD
-http://live.softiptv.com:9900/live/3month/3month/19515.ts 
-#EXTINF:-1,ES-CLASSICA
-http://live.softiptv.com:9900/live/3month/3month/19493.ts 
-#EXTINF:-1,ES-CLAN TVE
-http://live.softiptv.com:9900/live/3month/3month/19494.ts 
-#EXTINF:-1,ES-CAZA Y PESCA HD
-http://live.softiptv.com:9900/live/3month/3month/19516.ts 
-#EXTINF:-1,ES-CASTILLA LA MANCHA
-http://live.softiptv.com:9900/live/3month/3month/19495.ts 
-#EXTINF:-1,ES-CANAL DECASA
-http://live.softiptv.com:9900/live/3month/3month/19528.ts 
-#EXTINF:-1,ES-CANAL COCINA
-http://live.softiptv.com:9900/live/3month/3month/19517.ts 
-#EXTINF:-1,ES-CALLE 13 HD
-http://live.softiptv.com:9900/live/3month/3month/19496.ts 
-#EXTINF:-1,ES-C XTRA
-http://live.softiptv.com:9900/live/3month/3month/19529.ts 
-#EXTINF:-1,ES-C & I
-http://live.softiptv.com:9900/live/3month/3month/19497.ts 
-#EXTINF:-1,ES-C  COMEDIA
-http://live.softiptv.com:9900/live/3month/3month/19530.ts 
-#EXTINF:-1,ES-BLOOMBERG TV
-http://live.softiptv.com:9900/live/3month/3month/19498.ts 
-#EXTINF:-1,ES-BEIN SPORT HD
-http://live.softiptv.com:9900/live/3month/3month/19499.ts 
-#EXTINF:-1,ES-BEIN SPORT
-http://live.softiptv.com:9900/live/3month/3month/19500.ts 
-#EXTINF:-1,ES-BEIN LALIGA HD
-http://live.softiptv.com:9900/live/3month/3month/19518.ts 
-#EXTINF:-1,ES-BEIN LALIGA
-http://live.softiptv.com:9900/live/3month/3month/19519.ts 
-#EXTINF:-1,ES-Bar?a TV
-http://live.softiptv.com:9900/live/3month/3month/19501.ts 
-#EXTINF:-1,ES-AXN WHITE HD
-http://live.softiptv.com:9900/live/3month/3month/19502.ts 
-#EXTINF:-1,ES-ARIRANG WORLD
-http://live.softiptv.com:9900/live/3month/3month/19503.ts 
-#EXTINF:-1,ES-AMC
-http://live.softiptv.com:9900/live/3month/3month/19520.ts 
-#EXTINF:-1,ES-Al Jazeera
-http://live.softiptv.com:9900/live/3month/3month/19504.ts 
-#EXTINF:-1,ES-#0 HD
-http://live.softiptv.com:9900/live/3month/3month/19505.ts 
-#EXTINF:-1,ES-TNT HD
-http://live.softiptv.com:9900/live/3month/3month/8185.ts 
-#EXTINF:-1,ES-TELEDEPORTE
-http://live.softiptv.com:9900/live/3month/3month/8187.ts 
-#EXTINF:-1,ES-TELECINCO HD
-http://live.softiptv.com:9900/live/3month/3month/8188.ts 
-#EXTINF:-1,ES-TELECINCO
-http://live.softiptv.com:9900/live/3month/3month/8189.ts 
-#EXTINF:-1,ES-TCM HD
-http://live.softiptv.com:9900/live/3month/3month/8190.ts 
-#EXTINF:-1,ES-TCM
-http://live.softiptv.com:9900/live/3month/3month/8191.ts 
-#EXTINF:-1,ES-RT NEWS ENG
-http://live.softiptv.com:9900/live/3month/3month/8193.ts 
-#EXTINF:-1,ES-RT
-http://live.softiptv.com:9900/live/3month/3month/8194.ts 
-#EXTINF:-1,ES-PLAYBOY TV
-http://live.softiptv.com:9900/live/3month/3month/8196.ts 
-#EXTINF:-1,ES-PARAMOUNT
-http://live.softiptv.com:9900/live/3month/3month/8197.ts 
-#EXTINF:-1,ES-NOVA
-http://live.softiptv.com:9900/live/3month/3month/8199.ts 
-#EXTINF:-1,ES-Nickelodeon
-http://live.softiptv.com:9900/live/3month/3month/8200.ts 
-#EXTINF:-1,ES-NHK WORLD
-http://live.softiptv.com:9900/live/3month/3month/8201.ts 
-#EXTINF:-1,ES-NAT GEOGRAPH
-http://live.softiptv.com:9900/live/3month/3month/8203.ts 
-#EXTINF:-1,ES-NAT GEO WILD HD
-http://live.softiptv.com:9900/live/3month/3month/8204.ts 
-#EXTINF:-1,ES-NAT GEO WILD
-http://live.softiptv.com:9900/live/3month/3month/8205.ts 
-#EXTINF:-1,ES-MOVISTAR F1 HD
-http://live.softiptv.com:9900/live/3month/3month/8206.ts 
-#EXTINF:-1,ES-MOTOGP HD
-http://live.softiptv.com:9900/live/3month/3month/8207.ts 
-#EXTINF:-1,ES-MOTO GP
-http://live.softiptv.com:9900/live/3month/3month/8208.ts 
-#EXTINF:-1,ES-LTC
-http://live.softiptv.com:9900/live/3month/3month/8209.ts 
-#EXTINF:-1,ES-LIGA HD
-http://live.softiptv.com:9900/live/3month/3month/8210.ts 
-#EXTINF:-1,ES-LA SEXTA HD
-http://live.softiptv.com:9900/live/3month/3month/8212.ts 
-#EXTINF:-1,ES-LA SEXTA
-http://live.softiptv.com:9900/live/3month/3month/8213.ts 
-#EXTINF:-1,ES-LA 2
-http://live.softiptv.com:9900/live/3month/3month/8214.ts 
-#EXTINF:-1,ES-LA 1 HD
-http://live.softiptv.com:9900/live/3month/3month/8215.ts 
-#EXTINF:-1,ES-LA 1
-http://live.softiptv.com:9900/live/3month/3month/8216.ts 
-#EXTINF:-1,ES-HOLLYWOOD HD
-http://live.softiptv.com:9900/live/3month/3month/8217.ts 
-#EXTINF:-1,ES-HISTORIA
-http://live.softiptv.com:9900/live/3month/3month/8219.ts 
-#EXTINF:-1,ES-FRANCE 24-EN
-http://live.softiptv.com:9900/live/3month/3month/8220.ts 
-#EXTINF:-1,ES-FOX LIFE HD
-http://live.softiptv.com:9900/live/3month/3month/8221.ts 
-#EXTINF:-1,ES-FOX LIFE
-http://live.softiptv.com:9900/live/3month/3month/8222.ts 
-#EXTINF:-1,ES-FOX HD
-http://live.softiptv.com:9900/live/3month/3month/8223.ts 
-#EXTINF:-1,ES-FOX
-http://live.softiptv.com:9900/live/3month/3month/8224.ts 
-#EXTINF:-1,ES-EUROSPORT 2
-http://live.softiptv.com:9900/live/3month/3month/8225.ts 
-#EXTINF:-1,ES-EUROSPORT 1
-http://live.softiptv.com:9900/live/3month/3month/8226.ts 
-#EXTINF:-1,ES-ES-40 TV
-http://live.softiptv.com:9900/live/3month/3month/8228.ts 
-#EXTINF:-1,ES-ENERGY
-http://live.softiptv.com:9900/live/3month/3month/8229.ts 
-#EXTINF:-1,ES-DIVINITY
-http://live.softiptv.com:9900/live/3month/3month/8231.ts 
-#EXTINF:-1,ES-DISNEY XD
-http://live.softiptv.com:9900/live/3month/3month/8232.ts 
-#EXTINF:-1,ES-DISNEY JR
-http://live.softiptv.com:9900/live/3month/3month/8233.ts 
-#EXTINF:-1,ES-DISNEY CH.
-http://live.softiptv.com:9900/live/3month/3month/8234.ts 
-#EXTINF:-1,ES-DISCOVERY
-http://live.softiptv.com:9900/live/3month/3month/8235.ts 
-#EXTINF:-1,ES-DEPORTES 2
-http://live.softiptv.com:9900/live/3month/3month/8236.ts 
-#EXTINF:-1,ES-DCINE
-http://live.softiptv.com:9900/live/3month/3month/8237.ts 
-#EXTINF:-1,ES-CUATRO HD
-http://live.softiptv.com:9900/live/3month/3month/8238.ts 
-#EXTINF:-1,ES-COSMOPOLITAN HD
-http://live.softiptv.com:9900/live/3month/3month/8239.ts 
-#EXTINF:-1,ES-COSMO
-http://live.softiptv.com:9900/live/3month/3month/8240.ts 
-#EXTINF:-1,ES-CAZA Y PESCA
-http://live.softiptv.com:9900/live/3month/3month/8242.ts 
-#EXTINF:-1,ES-CANAL SUR ANDALUCIA
-http://live.softiptv.com:9900/live/3month/3month/8243.ts 
-#EXTINF:-1,ES-CANAL ODISEA
-http://live.softiptv.com:9900/live/3month/3month/8244.ts 
-#EXTINF:-1,ES-Canal Extremadura SAT
-http://live.softiptv.com:9900/live/3month/3month/8245.ts 
-#EXTINF:-1,ES-CALLE 13
-http://live.softiptv.com:9900/live/3month/3month/8248.ts 
-#EXTINF:-1,ES-C&I
-http://live.softiptv.com:9900/live/3month/3month/8249.ts 
-#EXTINF:-1,ES-C COMEDIA HD
-http://live.softiptv.com:9900/live/3month/3month/8250.ts 
-#EXTINF:-1,ES-C  SERIESXTRA
-http://live.softiptv.com:9900/live/3month/3month/8251.ts 
-#EXTINF:-1,ES-C  Series Xtra HD
-http://live.softiptv.com:9900/live/3month/3month/8252.ts 
-#EXTINF:-1,ES-C  SERIES HD
-http://live.softiptv.com:9900/live/3month/3month/8253.ts 
-#EXTINF:-1,ES-C  SERIES
-http://live.softiptv.com:9900/live/3month/3month/8254.ts 
-#EXTINF:-1,ES-C  PORTADA
-http://live.softiptv.com:9900/live/3month/3month/8255.ts 
-#EXTINF:-1,ES-C  LIGA
-http://live.softiptv.com:9900/live/3month/3month/8256.ts 
-#EXTINF:-1,ES-C  GOLF HD
-http://live.softiptv.com:9900/live/3month/3month/8257.ts 
-#EXTINF:-1,ES-C  GOLF
-http://live.softiptv.com:9900/live/3month/3month/8258.ts 
-#EXTINF:-1,ES-C  FUTBOL HD
-http://live.softiptv.com:9900/live/3month/3month/8259.ts 
-#EXTINF:-1,ES-C  FTBOL
-http://live.softiptv.com:9900/live/3month/3month/8260.ts 
-#EXTINF:-1,ES-C  DEPORTES
-http://live.softiptv.com:9900/live/3month/3month/8262.ts 
-#EXTINF:-1,ES-C  DCINE HD
-http://live.softiptv.com:9900/live/3month/3month/8263.ts 
-#EXTINF:-1,ES-C  ACCI©N HD
-http://live.softiptv.com:9900/live/3month/3month/8265.ts 
-#EXTINF:-1,ES-BOING
-http://live.softiptv.com:9900/live/3month/3month/8267.ts 
-#EXTINF:-1,ES-BEIN SPORT MAX 9
-http://live.softiptv.com:9900/live/3month/3month/8268.ts 
-#EXTINF:-1,ES-BEIN SPORT MAX 8
-http://live.softiptv.com:9900/live/3month/3month/8269.ts 
-#EXTINF:-1,ES-BEIN SPORT MAX 7
-http://live.softiptv.com:9900/live/3month/3month/8270.ts 
-#EXTINF:-1,ES-BEIN SPORT MAX 6
-http://live.softiptv.com:9900/live/3month/3month/8271.ts 
-#EXTINF:-1,ES-BEIN SPORT MAX 5
-http://live.softiptv.com:9900/live/3month/3month/8272.ts 
-#EXTINF:-1,ES-BEIN SPORT MAX 4
-http://live.softiptv.com:9900/live/3month/3month/8273.ts 
-#EXTINF:-1,ES-BEIN SPORT MAX 3
-http://live.softiptv.com:9900/live/3month/3month/8274.ts 
-#EXTINF:-1,ES-BEIN SPORT MAX 2
-http://live.softiptv.com:9900/live/3month/3month/8275.ts 
-#EXTINF:-1,ES-BEIN SPORT MAX 10
-http://live.softiptv.com:9900/live/3month/3month/8276.ts 
-#EXTINF:-1,ES-BEIN SPORT MAX 1
-http://live.softiptv.com:9900/live/3month/3month/8277.ts 
-#EXTINF:-1,ES-BAR TV
-http://live.softiptv.com:9900/live/3month/3month/8280.ts 
-#EXTINF:-1,ES-BABY TV
-http://live.softiptv.com:9900/live/3month/3month/8281.ts 
-#EXTINF:-1,ES-AXN WHITE
-http://live.softiptv.com:9900/live/3month/3month/8282.ts 
-#EXTINF:-1,ES-AXN HD
-http://live.softiptv.com:9900/live/3month/3month/8283.ts 
-#EXTINF:-1,ES-AXN
-http://live.softiptv.com:9900/live/3month/3month/8284.ts 
-#EXTINF:-1,ES-ARAGON TV
-http://live.softiptv.com:9900/live/3month/3month/8285.ts 
-#EXTINF:-1,ES-ANTENA 3 HD
-http://live.softiptv.com:9900/live/3month/3month/8286.ts 
-#EXTINF:-1,ES-ANTENA 3
-http://live.softiptv.com:9900/live/3month/3month/8287.ts 
-#EXTINF:-1,ES-AMC HD
-http://live.softiptv.com:9900/live/3month/3month/8288.ts 
-#EXTINF:-1,ES-AJE
-http://live.softiptv.com:9900/live/3month/3month/8290.ts 
-#EXTINF:-1,ES-A&E
-http://live.softiptv.com:9900/live/3month/3month/8291.ts 
-#EXTINF:-1,ES-24 HORAS
-http://live.softiptv.com:9900/live/3month/3month/8292.ts 
-#EXTINF:-1,ES-#0
-http://live.softiptv.com:9900/live/3month/3month/8293.ts
+#EXTINF:-1,CCTV-1HD
+http://61.166.153.30:1180/live/live100063.m3u8
+#EXTINF:-1,CCTV-2HD
+http://61.166.153.30:1180/live/live100064.m3u8
+#EXTINF:-1,CCTV-4HD
+http://61.166.153.30:1180/live/live100065.m3u8
+#EXTINF:-1,CCTV-5+HD
+http://61.166.153.30:1180/live/live100066.m3u8
+#EXTINF:-1,CCTV-7HD
+http://61.166.153.30:1180/live/live100067.m3u8
+#EXTINF:-1,CCTV-9HD
+http://61.166.153.30:1180/live/live100068.m3u8
+#EXTINF:-1,CCTV-10HD
+http://61.166.153.30:1180/live/live100069.m3u8
+#EXTINF:-1,CCTV-12HD
+http://61.166.153.30:1180/live/live100070.m3u8
+#EXTINF:-1,CCTV-14HD
+http://61.166.153.30:1180/live/live100071.m3u8
+#EXTINF:-1,云南卫视HD
+http://61.166.153.30:1180/live/live100097.m3u8
+#EXTINF:-1,湖南卫视HD
+http://61.166.153.30:1180/live/live100073.m3u8
+#EXTINF:-1,辽宁卫视HD
+http://61.166.153.30:1180/live/live100100.m3u8
+#EXTINF:-1,东方卫视HD
+http://61.166.153.30:1180/live/live100074.m3u8
+#EXTINF:-1,江苏卫视HD
+http://61.166.153.30:1180/live/live100075.m3u8
+#EXTINF:-1,北京卫视HD
+http://61.166.153.30:1180/live/live100076.m3u8
+#EXTINF:-1,深圳卫视HD
+http://61.166.153.30:1180/live/live100077.m3u8
+#EXTINF:-1,天津卫视HD
+http://61.166.153.30:1180/live/live100078.m3u8
+#EXTINF:-1,安徽卫视HD
+http://61.166.153.30:1180/live/live100079.m3u8
+#EXTINF:-1,湖北卫视HD
+http://61.166.153.30:1180/live/live100080.m3u8
+#EXTINF:-1,黑龙江卫视HD
+http://61.166.153.30:1180/live/live100081.m3u8
+#EXTINF:-1,IPTV野外
+http://61.166.153.30:1180/live/live100095.m3u8
+#EXTINF:-1,IPTV法制
+http://61.166.153.30:1180/live/live100096.m3u8
+#EXTINF:-1,IPTV综艺测试
+http://61.166.153.30:1180/live/live100003.m3u8
+#EXTINF:-1,IPTV体育测试
+http://61.166.153.30:1180/live/live100005.m3u8
+#EXTINF:-1,IPTV电影测试
+http://61.166.153.30:1180/live/live100006.m3u8
+#EXTINF:-1,IPTV电视剧测试
+http://61.166.153.30:1180/live/live100008.m3u8
+#EXTINF:-1,IPTV谍战剧场
+http://61.166.153.30:1180/live/live100093.m3u8
+#EXTINF:-1,IPTV相声小品
+http://61.166.153.30:1180/live/live100094.m3u8
+#EXTINF:-1,IPTV云视精品
+http://61.166.153.30:1180/live/live100024.m3u8
+#EXTINF:-1,IPTV收视指南
+http://61.166.153.30:1180/live/live100084.m3u8
+#EXTINF:-1,IPTV热播剧场
+http://61.166.153.30:1180/live/live100085.m3u8
+#EXTINF:-1,IPTV经典电影
+http://61.166.153.30:1180/live/live100086.m3u8
+#EXTINF:-1,IPTV魅力时尚
+http://61.166.153.30:1180/live/live100087.m3u8
+#EXTINF:-1,IPTV少儿动画
+http://61.166.153.30:1180/live/live100088.m3u8
+#EXTINF:-1,云南IPTV经典
+http://61.166.153.30:1180/live/live100025.m3u8
+#EXTINF:-1,云南生活咨询
+http://61.166.153.30:1180/live/live100026.m3u8
+#EXTINF:-1,云南IPTV记录
+http://61.166.153.30:1180/live/live100027.m3u8
+#EXTINF:-1,云南IPTV旅游
+http://61.166.153.30:1180/live/live100028.m3u8
+#EXTINF:-1,云南IPTV收藏
+http://61.166.153.30:1180/live/live100029.m3u8
+#EXTINF:-1,云南都市
+http://61.166.153.30:1180/live/live100018.m3u8
+#EXTINF:-1,云南娱乐
+http://61.166.153.30:1180/live/live100019.m3u8
+#EXTINF:-1,云南生活资讯
+http://61.166.153.30:1180/live/live100020.m3u8
+#EXTINF:-1,云南影视
+http://61.166.153.30:1180/live/live100021.m3u8
+#EXTINF:-1,云南公共
+http://61.166.153.30:1180/live/live100022.m3u8
+#EXTINF:-1,云南少儿
+http://61.166.153.30:1180/live/live100023.m3u8
+#EXTINF:-1,IPTV3+
+http://61.166.153.30:1180/live/live100089.m3u8
+#EXTINF:-1,IPTV5+
+http://61.166.153.30:1180/live/live100090.m3u8
+#EXTINF:-1,PTV6+
+Ihttp://61.166.153.30:1180/live/live100091.m3u8
+#EXTINF:-1,IPTV8+
+http://61.166.153.30:1180/live/live100092.m3u8
+#EXTINF:-1,CCTV-1
+http://61.166.153.30:1180/live/live100001.m3u8
+#EXTINF:-1,CCTV-2
+http://61.166.153.30:1180/live/live100002.m3u8
+#EXTINF:-1,CCTV-4
+http://61.166.153.30:1180/live/live100004.m3u8
+#EXTINF:-1,CCTV-7
+http://61.166.153.30:1180/live/live100007.m3u8
+#EXTINF:-1,CCTV-9
+http://61.166.153.30:1180/live/live100009.m3u8
+#EXTINF:-1,CCTV-10
+http://61.166.153.30:1180/live/live100010.m3u8
+#EXTINF:-1,CCTV-11
+http://61.166.153.30:1180/live/live100011.m3u8
+#EXTINF:-1,CCTV-12
+http://61.166.153.30:1180/live/live100012.m3u8
+#EXTINF:-1,CCTV-13
+http://61.166.153.30:1180/live/live100013.m3u8
+#EXTINF:-1,CCTV-14
+http://61.166.153.30:1180/live/live100014.m3u8
+#EXTINF:-1,CCTV-15
+http://61.166.153.30:1180/live/live100015.m3u8
+#EXTINF:-1,CCTV-News
+http://61.166.153.30:1180/live/live100016.m3u8
+#EXTINF:-1,云南卫视
+http://61.166.153.30:1180/live/live100017.m3u8
+#EXTINF:-1,湖南卫视
+http://61.166.153.30:1180/live/live100030.m3u8
+#EXTINF:-1,浙江卫视
+http://61.166.153.30:1180/live/live100031.m3u8
+#EXTINF:-1,江苏卫视
+http://61.166.153.30:1180/live/live100032.m3u8
+#EXTINF:-1,安徽卫视
+http://61.166.153.30:1180/live/live100033.m3u8
+#EXTINF:-1,北京卫视
+http://61.166.153.30:1180/live/live100034.m3u8
+#EXTINF:-1,天津卫视
+http://61.166.153.30:1180/live/live100035.m3u8
+#EXTINF:-1,N/A
+http://61.166.153.30:1180/live/live100036.m3u8
+#EXTINF:-1,山东卫视
+http://61.166.153.30:1180/live/live100037.m3u8
+#EXTINF:-1,河南卫视
+http://61.166.153.30:1180/live/live100038.m3u8
+#EXTINF:-1,黑龙江卫视
+http://61.166.153.30:1180/live/live100039.m3u8
+#EXTINF:-1,四川卫视
+http://61.166.153.30:1180/live/live100040.m3u8
+#EXTINF:-1,江西卫视
+http://61.166.153.30:1180/live/live100041.m3u8
+#EXTINF:-1,贵州卫视
+http://61.166.153.30:1180/live/live100042.m3u8
+#EXTINF:-1,深圳卫视
+http://61.166.153.30:1180/live/live100043.m3u8
+#EXTINF:-1,湖北卫视
+http://61.166.153.30:1180/live/live100044.m3u8
+#EXTINF:-1,东方卫视
+http://61.166.153.30:1180/live/live100045.m3u8
+#EXTINF:-1,重庆卫视
+http://61.166.153.30:1180/live/live100046.m3u8
+#EXTINF:-1,东南卫视
+http://61.166.153.30:1180/live/live100047.m3u8
+#EXTINF:-1,河北卫视
+http://61.166.153.30:1180/live/live100048.m3u8
+#EXTINF:-1,广东卫视
+http://61.166.153.30:1180/live/live100049.m3u8
+#EXTINF:-1,广西卫视
+http://61.166.153.30:1180/live/live100050.m3u8
+#EXTINF:-1,吉林卫视
+http://61.166.153.30:1180/live/live100051.m3u8
+#EXTINF:-1,陕西卫视
+http://61.166.153.30:1180/live/live100052.m3u8
+#EXTINF:-1,山西卫视
+http://61.166.153.30:1180/live/live100053.m3u8
+#EXTINF:-1,内蒙古卫视
+http://61.166.153.30:1180/live/live100054.m3u8
+#EXTINF:-1,青海卫视
+http://61.166.153.30:1180/live/live100055.m3u8
+#EXTINF:-1,旅游卫视
+http://61.166.153.30:1180/live/live100056.m3u8
+#EXTINF:-1,宁夏卫视
+http://61.166.153.30:1180/live/live100057.m3u8
+#EXTINF:-1,西藏卫视
+http://61.166.153.30:1180/live/live100058.m3u8
+#EXTINF:-1,新疆卫视
+http://61.166.153.30:1180/live/live100059.m3u8
+#EXTINF:-1,甘肃卫视
+http://61.166.153.30:1180/live/live100060.m3u8
+#EXTINF:-1,卡酷卡通
+http://61.166.153.30:1180/live/live100061.m3u8
+#EXTINF:-1,金鹰卡通
+http://61.166.153.30:1180/live/live100062
