@@ -80,20 +80,7 @@ http://edge2.everyon.tv/etv2sb/pld1206/playlist.m3u8
 https://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: RHD
-http://testlivestream.rfn.ru/live/smil:rhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: HD MUSIC
-http://80.250.191.10:1935/live/livestream3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: KIDS
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream6/masterPlaylist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: KIDS
-http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/102.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: KIDS
-http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/103.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ALJAZEERA
-rtmp://aljazeeraflashlivefs.fplive.net:443/aljazeeraflashlive-live/aljazeera_doc_high
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",ID: ALFORAT
-http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
+
 
 #EXTINF:-1,CCTV-1HD
 http://61.166.153.30:1180/live/live100063.m3u8
