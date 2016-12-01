@@ -35,17 +35,19 @@ http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",[COLOR orange] TRANS 7 [/COLOR]
 http://128.199.110.53/live/tv1/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="Indonesia",[COLOR orange] KOMPAS [/COLOR]
-http://202.137.11.52/jakarta/offair.sdp/playlist.m3u8
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20161201130341&etime=20161201170341&encoded=0c6630ba7d7a09c7ba761
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="Indonesia",[COLOR orange] TV ONE [/COLOR]
 http://128.199.187.12/live/tv3/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="Indonesia",[COLOR orange] TV ONE [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1264000000.m3u8?stime=20161201130741&etime=20161201170741&encoded=0f08264ba86a27fc4603a
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="Indonesia",[COLOR orange] METRO TV USEE [/COLOR]
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w520307628_b1300000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="Indonesia",[COLOR orange] ANTV [/COLOR]
-
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20161201130828&etime=20161201170828&encoded=0c9f330a73c478a8fa33e
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",[COLOR orange] SCTV [/COLOR]
 http://128.199.187.12/live/tv1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",[COLOR orange] FOX PREMIUM [/COLOR]
-
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",[COLOR orange]METRO TV USEE [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20161201130613&etime=20161201170613&encoded=03709b27852e120cbbea4
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="Indonesia",[COLOR orange] TVRI [/COLOR]
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png" group-title="Indonesia",[COLOR orange] METRO TV [/COLOR]
