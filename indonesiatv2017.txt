@@ -3,12 +3,12 @@
     "judul": "KompasTV",
     "info": "Kompas Berita Live",
     "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8",
-    "image_url": "http://lantaklaju.com/images2/KOMPASTV.png"
+    "image_url": "https://raw.githubusercontent.com/alzahmi001/TV-LIVE-FREE/master/Logo/logo_kompastv_big1.png"
   },
   {
     "judul": "MNCTV",
     "info": "TV Paling Asik",
-    "link_tv": "http://live.metube.id/tv/channel2000022/index1024.m3u8",
+    "link_tv": "http://cdn.live.metube.id/mnctv_240/index.m3u8",
     "image_url": "http://lantaklaju.com/images2/MNCTV.png"
   },
   {
@@ -75,7 +75,7 @@
     "judul": "METROTV",
     "info": "Berita 24 Jam",
     "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/chunklist_b846000.m3u8",
-    "image_url": "http://lantaklaju.com/images2/METROTV.png"
+    "image_url": "https://raw.githubusercontent.com/alzahmi001/TV-LIVE-FREE/master/Logo/logo_metrotv_big1.png"
   },
   {
     "judul": "iNewsTV",
