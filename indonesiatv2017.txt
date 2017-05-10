@@ -1,0 +1,98 @@
+[
+  {
+    "judul": "KompasTV",
+    "info": "Kompas Berita Live",
+    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/KOMPASTV.png"
+  },
+  {
+    "judul": "MNCTV",
+    "info": "TV Paling Asik",
+    "link_tv": "http://live.metube.id/tv/channel2000022/index1024.m3u8",
+    "image_url": "http://lantaklaju.com/images2/MNCTV.png"
+  },
+  {
+    "judul": "RTV",
+    "info": "Rajawali Televisi",
+    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/chunklist_b846000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/RTV.png"
+  },
+  {
+    "judul": "NET",
+    "info": "Siaran TV Masakini",
+    "link_tv": "https://r3---sn-uigxxn0h5ug5-230e.googlevideo.com/videoplayback/id/AlKoAjWP348.1/itag/136/source/yt_live_broadcast/requiressl/yes/gcr/id/ei/lC7sWObjOoqkowOdpKrQDQ/playlist_type/DVR/ratebypass/yes/cmbypass/yes/mime/video%2Fmp4/live/1/gir/yes/noclen/1/dur/5.000/upn/x_QiSWzyILw/key/cms1/signature/2637A041635B7E8A48642F9083CD89636C2D661C.113EBB252D242056C05D237422DCFDCA9B7F339D/cpn/LYL-IGcni0Ot62hh/mpd_version/4/pacing/0/ip/202.67.45.9/ipbits/0/expire/1491895029/sparams/cmbypass,dur,ei,expire,gcr,gir,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,noclen,pcm2cms,pl,playlist_type,ratebypass,requiressl,source/mm/32/mn/sn-uigxxn0h5ug5-230e/ms/lv/mt/1491873186/mv/u/pcm2cms/yes/pl/24/",
+    "image_url": "http://lantaklaju.com/images2/NETTV.png"
+  },
+  {
+    "judul": "Indosiar",
+    "info": "Mengabarkan Indonesia",
+    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/chunklist_b846000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/INDOSIAR.png"
+  },
+  {
+    "judul": "RCTI",
+    "info": "Sinetron Asik Masakini",
+    "link_tv": "http://live.metube.id/tv/channel3000004/index1000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/RCTI.png"
+  },
+  {
+    "judul": "SCTV",
+    "info": "Nonton FTV Makin Seru",
+    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/chunklist_b846000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/SCTV.png"
+  },
+  {
+    "judul": "GlobalTV",
+    "info": "Film Paling OK",
+    "link_tv": "http://live.metube.id/tv/channel2000041/index256.m3u8",
+    "image_url": "http://lantaklaju.com/images2/GLOBALTV.png"
+  },
+  {
+    "judul": "TRANS7",
+    "info": "TV Inspirasi",
+    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/chunklist_b846000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/TRANS7.png"
+  },
+  {
+    "judul": "TRANSTV",
+    "info": "Film BOX Office",
+    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/chunklist_b846000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/TRANSTV.png"
+  },
+  {
+    "judul": "ANTV",
+    "info": "Nonton India Asik",
+    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:antv.smil/chunklist_b846000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/ANTV.png"
+  },
+  {
+    "judul": "TVOne",
+    "info": "Nonton Berita Live",
+    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/chunklist_b846000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/TVONE.png"
+  },
+  {
+    "judul": "METROTV",
+    "info": "Berita 24 Jam",
+    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/chunklist_b846000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/METROTV.png"
+  },
+  {
+    "judul": "iNewsTV",
+    "info": "Stream Berita",
+    "link_tv": "http://live.metube.id/tv/channel3000005/index2000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/INEWSTV.png"
+  },
+  {
+    "judul": "TVRI",
+    "info": "Berita Nasional",
+    "link_tv": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8",
+    "image_url": "http://lantaklaju.com/images2/TVRI.png"
+  },
+  {
+    "judul": "Berita SATU",
+    "info": "Berita Indonesia",
+    "link_tv": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8",
+    "image_url": "http://lantaklaju.com/images2/BERITASATU.png"
+  }
+]
