@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",[COLOR red] NEW ASIA [/COLOR]
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_muslim.png" group-title="Indonesia",[COLOR green] MNC MUSLIM [/COLOR]
-http://edge.okeinfo.net/live/muslim/playlist.m3u8
+http://192.99.47.130:8000/live/stalker2/stalker2/511.ts
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_shop.png" group-title="Indonesia",[COLOR yellow] MNC SHOP [/COLOR]
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000037/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_lifestyle.png" group-title="Indonesia",[COLOR orange] MNC LIFE [/COLOR]
