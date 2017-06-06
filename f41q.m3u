@@ -24,8 +24,10 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000018/index512.m3u8
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_channel.png" group-title="Indonesia",[COLOR orange] MNC [/COLOR]
 http://edge.okeinfo.net/stream-epl/mnctv/chunklist_w1620284972.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="Indonesia",[COLOR orange] RCTI[/COLOR]
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="ID",[COLOR orange] RCTI[/COLOR]
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="ID",[COLOR orange] RCTI[/COLOR]
+http://cdn-live.metube.id/tv/channel3000004/index2000.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/gg/global_tv_id.png" group-title="Indonesia",[COLOR orange] GLOBAL TV [/COLOR]
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000041/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mnc_id_infotainment.png" group-title="Indonesia",[COLOR orange] MNC ENTERTAINMENT [/COLOR]
