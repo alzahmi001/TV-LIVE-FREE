@@ -1,12 +1,20 @@
 #EXTM3U
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" group-title="NEWS",[COLOR green] VOA  [/COLOR]
+#EXTINF:-1 tvg-logo="" group-title="USEETV",[COLOR green] FLIK  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:c83cb1181866/chunklist_b1424000.m3u8?stime=20170610064055&etime=20170610104055&encoded=08638b4eddcb6e97bc250
+#EXTINF:-1 tvg-logo="" group-title="USEETV",[COLOR green] DREAMWORK  [/COLOR]
+http://180.250.29.12/jhos/dreamworks_3/1497076944/playlist.m3u8?stime=20170610130000&etime=20170610160000&encoded=0b60686c725bf5a0046b7&ce=aa8bdddacd93
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] STARUP  [/COLOR]
+http://180.250.29.12/jhos/startup_3/1497077067/playlist.m3u8?stime=20170610130000&etime=20170610160000&encoded=0db9d1fdda0edfa9513a1&ce=93db06bd3f82
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] BEIN 1  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b856000.m3u8?stime=20170610064818&etime=20170610104818&encoded=04a0ad5047223674c0a77
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] VOA  [/COLOR]
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" group-title="ID",[COLOR green] BIOS TV  [/COLOR]
+#EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] BIOS TV  [/COLOR]
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" group-title="ID",[COLOR green] RIM TV  [/COLOR]
+#EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] RIM TV  [/COLOR]
 http://office.rim-tv.com:1935/live/smil:rimTV.smil/manifest.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" group-title="ID",[COLOR green] RODJA TV  [/COLOR]
+#EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] RODJA TV  [/COLOR]
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/idx_channel_id.png" group-title="NEWS",[COLOR red] NEW ASIA [/COLOR]
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_3_av-p.m3u8
