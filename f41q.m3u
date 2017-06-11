@@ -1,13 +1,15 @@
 #EXTM3U
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]
-#EXTINF:-1 tvg-logo="" group-title="USEETV",[COLOR green] FLIK  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:c83cb1181866/chunklist_b1424000.m3u8?stime=20170610064055&etime=20170610104055&encoded=08638b4eddcb6e97bc250
-#EXTINF:-1 tvg-logo="" group-title="USEETV",[COLOR green] DREAMWORK  [/COLOR]
-http://180.250.29.12/jhos/dreamworks_3/1497076944/playlist.m3u8?stime=20170610130000&etime=20170610160000&encoded=0b60686c725bf5a0046b7&ce=aa8bdddacd93
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] STARUP  [/COLOR]
-http://180.250.29.12/jhos/startup_3/1497077067/playlist.m3u8?stime=20170610130000&etime=20170610160000&encoded=0db9d1fdda0edfa9513a1&ce=93db06bd3f82
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] BEIN 1  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b856000.m3u8?stime=20170610064818&etime=20170610104818&encoded=04a0ad5047223674c0a77
+#EXTINF:-1 tvg-logo="" group-title="USEETV",[COLOR lime] ANTV  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170611150123&etime=20170611190123&encoded=04e7dce691a5697a0fa9e
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170611150251&etime=20170611190251&encoded=0dc7bf1b5cda1ef10f3cf
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170611150648&etime=20170611190648&encoded=09834209a481124cc611e
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] SCTV  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:a7517db73512/chunklist_b1264000000.m3u8?stime=20170611150844&etime=20170611190844&encoded=0d37004e5c49dbf7fe203
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170611150923&etime=20170611190923&encoded=095e33be28d6149c6c42b
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] VOA  [/COLOR]
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] BIOS TV  [/COLOR]
