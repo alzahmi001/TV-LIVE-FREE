@@ -14,6 +14,8 @@ http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1
 http://stream-02.sg1.dailymotion.com/08/dm/1/x4nwi47/live.isml/events(live-1497386363)/live-audio=128000-video=2100000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] VOA  [/COLOR]
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BLOOMBERG  [/COLOR]
+https://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] BIOS TV  [/COLOR]
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] RIM TV  [/COLOR]
@@ -25,7 +27,13 @@ http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/index_3_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9cnjX88.png" group-title="NEWS",[COLOR green] CNN  [/COLOR]
 http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.designvand.com/Contents/Users/11/euronews.jpg" group-title="NEWS",[COLOR yellow] EURONEWS [/COLOR]
-http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+http://euronews-en-p-cdn.hexaglobe.net/a468970960d97598cf94c559ebffccde/59417793/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenpri_eng.smil/ewnsabrenpri_eng_360p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR orange] RT NEWS [/COLOR]
+https://rt-eng-live-hls.secure.footprint.net/rt/eng/index2500.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR orange] ARIRANG [/COLOR]
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR orange] NHK [/COLOR]
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 #EXTINF:-1 tvg-logo="http://election.news.sky.com/img/sky-news-logo.png" group-title="NEWS",[COLOR orange] SKY NEWS [/COLOR]
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BBC.svg/300px-BBC.svg.png" group-title="NEWS",[COLOR green] BBC  [/COLOR]
