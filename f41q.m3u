@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]
 #EXTINF:-1 tvg-logo="" group-title="USEETV",[COLOR lime] ANTV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170614054215&etime=20170614094215&encoded=0df51113f2dc1c1648269
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170614173524&etime=20170614213524&encoded=0c0f9470066c29361bb14
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170614054328&etime=20170614094328&encoded=026cef8740d04303b3c2d
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170614173355&etime=20170614213355&encoded=0348f3fec09ae72487fcc
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170614054439&etime=20170614094439&encoded=00444a692ff0d8fbe2503
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170614173605&etime=20170614213605&encoded=062ef823e56c47c0e731d
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] SCTV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:a7517db73512/chunklist_b1264000000.m3u8?stime=20170614054554&etime=20170614094554&encoded=043f03d90388e1c40d9a7
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:a7517db73512/chunklist_b1264000000.m3u8?stime=20170614173651&etime=20170614213651&encoded=0779c32c111fb796a712f
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170614054618&etime=20170614094618&encoded=0edfda1a82b52a59ccc8b
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170614173730&etime=20170614213730&encoded=0fba122b9338228a64020
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR yellow] TRANS TV  [/COLOR]
 http://stream-02.sg1.dailymotion.com/08/dm/1/x4nwi47/live.isml/events(live-1497386363)/live-audio=128000-video=2100000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] VOA  [/COLOR]
