@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]
 #EXTINF:-1 tvg-logo="" group-title="USEETV",[COLOR lime] ANTV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170614173524&etime=20170614213524&encoded=0c0f9470066c29361bb14
+http://freeeucache.streamlive.to/live/a1wn1j3ra1w0cv0/index.m3u8?st=wPFAYC7MWR8YdZtlD6F1Pg&expires=1497495839
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170614173355&etime=20170614213355&encoded=0348f3fec09ae72487fcc
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
