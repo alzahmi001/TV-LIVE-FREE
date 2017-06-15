@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]
-#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/de/N24.png" group-title="USEETV",[COLOR lime] ANTV  [/COLOR]
-https://hlsprx-1.herokuapp.com/hls/6a89a47b4092ef589f0b02ea22bdcee9/1497534455/7b226970223a2239342e3133392e31382e313630222c227561223a66616c73652c22726566223a66616c73657d/68747470733a2f2f6c6976653277656c74636d732d6c682e616b616d616968642e6e65742f692f4c6976653257656c74434d535f31403434343536332f696e6465785f315f61762d622e6d3375383f73643d3130267265626173653d6f6e.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/de/N24.png" group-title="USEETV",[COLOR lime] N24  [/COLOR]
+https://hlsprx-3.herokuapp.com/hls/7130da92b918ea4a195c16bf494404b7/1497568560/7b226970223a2239342e3133392e31382e313630222c227561223a66616c73652c22726566223a66616c73657d/68747470733a2f2f6c6976653277656c74636d732d6c682e616b616d616968642e6e65742f692f4c6976653257656c74434d535f31403434343536332f696e6465785f315f61762d622e6d3375383f73643d3130267265626173653d6f6e.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170614173355&etime=20170614213355&encoded=0348f3fec09ae72487fcc
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170615151855&etime=20170615191855&encoded=042cd993ecf5231402474
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170614173605&etime=20170614213605&encoded=062ef823e56c47c0e731d
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170615151934&etime=20170615191934&encoded=005f4bf1d26cfba277ac8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] SCTV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:a7517db73512/chunklist_b1264000000.m3u8?stime=20170614173651&etime=20170614213651&encoded=0779c32c111fb796a712f
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:a7517db73512/chunklist_b1264000000.m3u8?stime=20170615152008&etime=20170615192008&encoded=0264221e66fe221ae729f
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV  [/COLOR]
-http://stream-02.sg1.dailymotion.com/06/dm/1/x4nwi47/live.isml/events(live-1497497978)/live-audio=128000-video=2100000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR yellow] TRANS TV  [/COLOR]
-http://stream-02.sg1.dailymotion.com/08/dm/1/x4nwi47/live.isml/events(live-1497386363)/live-audio=128000-video=2100000.m3u8
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170615151728&etime=20170615191728&encoded=00cacba915b5063955cbc
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR yellow] ANTV  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170615152048&etime=20170615192048&encoded=0928cb6c362eb48e4768a
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] VOA  [/COLOR]
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BLOOMBERG  [/COLOR]
