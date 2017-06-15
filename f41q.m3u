@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]
-#EXTINF:-1 tvg-logo="" group-title="USEETV",[COLOR lime] ANTV  [/COLOR]
-http://freeeucache.streamlive.to/live/a1wn1j3ra1w0cv0/index.m3u8?st=wPFAYC7MWR8YdZtlD6F1Pg&expires=1497495839
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/de/N24.png" group-title="USEETV",[COLOR lime] ANTV  [/COLOR]
+https://hlsprx-1.herokuapp.com/hls/6a89a47b4092ef589f0b02ea22bdcee9/1497534455/7b226970223a2239342e3133392e31382e313630222c227561223a66616c73652c22726566223a66616c73657d/68747470733a2f2f6c6976653277656c74636d732d6c682e616b616d616968642e6e65742f692f4c6976653257656c74434d535f31403434343536332f696e6465785f315f61762d622e6d3375383f73643d3130267265626173653d6f6e.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170614173355&etime=20170614213355&encoded=0348f3fec09ae72487fcc
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
