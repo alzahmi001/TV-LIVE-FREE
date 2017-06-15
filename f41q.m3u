@@ -2,6 +2,8 @@
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/de/N24.png" group-title="USEETV",[COLOR lime] N24  [/COLOR]
 https://hlsprx-3.herokuapp.com/hls/7130da92b918ea4a195c16bf494404b7/1497568560/7b226970223a2239342e3133392e31382e313630222c227561223a66616c73652c22726566223a66616c73657d/68747470733a2f2f6c6976653277656c74636d732d6c682e616b616d616968642e6e65742f692f4c6976653257656c74434d535f31403434343536332f696e6465785f315f61762d622e6d3375383f73643d3130267265626173653d6f6e.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/de/N24.png" group-title="USEETV",[COLOR lime] CBN  [/COLOR]
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170615151855&etime=20170615191855&encoded=042cd993ecf5231402474
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
@@ -12,10 +14,29 @@ http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:a7517db73512/chunklist_b1
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170615151728&etime=20170615191728&encoded=00cacba915b5063955cbc
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR yellow] ANTV  [/COLOR]
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170615152048&etime=20170615192048&encoded=0928cb6c362eb48e4768a
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] FLIK  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:c83cb1181866/chunklist_b1424000.m3u8?stime=20170615153254&etime=20170615193254&encoded=062d756ca21f07c6c3abb
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BLOOMBERG  [/COLOR]
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BIOSKOP  [/COLOR]
+rtmp://118.97.183.222/discover//bioskopindonesia
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] ZBIOSKOP  [/COLOR]
+rtmp://118.97.183.222/discover//zbioskop
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] DUNIA ANAK  [/COLOR]
+rtmp://118.97.183.222/discover//duniaanak
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] ANTARA  [/COLOR]
+rtmp://118.97.183.222/discover//antara
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] HI INDO  [/COLOR]
+rtmp://118.97.183.222/discover//hiindo
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] PAY TREN  [/COLOR]
+rtmp://118.97.183.222/discover//paytrentv
+#EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] BLOOMBERG USEE  [/COLOR]
+rtmp://118.97.183.222/discover//bloomberg
+#EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] RODJA TV  [/COLOR]
+rtmp://118.97.183.222/discover//rodjatv
+#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BLOMBERG  [/COLOR]
+https://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] VOA  [/COLOR]
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BLOOMBERG  [/COLOR]
-https://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] BIOS TV  [/COLOR]
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] RIM TV  [/COLOR]
@@ -86,14 +107,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2217000.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png" group-title="Indonesia",[COLOR orange] BERITA SATU ENGLISH [/COLOR]
 http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:beritasatuenglish/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/kk/kita_tv_id.png" group-title="Indonesia",[COLOR orange] KITA TV [/COLOR]
-http://www.kitatv.com:1935/live/mp4:myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/arirang-tv.png" group-title="Indonesia",[COLOR red] ARIRANG [/COLOR]
 http://edge1.everyon.tv/etv1sb/pld36/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/nhk-world.png" group-title="Indonesia",[COLOR red] NHK [/COLOR]
-http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/nhk-world.png" group-title="Indonesia",[COLOR red] NHK WORLD [/COLOR]
-http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indonesia",[COLOR red] FRANCE 24 [/COLOR]
 http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_1200.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.zoptv.com/assets/logo/al-jazeera-english.png" group-title="News",[COLOR red]AL JAZEERA[/COLOR]
@@ -102,11 +117,4 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appl
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BLOOMBERG"  group-title="News",[COLOR red]BLOOMBERG [/COLOR]
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.zoptv.com/assets/logo/cnn.png" tvg-name="BLOOMBERG"  group-title="News",CNN
-http://live.dianshibo.com/_ds/live.m3u8?id=cnn&auth=11f8c1b88e0c3c150b27bc5af27f17a76cd2ef6eae58fba984a41c8e102c309c
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.zoptv.com/assets/logo/cnn.png" tvg-name="BLOOMBERG"  group-title="News",CNN
-http://edge2.everyon.tv/etv2sb/pld1206/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/rt.png" group-title="Indonesia",ID: RT NEWS
-https://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
