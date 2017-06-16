@@ -13,18 +13,23 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-p.m3u8?sd=10&re
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/tr/TRT_1.png" group-title="",[COLOR lime] TRT1  [/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170616063358&etime=20170616103358&encoded=0625677d7118c988b5723
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170616150311&etime=20170616190311&encoded=0282cd45ae6ba4bb94cab
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170616063444&etime=20170616103444&encoded=06dee24fea28d73e86df2
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170616150316&etime=20170616190316&encoded=0220b5bede0ebf866a829
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] SCTV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:a7517db73512/chunklist_b1264000000.m3u8?stime=20170616063522&etime=20170616103522&encoded=05554dc2efe405a2a6cd5
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:a7517db73512/chunklist_b1264000000.m3u8?stime=20170616150413&etime=20170616190413&encoded=0a2b6b7de929efac4229d
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170616063857&etime=20170616103857&encoded=00896cd74a77e238cd17c
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170616150138&etime=20170616190138&encoded=09ca54ffd629f8812a7aa
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR yellow] ANTV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170616063822&etime=20170616103822&encoded=0e79ebb1700dfb471851e
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170616150542&etime=20170616190542&encoded=047eacdbd44e126b47696
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] FLIK  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:c83cb1181866/chunklist_b1424000.m3u8?stime=20170616064046&etime=20170616104046&encoded=0e10cf880742061a3beeb
-#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BLOOMBERG  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:c83cb1181866/chunklist_b1424000.m3u8?stime=20170616150610&etime=20170616190610&encoded=05ad58f4ee7cf623891cd
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/es/NATGEO.png" group-title="NEWS",[COLOR green] NAT GEO  [/COLOR]
+https://hlsprx-3.herokuapp.com/hls/312ae0d258b4b2c79d90d8e98c6e7bc1/1497653327/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3233302f7032702f63326136353735373566646434306137363562316461633333653564626638332e6d3375383f73743d61614735636748496a4f55736b5a5f506a37626a676726653d31343937363637373237.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/es/NATGEOWILD.png" group-title="NEWS",[COLOR green] NAT GEO WILD  [/COLOR]
+https://hlsprx-7.herokuapp.com/hls/4d3c1c440ffb14d3a8f1bcf71bb2ccf2/1497653679/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3136372f7032702f31346238383335343466636435656164303962343261323963363936393032352e6d3375383f73743d7035443250486f6d5138704965635f556e463536425126653d31343937363638303739.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/es/FOX.png" group-title="NEWS",[COLOR green] FOX  [/COLOR]
+https://hlsprx-4.herokuapp.com/hls/24c693f5d5a28bf91a005241a8685400/1497653801/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3136362f7032702f30653730323861353931333032323530633464303233396365363834303138312e6d3375383f73743d344170354241556a7546457959344159565179645f4126653d31343937363638323031.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BIOSKOP  [/COLOR]
 rtmp://118.97.183.222/discover//bioskopindonesia
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] ZBIOSKOP  [/COLOR]
