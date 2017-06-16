@@ -7,7 +7,7 @@ https://hlsprx-9.herokuapp.com/hls/41c74d21fb6e54187e72d38868291415/1497623357/7
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/ru/RUSSIA1.png" group-title="",[COLOR lime] RUSSIA 1  [/COLOR]
 http://pstv.krasmix.ru/tv/russia1/chunklist_w1778953477.m3u8?token=dG9rZW49NTRiMGQxZmU4M2RlMjdlN2Y4MDU4YmY2MjQ3MWZkZmEmdHM9MTQ5NzU5NTg0NiZ1c2VyX2lkPTc1Njc2NTg%3D
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/in/B4UMOVIES.png" group-title="",[COLOR lime] B4U  [/COLOR]
-http://ind17-lh.akamaihd.net/i/ind17_b4umovies@68549/index_2000_av-p.m3u8?sd=10&dw=59&b=100-&rebase=on&hdntl=exp=1497682534~acl=%2fi%2find17_b4umovies%4068549%2f*~data=hdntl~hmac=13a5b34c399794c17663bce4ef71005e4b07d5d3adadb2623595842a258313ea
+http://vid2.ec.dmcdn.net/sec(af15c8b1eb66e51de554470f74790761)/video/409/009/337900904_mp4_h264_aac_hq.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/us/CBN_ESPANOL.png" group-title="",[COLOR lime] CBN  [/COLOR]
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/tr/TRT_1.png" group-title="",[COLOR lime] TRT1  [/COLOR]
