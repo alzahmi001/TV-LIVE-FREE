@@ -66,17 +66,17 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&r
 
 
 EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
-
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170617145742&etime=20170617185742&encoded=09712b32deb7797d52431
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
-
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170617150012&etime=20170617190012&encoded=0ab50d940099c20aa81ae
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] SCTV  [/COLOR]
-
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:a7517db73512/chunklist_b1264000000.m3u8?stime=20170617145805&etime=20170617185805&encoded=08274941515d9937be0d7
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV  [/COLOR]
-
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170617145826&etime=20170617185826&encoded=04a7afcf4957eca39bd17
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR yellow] ANTV  [/COLOR]
-
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170617145844&etime=20170617185844&encoded=08d75610f116f2fc5bbea
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] FLIK  [/COLOR]
-
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:c83cb1181866/chunklist_b1424000.m3u8?stime=20170617145911&etime=20170617185911&encoded=02f7d93d319a420132230
 
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/es/NATGEO.png" group-title="ESP",[COLOR green] NAT GEO  [/COLOR]
 https://hlsprx-3.herokuapp.com/hls/312ae0d258b4b2c79d90d8e98c6e7bc1/1497653327/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3233302f7032702f63326136353735373566646434306137363562316461633333653564626638332e6d3375383f73743d61614735636748496a4f55736b5a5f506a37626a676726653d31343937363637373237.m3u8
@@ -105,7 +105,7 @@ https://cdn-live.metube.id/tv/channel2000039/index1024.m3u8
 https://cdn-live.metube.id/tv/channel2000074/index1024.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="Indonesia",[COLOR orange] TRANS 7 [/COLOR]
 https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/chunklist_b846000.m3u8
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",[COLOR orange] TRANS 7 [/COLOR]
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="Indonesia",[COLOR orange] TRANS TV [/COLOR]
 https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/chunklist_b846000.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="Indonesia",[COLOR orange] KOMPAS [/COLOR]
 https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8
@@ -149,5 +149,3 @@ http://live.dianshibo.com/_ds/live.m3u8?id=cnn&auth=11f8c1b88e0c3c150b27bc5af27f
 http://edge2.everyon.tv/etv2sb/pld1206/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.zoptv.com/assets/logo/rt.png" group-title="Indonesia",ID: RT NEWS
 https://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV HD"  group-title="Group N/A",NASA TV HD
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
