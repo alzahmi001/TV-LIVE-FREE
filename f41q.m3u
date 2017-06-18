@@ -51,8 +51,8 @@ http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/de/N24.png" group-title="USEETV",[COLOR lime] N24  [/COLOR]
 https://hlsprx-10.herokuapp.com/hls/32544830681399c1bf8a43fd8936c447/1497845163/7b226970223a2239342e3133392e31382e313630222c227561223a66616c73652c22726566223a66616c73657d/68747470733a2f2f6c6976653277656c74636d732d6c682e616b616d616968642e6e65742f692f4c6976653257656c74434d535f31403434343536332f696e6465785f315f61762d702e6d3375383f73643d3130267265626173653d6f6e.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/ru/RUSSIA1.png" group-title="",[COLOR lime] RUSSIA 1  [/COLOR]
-http://pstv.krasmix.ru/tv/russia1/chunklist_w1778953477.m3u8?token=dG9rZW49NTRiMGQxZmU4M2RlMjdlN2Y4MDU4YmY2MjQ3MWZkZmEmdHM9MTQ5NzU5NTg0NiZ1c2VyX2lkPTc1Njc2NTg%3D
+#EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/tr/TRT_AVAZ.png" group-title="",[COLOR magenta] TRT AVAZ  [/COLOR]
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/in/B4UMOVIES.png" group-title="",[COLOR lime] B4U  [/COLOR]
 http://vid2.ec.dmcdn.net/sec(af15c8b1eb66e51de554470f74790761)/video/409/009/337900904_mp4_h264_aac_hq.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.firstonetv.eu/images/logos/us/CBN_ESPANOL.png" group-title="",[COLOR lime] CBN  [/COLOR]
