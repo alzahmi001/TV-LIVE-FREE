@@ -1,24 +1,41 @@
 #EXTM3U
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (USEETV)[/COLOR]
 
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] DREAMWORKS  [/COLOR]
-http://180.250.29.18/jhos/dreamworks_2/1498365310/playlist.m3u8?stime=20170625110000&etime=20170625140000&encoded=096649a2782334f46abdd&ce=aa8bdddacd93
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] INDOSIAR  [/COLOR]
-http://180.250.29.18/jhos/indosiar_2/1498365210/playlist.m3u8?stime=20170625110000&etime=20170625140000&encoded=0788a631bf3cba04adb78&ce=5c5da5148a13
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TVONE  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1264000000.m3u8?stime=20170625160113&etime=20170625200113&encoded=0fb926c0ccec84b2259c4
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170625043231&etime=20170625083231&encoded=0f39087715d3be8356d21
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170625160351&etime=20170625200351&encoded=00574c5b3bc040ffae57a
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170625043158&etime=20170625083158&encoded=0e0227c5a0bb534bfa16d
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] SCTV  [/COLOR]
-http://180.250.29.18/jhos/sctv_2/1498365095/playlist.m3u8?stime=20170625110000&etime=20170625140000&encoded=01f4ebe40c9588f1efb15&ce=a7517db73512
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170625043054&etime=20170625083054&encoded=0ecf50538ef129964eab3
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170625160047&etime=20170625200047&encoded=07f5d8123f20f21134fa0
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR yellow] ANTV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170625043021&etime=20170625083021&encoded=0b8e3ebec21d48afcbcdb
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170625160634&etime=20170625200634&encoded=002bedf320c7fee6ffd97
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] FLIK  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:c83cb1181866/chunklist_b1424000.m3u8?stime=20170625042931&etime=20170625082931&encoded=0f114c7b9be4b3e059bf0
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:c83cb1181866/chunklist_b1424000.m3u8?stime=20170625160526&etime=20170625200526&encoded=0eccd823804d798ef8df8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] TRT WORLD  [/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] EUROSPORT  [/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] ATN  [/COLOR]
+http://atn.ercdn.net/atn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] AMCTV  [/COLOR]
+rtmp://tv.kabulwebs.com/live//amctv
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] CNN PHILIP  [/COLOR]
+rtmp://54.251.134.121/live//15273.sdp
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] DAAI TV  [/COLOR]
+rtmp://118.97.183.222/discover//daaitv
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] ANIPLUS  [/COLOR]
+rtmp://118.97.183.222/discover//aniplus
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] SPACETOON  [/COLOR]
+rtmp://118.97.183.222/discover//spacetoonplus
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] CCTV 4  [/COLOR]
+rtmp://118.97.183.196/jhos//cctv4
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KHAZANAH  [/COLOR]
+rtmp://118.97.183.196/jhos//khazanah
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BIOSKOP  [/COLOR]
 rtmp://118.97.183.222/discover//bioskopindonesia
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] ZBIOSKOP  [/COLOR]
