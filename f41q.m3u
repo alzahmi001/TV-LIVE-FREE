@@ -8,9 +8,9 @@
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
 
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS 7  [/COLOR]
-
+http://stream-05.dc3.dailymotion.com/19/dm/1/x4nwi47/live.isml/events(live-1499845312)/live-audio=128000-video=1260000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV  [/COLOR]
-
+http://stream-06.dc3.dailymotion.com/19/dm/1/x4nwi47/live.isml/events(live-1499845312)/live-audio=128000-video=2100000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR yellow] ANTV  [/COLOR]
 
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] FLIK  [/COLOR]
