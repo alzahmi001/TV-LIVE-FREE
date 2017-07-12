@@ -2,19 +2,19 @@
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (USEETV)[/COLOR]
 
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TVONE  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1264000000.m3u8?stime=20170707045253&etime=20170707085253&encoded=0aa9cda0fd828ba0c7e6e
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1328000.m3u8?stime=20170707045349&etime=20170707085349&encoded=0bd9e947ae3472495fab2
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170707045324&etime=20170707085324&encoded=07234fad642294d7c0e46
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS 7  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1264000000.m3u8?stime=20170707045559&etime=20170707085559&encoded=0fb2a858a59a5743e2353
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170707045141&etime=20170707085141&encoded=041768da698c2899d279e
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR yellow] ANTV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1328000.m3u8?stime=20170707045512&etime=20170707085512&encoded=0f5020fe630cfc61a5d62
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] FLIK  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:c83cb1181866/chunklist_b1424000.m3u8?stime=20170707045618&etime=20170707085618&encoded=0b38350b1f95ead12543a
+
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] TRT WORLD  [/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] EUROSPORT  [/COLOR]
