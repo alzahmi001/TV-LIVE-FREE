@@ -2,15 +2,15 @@
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (USEETV)[/COLOR]
 
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TVONE  [/COLOR]
-
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1264000000.m3u8?stime=20170728165150&etime=20170728205150&encoded=0d86e23118a7e8557eab7
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
 
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
-
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170728165255&etime=20170728205255&encoded=0f236186a8ec9d66cf607
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS 7  [/COLOR]
-http://stream-05.dc3.dailymotion.com/19/dm/1/x4nwi47/live.isml/events(live-1499845312)/live-audio=128000-video=1260000.m3u8
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1264000000.m3u8?stime=20170728165434&etime=20170728205434&encoded=0fcf0ec28f0c27059ccce
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV  [/COLOR]
-http://stream-06.dc3.dailymotion.com/19/dm/1/x4nwi47/live.isml/events(live-1499845312)/live-audio=128000-video=2100000.m3u8
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170728165359&etime=20170728205359&encoded=08d94984ace6f0ec90aaa
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR yellow] ANTV  [/COLOR]
 
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] FLIK  [/COLOR]
