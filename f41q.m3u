@@ -1,20 +1,22 @@
 #EXTM3U
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (USEETV)[/COLOR]
 
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TVONE  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b1264000000.m3u8?stime=20170728165150&etime=20170728205150&encoded=0d86e23118a7e8557eab7
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] KOMPAS TV  [/COLOR]
-
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TVONE  [/COLOR]
+http://180.250.29.18/jhos/tvone_3/1505372662/playlist.m3u8?stime=20170914140000&etime=20170914170000&encoded=08ffe7dcda3c28e8aec43&ce=766f3957f89
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] KOMPAS TV  [/COLOR]
+http://180.250.29.18/jhos/kompastv_3/1505372633/playlist.m3u8?stime=20170914140000&etime=20170914170000&encoded=0cb965194daebbd46f5f1&ce=d1640648e415
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170828165613&etime=20170828205613&encoded=0fade318e4dcd9191284e
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS 7  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1264000000.m3u8?stime=20170828165722&etime=20170828205722&encoded=0b9d4dcb67662e0db71aa
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20170914070813&etime=20170914110813&encoded=0cf5faf1bf40f8777e032
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] SCTV  [/COLOR]
+http://180.250.29.18/jhos/sctv_3/1505372793/playlist.m3u8?stime=20170914140000&etime=20170914170000&encoded=0e6c4bfbce79f5b54e796&ce=a7517db73512
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS 7  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1264000000.m3u8?stime=20170914070734&etime=20170914110734&encoded=01068c86d3f6ff31c220c
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170828165632&etime=20170828205632&encoded=02433e464d9a805c8dbbd
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR yellow] ANTV  [/COLOR]
-
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] FLIK  [/COLOR]
-
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20170914070448&etime=20170914110448&encoded=03d70b9a92f8a0f50722a
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] ANTV  [/COLOR]
+http://180.250.29.18/jhos/antv_3/1505372770/playlist.m3u8?stime=20170914140000&etime=20170914170000&encoded=0863629b8f423a5d38b8a&ce=fa161aa74311
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] INDOSIAR  [/COLOR]
+http://180.250.29.18/jhos/indosiar_3/1505372582/playlist.m3u8?stime=20170914140000&etime=20170914170000&encoded=0d6116a212d7715a3ec5b&ce=5c5da5148a13
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] TRT WORLD  [/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] EUROSPORT  [/COLOR]
