@@ -21,16 +21,16 @@ https://mn-l.mncdn.com/kanal24/kanal243/chunklist_w1816726956.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] EUROSPORT  [/COLOR]
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] ATN  [/COLOR]
-http://atn.ercdn.net/atn.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] AMCTV  [/COLOR]
-rtmp://tv.kabulwebs.com/live//amctv
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] CNN PHILIP  [/COLOR]
-rtmp://54.251.134.121/live//15273.sdp
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] DAAI TV  [/COLOR]
-rtmp://118.97.183.222/discover//daaitv
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] ANIPLUS  [/COLOR]
-rtmp://118.97.183.222/discover//aniplus
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS TV  [/COLOR]
+http://stream.ec.dmcdn.net/07/dm/3/x4nwi47/live-3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] HBO 2  [/COLOR]
+http://185.181.102.3:8081/live/hbo2/chunks.m3u8?nimblesessionid=9405739&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxNyAxMjo0MDo0NyBBTSZoYXNoX3ZhbHVlPWVCY3hDQmQ4L0E3SzlkSEFRVW0xK1E9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] HBO PLUS  [/COLOR]
+http://185.181.102.2:8081/live/hboplus/chunks.m3u8?nimblesessionid=2657676&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxNyAxMjo0MjoyMCBBTSZoYXNoX3ZhbHVlPWx3Q0ttWFdrTG5SZXN0NndQUTZNbVE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TNT  [/COLOR]
+http://185.181.102.3:8081/live/master77_1/chunks.m3u8?nimblesessionid=9405918&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxNyAxMjo0MzoyNCBBTSZoYXNoX3ZhbHVlPVV5RXQ0Q2NGMEdnd3RDd0hPZDFDanc9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TC  [/COLOR]
+http://185.181.102.3:8081/live/master19/chunks.m3u8?nimblesessionid=9405978&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAxNyAxMjo0NDoxMyBBTSZoYXNoX3ZhbHVlPWxYVEgydlBudDhMd0N3ZlprOXV0aVE9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] SPACETOON  [/COLOR]
 rtmp://118.97.183.222/discover//spacetoonplus
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] CCTV 4  [/COLOR]
