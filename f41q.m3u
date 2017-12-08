@@ -30,7 +30,7 @@ https://cdn-livetv1.metube.id/hls/musicchannel_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR green] MNC MUSLIM  [/COLOR]
 https://cdn-livetv1.metube.id/hls/mncmuslim_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20171208152144&etime=20171208192144&encoded=0cc56358001161d0a4758
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20171208180128&etime=20171208220128&encoded=00af21c4376bbe2a4d687
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] METRO TV  [/COLOR]
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20171208152353&etime=20171208192353&encoded=0ed28edb19917796292c8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] CCTV 4  [/COLOR]
