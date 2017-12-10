@@ -30,15 +30,15 @@ https://cdn-livetv1.metube.id/hls/musicchannel_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR green] MNC MUSLIM  [/COLOR]
 https://cdn-livetv1.metube.id/hls/mncmuslim_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20171210145530&etime=20171210185530&encoded=02135edb28662bd76df46
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20171210173324&etime=20171210213324&encoded=041e6d560cc9323db3e41
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] METRO TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20171210150204&etime=20171210190204&encoded=06ea308308d0d4547a570
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20171210173629&etime=20171210213629&encoded=007d437badcf7d86917f9
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] BEIN 1  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b2660000.m3u8?stime=20171210145812&etime=20171210185812&encoded=0052fdac4115caacf55a5
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b2660000.m3u8?stime=20171210173923&etime=20171210213923&encoded=05fcaf18ee2cfc57a2133
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] BEIN 2  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:14a27c358043/chunklist_b2660000.m3u8?stime=20171210150310&etime=20171210190310&encoded=02d181b3af565cdf1ad39
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:14a27c358043/chunklist_b2660000.m3u8?stime=20171210174049&etime=20171210214049&encoded=0f5755a9547a10c0fb816
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BEIN 3  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fddbadb5b544/chunklist_b2532000.m3u8?stime=20171210150418&etime=20171210190418&encoded=04bfeaebe97f7e1f88a71
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fddbadb5b544/chunklist_b2532000.m3u8?stime=20171210174122&etime=20171210214122&encoded=0d67cf1d1675ba9a6d2c6
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] ZBIOSKOP  [/COLOR]
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] DUNIA ANAK  [/COLOR]
