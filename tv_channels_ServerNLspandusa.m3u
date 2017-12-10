@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1,A&E USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/447.ts
+#EXTINF:-1,ABC USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/446.ts
+#EXTINF:-1,AMC USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/444.ts
+#EXTINF:-1,Animal Planet USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/443.ts
+#EXTINF:-1,Bravo USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/430.ts
+#EXTINF:-1,CartoonNet USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/429.ts
+#EXTINF:-1,CBS USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/428.ts
+#EXTINF:-1,Cinemax USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/427.ts
+#EXTINF:-1,Comedy Central USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/426.ts
+#EXTINF:-1,Crime & Investigation USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/425.ts
+#EXTINF:-1,CW USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/424.ts
+#EXTINF:-1,Discovery Channel USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/423.ts
+#EXTINF:-1,ESPN USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/422.ts
+#EXTINF:-1,Fox USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/421.ts
+#EXTINF:-1,FX USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/420.ts
+#EXTINF:-1,Golf Channel USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/419.ts
+#EXTINF:-1,HBO Signature USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/417.ts
+#EXTINF:-1,HBOZoneUSA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/416.ts
+#EXTINF:-1,History USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/415.ts
+#EXTINF:-1,National Geographic USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/414.ts
+#EXTINF:-1,NBA USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/413.ts
+#EXTINF:-1,NBC USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/412.ts
+#EXTINF:-1,NBCSN USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/411.ts
+#EXTINF:-1,Nick USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/409.ts
+#EXTINF:-1,Showtime USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/408.ts
+#EXTINF:-1,Starz USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/400.ts
+#EXTINF:-1,Syfy USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/399.ts
+#EXTINF:-1,tbs-usa
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/398.ts
+#EXTINF:-1,TLC USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/397.ts
+#EXTINF:-1,TNT USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/396.ts
+#EXTINF:-1,USA Network USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/395.ts
+#EXTINF:-1,WWE Network USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/394.ts
+#EXTINF:-1,HBO USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/418.ts
+#EXTINF:-1,Spike USA
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/401.ts
+#EXTINF:-1,Bein1
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/442.ts
+#EXTINF:-1,Bein10
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/441.ts
+#EXTINF:-1,Bein11
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/440.ts
+#EXTINF:-1,Bein12
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/439.ts
+#EXTINF:-1,Bein2
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/438.ts
+#EXTINF:-1,Bein3
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/437.ts
+#EXTINF:-1,Bein4
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/436.ts
+#EXTINF:-1,Bein5
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/435.ts
+#EXTINF:-1,Bein6
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/434.ts
+#EXTINF:-1,Bein7
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/433.ts
+#EXTINF:-1,Bein8
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/432.ts
+#EXTINF:-1,Bein9
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/431.ts
+#EXTINF:-1,skynet1
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/407.ts
+#EXTINF:-1,skynet2
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/406.ts
+#EXTINF:-1,skynet3
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/405.ts
+#EXTINF:-1,skynet4
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/404.ts
+#EXTINF:-1,skynet5
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/403.ts
+#EXTINF:-1,skynet6
+http://185.2.83.33:8000/live/ServerNLspandusa/bnw3gFTrnI/402.ts
