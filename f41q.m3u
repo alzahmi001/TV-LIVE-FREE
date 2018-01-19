@@ -4,31 +4,31 @@
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] MNC  [/COLOR]
 https://smartvradar.com/hls/mnctv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] RCTI [/COLOR]
-https://smartvradar.com/hls/rcti.m3u8
+https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] ANTV  [/COLOR]
 https://r2---sn-2uuxa3vh-ngbe.googlevideo.com/videoplayback?requiressl=yes&hang=1&live=1&itag=136&keepalive=yes&sparams=aitags%2Ccmbypass%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cexpire&mime=video%2Fmp4&key=yt6&expire=1512765926&id=6_lPRQ_hFbI.1&gir=yes&mm=32&mn=sn-2uuxa3vh-ngbe&initcwndbps=201250&source=yt_live_broadcast&cmbypass=yes&signature=291F33D38FF7B2EE3F164B78BE9EBD7B3765A310.C523AA6E674D91CC21D99675F4E66F07E04C6144&gcr=id&ms=lv&mt=1512744259&mv=m&pl=22&ei=haUqWt7-N4O6owPfl7rYCw&aitags=133%2C134%2C135%2C136%2C160&ip=180.246.101.240&ipbits=0&noclen=1
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR lime] GTV  [/COLOR]
-https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR lime] RCTI  [/COLOR]
-https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR lime] MNCTV  [/COLOR]
-https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR lime] MNC NEWS  [/COLOR]
-https://cdn-livetv1.metube.id/hls/mncnews_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/mncnews_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR lime] INEWS  [/COLOR]
-https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] TRT WORLD  [/COLOR]
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] LIFE  [/COLOR]
-https://cdn-livetv1.metube.id/hls/life_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/life_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR green] IDX  [/COLOR]
-https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/idxchannel_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR green] LIFESTYLE  [/COLOR]
-https://cdn-livetv1.metube.id/hls/mnclifestyle_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/mnclifestyle_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR green] MNC MUSIK  [/COLOR]
-https://cdn-livetv1.metube.id/hls/musicchannel_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/musicchannel_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR green] MNC MUSLIM  [/COLOR]
-https://cdn-livetv1.metube.id/hls/mncmuslim_480/index.m3u8
+https://cdn-livetv2.metube.id/hls/mncmuslim_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS TV  [/COLOR]
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20171213152044&etime=20171213192044&encoded=0cca87b51bbd9897cae93
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] METRO TV  [/COLOR]
