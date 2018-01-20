@@ -2,7 +2,7 @@
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (USEETV)[/COLOR]
 
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] MNC  [/COLOR]
-https://smartvradar.com/hls/mnctv.m3u8
+http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] RCTI [/COLOR]
 https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] ANTV  [/COLOR]
@@ -30,7 +30,7 @@ https://cdn-livetv2.metube.id/hls/musicchannel_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR green] MNC MUSLIM  [/COLOR]
 https://cdn-livetv2.metube.id/hls/mncmuslim_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1264000000.m3u8?stime=20171213152044&etime=20171213192044&encoded=0cca87b51bbd9897cae93
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] METRO TV  [/COLOR]
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20171213152215&etime=20171213192215&encoded=0db0a2bae6ed0db448494
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] BEIN 1  [/COLOR]
