@@ -29,16 +29,20 @@ https://cdn-livetv2.metube.id/hls/mnclifestyle_480/index.m3u8
 https://cdn-livetv2.metube.id/hls/musicchannel_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR green] MNC MUSLIM  [/COLOR]
 https://cdn-livetv2.metube.id/hls/mncmuslim_480/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS TV  [/COLOR]
-
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS TV 1 [/COLOR]
+https://kmklive-lh.akamaihd.net/i/transtv_live@94476/index_144_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS TV 2 [/COLOR]
+https://kmklive-lh.akamaihd.net/i/transtv_live@94476/index_270_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] TRANS TV 3 [/COLOR]
+https://kmklive-lh.akamaihd.net/i/transtv_live@94476/index_360_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] METRO TV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1264000000.m3u8?stime=20171213152215&etime=20171213192215&encoded=0db0a2bae6ed0db448494
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] BEIN 1  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b2660000.m3u8?stime=20171212154024&etime=20171212194024&encoded=0d5dfde2c7b7371c78f3c
+
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] BEIN 2  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:14a27c358043/chunklist_b2660000.m3u8?stime=20171212154042&etime=20171212194042&encoded=0e2e9178034a259bee565
+
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BEIN 3  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fddbadb5b544/chunklist_b1328000.m3u8?stime=20171212154124&etime=20171212194124&encoded=0824b1f03316a73cb7a97
+
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] ZBIOSKOP  [/COLOR]
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] DUNIA ANAK  [/COLOR]
