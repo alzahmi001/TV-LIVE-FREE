@@ -29,17 +29,25 @@ https://cdn-livetv2.metube.id/hls/mnclifestyle_480/index.m3u8
 https://cdn-livetv2.metube.id/hls/musicchannel_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MNC",[COLOR green] MNC MUSLIM  [/COLOR]
 https://cdn-livetv2.metube.id/hls/mncmuslim_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_transtv_big1.png" group-title="USETV",[COLOR green] TRANS TV 1 [/COLOR]
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_transtv_big1.png" group-title="Vidio",[COLOR green] TRANS TV 1 [/COLOR]
 https://kmklive-lh.akamaihd.net/i/transtv_live@94476/index_144_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_transtv_big1.png" group-title="USETV",[COLOR green] TRANS TV 2 [/COLOR]
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_transtv_big1.png" group-title="Vidio",[COLOR green] TRANS TV 2 [/COLOR]
 https://kmklive-lh.akamaihd.net/i/transtv_live@94476/index_270_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_transtv_big1.png" group-title="USETV",[COLOR green] TRANS TV 3 [/COLOR]
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_transtv_big1.png" group-title="Vidio",[COLOR green] TRANS TV 3 [/COLOR]
 https://kmklive-lh.akamaihd.net/i/transtv_live@94476/index_360_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] METRO TV  [/COLOR]
-
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] BEIN 1  [/COLOR]
-
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR green] BEIN 2  [/COLOR]
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_sctv_big1.png" group-title="Vidio",[COLOR green] METRO TV 1 [/COLOR]
+https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_144_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_sctv_big1.png" group-title="Vidio",[COLOR green] METRO TV 2 [/COLOR]
+https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_270_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_sctv_big1.png" group-title="Vidio",[COLOR green] METRO TV 3 [/COLOR]
+https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_360_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_indosiar_big1.png" group-title="Vidio",[COLOR green] INDOSIAR 1 [/COLOR]
+https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/index_144_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_indosiar_big1.png" group-title="Vidio",[COLOR green] INDOSIAR 2 [/COLOR]
+https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/index_270_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_indosiar_big1.png" group-title="Vidio",[COLOR green] INDOSIAR 3 [/COLOR]
+https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/index_360_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="" group-title="Vidio",[COLOR green] BEIN 2  [/COLOR]
 
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BEIN 3  [/COLOR]
 
