@@ -47,11 +47,11 @@ https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/index_144_av-p.m3u8?sd=10&
 https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/index_270_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_indosiar_big1.png" group-title="Vidio",[COLOR green] INDOSIAR 3 [/COLOR]
 https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/index_360_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/rcti.png" group-title="Vidio",[COLOR green] RCTI 1  [/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/9Egxses1M5nkepotun42zfdb16I=/372x211/smart/filters:quality(75):format(webp)/vidio-media-production/uploads/livestreaming/image/665/rcti-tv-stream-c1a96d.jpg" group-title="Vidio",[COLOR green] RCTI 1  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/rcti_live@94478/index_144_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/rcti.png" group-title="Vidio",[COLOR green] RCTI 2  [/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/9Egxses1M5nkepotun42zfdb16I=/372x211/smart/filters:quality(75):format(webp)/vidio-media-production/uploads/livestreaming/image/665/rcti-tv-stream-c1a96d.jpg" group-title="Vidio",[COLOR green] RCTI 2  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/rcti_live@94478/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/rcti.png" group-title="Vidio",[COLOR green] RCTI 3  [/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/9Egxses1M5nkepotun42zfdb16I=/372x211/smart/filters:quality(75):format(webp)/vidio-media-production/uploads/livestreaming/image/665/rcti-tv-stream-c1a96d.jpg" group-title="Vidio",[COLOR green] RCTI 3  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/rcti_live@94478/index_360_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_trans7_big1.png" group-title="Vidio",[COLOR green] TRANS7 1  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/trans7_live@94476/index_144_av-b.m3u8?sd=10&rebase=on
@@ -59,11 +59,11 @@ https://kmklive-lh.akamaihd.net/i/trans7_live@94476/index_144_av-b.m3u8?sd=10&re
 https://kmklive-lh.akamaihd.net/i/trans7_live@94476/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_trans7_big1.png" group-title="Vidio",[COLOR green] TRANS7 2  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/trans7_live@94476/index_360_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/WEpmFP8mpLAzLMewNpaWMIIjm0A=/86x48/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Vidio",[COLOR green] GTV 1  [/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/1w68-DhHtpC3EgJ792_iSJSC7Ek=/372x211/smart/filters:quality(75):format(webp)/vidio-media-production/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Vidio",[COLOR green] GTV 1  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/globaltv_live@94478/index_144_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/WEpmFP8mpLAzLMewNpaWMIIjm0A=/86x48/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Vidio",[COLOR green] GTV 2  [/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/1w68-DhHtpC3EgJ792_iSJSC7Ek=/372x211/smart/filters:quality(75):format(webp)/vidio-media-production/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Vidio",[COLOR green] GTV 2  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/globaltv_live@94478/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/WEpmFP8mpLAzLMewNpaWMIIjm0A=/86x48/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Vidio",[COLOR green] GTV 3  [/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/1w68-DhHtpC3EgJ792_iSJSC7Ek=/372x211/smart/filters:quality(75):format(webp)/vidio-media-production/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="Vidio",[COLOR green] GTV 3  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/globaltv_live@94478/index_360_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_metrotv_big1.png" group-title="Vidio",[COLOR green] METROTV 1  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/metrotv_live@577566/index_144_av-b.m3u8?sd=10&rebase=on
@@ -83,11 +83,11 @@ https://kmklive-lh.akamaihd.net/i/tvone_live@577566/index_144_av-b.m3u8?sd=10&re
 https://kmklive-lh.akamaihd.net/i/tvone_live@577566/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_tvone_big1.png" group-title="Vidio",[COLOR green] TVONE 3  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/tvone_live@577566/index_360_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/fApHFDNLqZ4dULEv2OyQnDfcC90=/86x48/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Vidio",[COLOR green] MNCTV 1  [/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/Y61wM7sHcghHANA0UpmQTNcVWaQ=/372x211/smart/filters:quality(75):format(webp)/vidio-media-production/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Vidio",[COLOR green] MNCTV 1  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/mnctv_live@137568/index_144_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/fApHFDNLqZ4dULEv2OyQnDfcC90=/86x48/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Vidio",[COLOR green] MNCTV 2  [/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/Y61wM7sHcghHANA0UpmQTNcVWaQ=/372x211/smart/filters:quality(75):format(webp)/vidio-media-production/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Vidio",[COLOR green] MNCTV 2  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/mnctv_live@137568/index_270_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/fApHFDNLqZ4dULEv2OyQnDfcC90=/86x48/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Vidio",[COLOR green] MNCTV 3  [/COLOR]
+#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/Y61wM7sHcghHANA0UpmQTNcVWaQ=/372x211/smart/filters:quality(75):format(webp)/vidio-media-production/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="Vidio",[COLOR green] MNCTV 3  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/mnctv_live@137568/index_360_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_kompastv_big1.png" group-title="Vidio",[COLOR green] KOMPASTV 1  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/index_144_av-b.m3u8?sd=10&rebase=on
