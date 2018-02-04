@@ -2,7 +2,7 @@
 #EXTINF:-1, [COLOR red]Actualizado 22/01/2016 @ 13:15 PM  (USEETV)[/COLOR]
 
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] MNC  [/COLOR]
-http://cnbc_awaaz_hls-lh.akamaihd.net/i/cnbc_awaaz_hls_n_1@174872/index_1_av-p.m3u8
+http://118.97.167.8/jhos/transtv.m3u8?stime=20180204230000&etime=20180205020000&encoded=0b37f22c496fe0131f3ed&ce=45136ac6f640
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] RCTI [/COLOR]
 https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] ANTV  [/COLOR]
