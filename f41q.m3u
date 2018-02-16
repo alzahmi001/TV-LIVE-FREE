@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, [COLOR red]FAIQ HILYA 11/01/2011 @ 13:15 PM  (USEETV)[/COLOR]
 
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV 180p  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b672000000.m3u8?stime=20180212184906&etime=20180212224906&encoded=0635ee692d9c3f0424579
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV 360p  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b452000000.m3u8?stime=20180212184906&etime=20180212224906&encoded=0263e0c6bec322c6011ff
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV 576p  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b992000000.m3u8?stime=20180212184906&etime=20180212224906&encoded=03f55e4e3499067db6064
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] ANTV  [/COLOR]
+http://www.useetv.com/jhos/tellin/fa161aa74311.m3u8?stime=20180216140000&etime=20180216180000&encoded=0c13402ce61d6e85415f3
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] INDOSIAR  [/COLOR]
+http://www.useetv.com/jhos/tellin/5c5da5148a13.m3u8?stime=20180216140000&etime=20180216180000&encoded=0b71c6f4d52cbc1e61087
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV   [/COLOR]
+http://www.useetv.com/jhos/tellin/45136ac6f640.m3u8?stime=20180216140000&etime=20180216180000&encoded=0eee1c4c1bffd4c8fe494
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] RCTI [/COLOR]
 https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] ANTV  [/COLOR]
