@@ -3,8 +3,8 @@
 
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS 360P  [/COLOR]
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b672000000.m3u8?stime=20180310161808&etime=20180310201808&encoded=0ba4715c9349a23488d19
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] SCTV  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:a7517db73512/chunklist_b672000000.m3u8?stime=20180310162124&etime=20180310202124&encoded=0e916e502d393bf1f8517
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] BEIN 1  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b1328000.m3u8?stime=20180318164956&etime=20180318204956&encoded=0185af77a79c6dd8b911c
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] ANTV   [/COLOR]
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1069000.m3u8?stime=20180318162735&etime=20180318202735&encoded=07ed7a3c4b5b0e34abd2f
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] RCTI [/COLOR]
