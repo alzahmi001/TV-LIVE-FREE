@@ -1,34 +1,20 @@
 #EXTM3U
 #EXTINF:-1, [COLOR red]FAIQ HILYA 11/01/2011 @ 13:15 PM  (USEETV)[/COLOR]
 
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] BEIN2 360P  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b486000.m3u8?stime=20180319161228&etime=20180319201228&encoded=0201f7874520696f4806b
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1008000000.m3u8?stime=20180329051223&etime=20180329091223&encoded=0d6eb6c0ce6203b61dd9e
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] KOMPAS 576P  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b723000.m3u8?stime=20180319161228&etime=20180319201228&encoded=0e474ec51c44864b873a7
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] BEIN3 576P  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:14a27c358043/chunklist_b1069000.m3u8?stime=20180319161052&etime=20180319201052&encoded=040da5a333df3b5f0535f
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] BEIN3 HD  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:14a27c358043/chunklist_b1328000.m3u8?stime=20180319161052&etime=20180319201052&encoded=04a67bf4dbd0c49f1ce83
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] BEIN2 576P  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fddbadb5b544/chunklist_b1069000.m3u8?stime=20180319160815&etime=20180319200815&encoded=0f4d5d67edc5998ff0be1
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] BEIN2 HD  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fddbadb5b544/chunklist_b1328000.m3u8?stime=20180319160815&etime=20180319200815&encoded=043c0c15eb92ab4f12e6a
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] BEIN 576P  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b1069000.m3u8?stime=20180319160509&etime=20180319200509&encoded=04010ffc6f8042fb8aa5d
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] BEIN HD  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/chunklist_b1328000.m3u8?stime=20180319160509&etime=20180319200509&encoded=00cde090938a5b1b1a617
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO 576P  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b672000000.m3u8?stime=20180319160338&etime=20180319200338&encoded=0c144e4d8ef54b1a58539
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO 360P  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b452000000.m3u8?stime=20180319160338&etime=20180319200338&encoded=0c09eae4122ed66549b7c
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS 360P  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b672000000.m3u8?stime=20180319160114&etime=20180319200114&encoded=0f6c1f8c6502010ea1235
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS 576P  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b992000000.m3u8?stime=20180319160114&etime=20180319200114&encoded=0b29a0a8d2fe3286392bc
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] ANTV 360p  [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b723000.m3u8?stime=20180319155724&etime=20180319195724&encoded=0916e6ea5e571b0f38e54
-#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] ANTV   [/COLOR]
-http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1069000.m3u8?stime=20180319155724&etime=20180319195724&encoded=015e78bae9a2a9eadf584
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:d1640648e415/chunklist_b1085000.m3u8?stime=20180329051046&etime=20180329091046&encoded=0ce099d5124689bbd6b78
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS TV [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:45136ac6f640/chunklist_b1008000000.m3u8?stime=20180329051623&etime=20180329091623&encoded=0a72a3204498ba06be08e
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] TRANS 7  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:2fc1f79e8d41/chunklist_b1008000000.m3u8?stime=20180329051743&etime=20180329091743&encoded=0632fa7bcab6b60fdf37f
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] NET TV  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:bd5f8644de53/chunklist_b1085000.m3u8?stime=20180329052009&etime=20180329092009&encoded=0cfd0c3aefbf3516ad6e3
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] ANTV  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:fa161aa74311/chunklist_b1085000.m3u8?stime=20180329052151&etime=20180329092151&encoded=040eb55a76c12e5836123
+#EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] SCTV  [/COLOR]
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:a7517db73512/chunklist_b1008000000.m3u8?stime=20180329052416&etime=20180329092416&encoded=0c30148b0e111fbb20dcb
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] RCTI [/COLOR]
 https://cdn-livetv2.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] BERITA SATU [/COLOR]
