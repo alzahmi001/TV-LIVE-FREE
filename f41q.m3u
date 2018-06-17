@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, [COLOR red]FAIQ HILYA 11/01/2011 @ 13:15 PM  (USEETV)[/COLOR]
-
+https://live.cdn.asset.aparat.com/astv1/edge/tv3_high/index.m3u8?wmsAuthSign=618ec5a28a2ec620ac62d63c3f7124bd
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] METRO  [/COLOR]
 http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:99878d6eca10/chunklist_b1008000000.m3u8?stime=20180329051223&etime=20180329091223&encoded=0d6eb6c0ce6203b61dd9e
 #EXTINF:-1 tvg-logo="" group-title="USETV",[COLOR lime] KOMPAS 576P  [/COLOR]
