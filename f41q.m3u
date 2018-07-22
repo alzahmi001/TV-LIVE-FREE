@@ -134,20 +134,7 @@ https://kmklive-lh.akamaihd.net/i/rtv_live@137568/index_144_av-b.m3u8?sd=10&reba
 https://kmklive-lh.akamaihd.net/i/rtv_live@137568/index_270_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/0wXg9IPxhUNIh7qCw7867fL48FY=/86x48/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="Vidio",[COLOR green] RTV 3  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/rtv_live@137568/index_360_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="" group-title="Vidio",[COLOR green] RTV 1  [/COLOR]
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BEIN 3  [/COLOR]
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] ZBIOSKOP  [/COLOR]
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] DUNIA ANAK  [/COLOR]
-rtmp://http://180.250.29.21//discover//duniaanak
-#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] ANTARA  [/COLOR]
-rtmp://118.97.183.222/discover//antara
-#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] HI INDO  [/COLOR]
-rtmp://118.97.183.222/discover//hiindo
-#EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] PAY TREN  [/COLOR]
-rtmp://118.97.183.222/discover//paytrentv
 #EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] BLOOMBERG USEE  [/COLOR]
 rtmp://118.97.183.222/discover//bloomberg
 #EXTINF:-1 tvg-logo="" group-title="NEWS",[COLOR green] BLOMBERG  [/COLOR]
