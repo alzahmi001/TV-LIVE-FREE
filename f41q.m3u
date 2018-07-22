@@ -129,11 +129,11 @@ https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/index_270_av-b.m3u8?sd=10&r
 #EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/PgXnbcseOHR4iQ5txJ0exKOLs40=/86x48/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="Vidio",[COLOR green] INEWS 3  [/COLOR]
 https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/index_360_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/0wXg9IPxhUNIh7qCw7867fL48FY=/86x48/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="Vidio",[COLOR green] RTV 1  [/COLOR]
-https://kmklive-lh.akamaihd.net/i/rtv_live@137568/index_144_av-b.m3u8?sd=10&rebase=on
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:af82c106fc14/chunklist_b368000000.m3u8?stime=20180722020048&etime=20180722060048&encoded=019af6ceee3a335f54326
 #EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/0wXg9IPxhUNIh7qCw7867fL48FY=/86x48/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="Vidio",[COLOR green] RTV 2  [/COLOR]
-https://kmklive-lh.akamaihd.net/i/rtv_live@137568/index_270_av-b.m3u8?sd=10&rebase=on
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:af82c106fc14/chunklist_b1008000000.m3u8?stime=20180722020048&etime=20180722060048&encoded=001179320fd38a23bda66
 #EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/0wXg9IPxhUNIh7qCw7867fL48FY=/86x48/smart/filters:quality(90)/vidio-media-production/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="Vidio",[COLOR green] RTV 3  [/COLOR]
-https://kmklive-lh.akamaihd.net/i/rtv_live@137568/index_360_av-b.m3u8?sd=10&rebase=on
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:af82c106fc14/chunklist_b688000000.m3u8?stime=20180722020048&etime=20180722060048&encoded=03ad5d18fb82b88d3f49b
 
 #EXTINF:-1 tvg-logo="" group-title="ID",[COLOR green] BLOOMBERG USEE  [/COLOR]
 rtmp://118.97.183.222/discover//bloomberg
