@@ -1,18 +1,18 @@
 ﻿#EXTM3U
-#EXTINF:-1,BEIN SPORTS US HD.
-http://p4.giffy.be:8080/live/shorty123/shorty123/13890.ts
-#EXTINF:-1,US | FOX SPORTS 1 HD
-http://p4.giffy.be:8080/live/shorty123/shorty123/13878.ts
-#EXTINF:-1,US | FOX SPORTS 2 HD
-http://p4.giffy.be:8080/live/shorty123/shorty123/13879.ts
-#EXTINF:-1,CBS SPORTS NETWORK US
-http://p4.giffy.be:8080/live/shorty123/shorty123/20948.ts
-#EXTINF:-1,SPORTSNET WORLD
-http://p4.giffy.be:8080/live/shorty123/shorty123/13884.ts
-#EXTINF:-1,SPORTSNET ONE HD
-http://p4.giffy.be:8080/live/shorty123/shorty123/20721.ts
-#EXTINF:-1,SPORTSNET 360.
-http://p4.giffy.be:8080/live/shorty123/shorty123/14215.ts
+#EXTINF:-1,CELESTIAL.
+http://210.210.155.35:80/session/1d43411e-d0a3-11e8-916f-b82a72d63267/qwr9ew/s/s33/index1.m3u8
+#EXTINF:-1,CN | SBS IN
+http://210.210.155.35/session/9bc148b4-d0b3-11e8-9ad1-92128cdfa481/uq2663/h/h28/02.m3u8
+#EXTINF:-1,CN | SBS IN HD
+http://210.210.155.35/session/9bc148b4-d0b3-11e8-9ad1-92128cdfa481/uq2663/h/h28/01.m3u8
+#EXTINF:-1,TRANS TV
+http://202.80.222.174:80/000001/2/ch14041511552652254306/index.m3u8
+#EXTINF:-1,TV ONE
+http://210.210.155.35/session/0ab1f386-78df-11e8-a629-b82a72d63267/qwr9ew/s/s02/02.m3u8
+#EXTINF:-1,TV ONE HD
+http://210.210.155.35/session/0ab1f386-78df-11e8-a629-b82a72d63267/qwr9ew/s/s02/01.m3u8
+#EXTINF:-1,METRO TV
+http://210.210.155.35/session/ad63ce04-af46-11e8-9362-c81f66f89318/qwr9ew/s/s49/01.m3u8
 #EXTINF:-1,SPORTSNET WEST HD
 http://p4.giffy.be:8080/live/shorty123/shorty123/21527.ts
 #EXTINF:-1,SPORTSNET EAST HD
