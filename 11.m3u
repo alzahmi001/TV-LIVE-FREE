@@ -5,6 +5,8 @@ http://210.210.155.35:80/session/1d43411e-d0a3-11e8-916f-b82a72d63267/qwr9ew/s/s
 http://210.210.155.35/session/9bc148b4-d0b3-11e8-9ad1-92128cdfa481/uq2663/h/h28/02.m3u8
 #EXTINF:-1,CN | SBS IN HD
 http://210.210.155.35/session/9bc148b4-d0b3-11e8-9ad1-92128cdfa481/uq2663/h/h28/01.m3u8
+#EXTINF:-1,TRANS TV 360
+https://tv.rumahstreaming.stream/9163192287720543transtv/lives/playlist.m3u8
 #EXTINF:-1,TRANS TV
 http://202.80.222.174:80/000001/2/ch14041511552652254306/index.m3u8
 #EXTINF:-1,TRANS TV HD
