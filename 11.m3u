@@ -7,6 +7,8 @@ http://210.210.155.35/session/9bc148b4-d0b3-11e8-9ad1-92128cdfa481/uq2663/h/h28/
 http://210.210.155.35/session/9bc148b4-d0b3-11e8-9ad1-92128cdfa481/uq2663/h/h28/01.m3u8
 #EXTINF:-1,TRANS TV
 http://202.80.222.174:80/000001/2/ch14041511552652254306/index.m3u8
+#EXTINF:-1,TRANS TV HD
+http://210.210.155.35/session/e0bfa91e-78df-11e8-a850-b82a72d63267/qwr9ew/s/s05/01.m3u8
 #EXTINF:-1,TV ONE
 http://210.210.155.35/session/0ab1f386-78df-11e8-a629-b82a72d63267/qwr9ew/s/s02/02.m3u8
 #EXTINF:-1,TV ONE HD
