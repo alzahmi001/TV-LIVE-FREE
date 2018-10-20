@@ -20,7 +20,7 @@ http://210.210.155.35/session/ad63ce04-af46-11e8-9362-c81f66f89318/qwr9ew/s/s49/
 #EXTINF:-1,N HD
 http://185.21.217.30:8554/rabbit/andpictureshd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAxOCA1OjE4OjI2IEFNJmhhc2hfdmFsdWU9Y0pJdkdQK0RscitwZittNzhwMjdMUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,SPORTSNET EAST HD
-http://p4.giffy.be:8080/live/shorty123/shorty123/22575.ts
+http://185.21.217.30:8554/rabbit/andtvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjUyOjQxIFBNJmhhc2hfdmFsdWU9VXFuYTNnTUUrTHNnNUV0RWo3Mm5MUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,SPORTSNET PACIFIC
 http://p4.giffy.be:8080/live/shorty123/shorty123/21526.ts
 #EXTINF:-1,US | TENNIS HD
