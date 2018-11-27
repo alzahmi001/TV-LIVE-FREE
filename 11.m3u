@@ -47,17 +47,15 @@ http://210.210.155.35:80/session/3f213bc0-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s
 http://210.210.155.35/session/9bc148b4-d0b3-11e8-9ad1-92128cdfa481/uq2663/h/h28/02.m3u8
 #EXTINF:-1,CN | SBS IN 
 http://210.210.155.35/session/9bc148b4-d0b3-11e8-9ad1-92128cdfa481/uq2663/h/h28/01.m3u8
-#EXTINF:-1,TRANS TV 360
-https://tv.rumahstreaming.stream/9163192287720543transtv/lives/playlist.m3u8
+#EXTINF:-1,TRANS TV SD
+http://210.210.155.35/session/e0bfa91e-78df-11e8-a850-b82a72d63267/qwr9ew/s/s05/02.m3u8
 #EXTINF:-1,TRANS TV
-http://202.80.222.174:80/000001/2/ch14041511552652254306/index.m3u8
-#EXTINF:-1,TRANS TV HD
 http://210.210.155.35/session/e0bfa91e-78df-11e8-a850-b82a72d63267/qwr9ew/s/s05/01.m3u8
-#EXTINF:-1,TV ONE
+#EXTINF:-1,TV ONE SD
 http://210.210.155.35/session/0ab1f386-78df-11e8-a629-b82a72d63267/qwr9ew/s/s02/02.m3u8
 #EXTINF:-1,TV ONE HD
 http://210.210.155.35/session/0ab1f386-78df-11e8-a629-b82a72d63267/qwr9ew/s/s02/01.m3u8
+#EXTINF:-1,METRO TV SD
+http://210.210.155.35/session/ad63ce04-af46-11e8-9362-c81f66f89318/qwr9ew/s/s49/02.m3u8
 #EXTINF:-1,METRO TV
 http://210.210.155.35/session/ad63ce04-af46-11e8-9362-c81f66f89318/qwr9ew/s/s49/01.m3u8
-#EXTINF:-1,HBO
-http://stream.tvtap.net:8081/live/us-hbo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA2OjEwOjA2IFBNJmhhc2hfdmFsdWU9ZStQNytHcnpKSEluMXYwMzFXNlNpQT09JnZhbGlkbWludXRlcz0yMA==
