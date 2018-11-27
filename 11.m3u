@@ -1,9 +1,51 @@
 ﻿#EXTM3U
-#EXTINF:-1,CELESTIAL.
+#EXTINF:-1,CELESTIAL SD
 http://210.210.155.35:80/session/1d43411e-d0a3-11e8-916f-b82a72d63267/qwr9ew/s/s33/index1.m3u8
-#EXTINF:-1,CN | SBS IN
+#EXTINF:-1,CELESTIAL
+http://210.210.155.35:80/session/1d43411e-d0a3-11e8-916f-b82a72d63267/qwr9ew/s/s33/index2.m3u8
+#EXTINF:-1,KIX SD
+http://210.210.155.35:80/session/0ada3d66-b1ef-11e8-810e-c81f66f89318/uq2663/h/h07/index1.m3u8
+#EXTINF:-1,KIX 
+http://210.210.155.35:80/session/0ada3d66-b1ef-11e8-810e-c81f66f89318/uq2663/h/h07/index2.m3u8
+#EXTINF:-1,THRILL SD
+http://210.210.155.35:80/session/536a93a2-b1f2-11e8-b550-c81f66f89318/qwr9ew/s/s34/index1.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35:80/session/536a93a2-b1f2-11e8-b550-c81f66f89318/qwr9ew/s/s34/index2.m3u8
+#EXTINF:-1,RTV SD
+http://210.210.155.35:80/session/5cf11b9c-b1f4-11e8-b52a-b82a72d63267/qwr9ew/s/s12/index1.m3u8
+#EXTINF:-1,RTV
+http://210.210.155.35:80/session/5cf11b9c-b1f4-11e8-b52a-b82a72d63267/qwr9ew/s/s12/index2.m3u8
+#EXTINF:-1,KOMPAS SD
+http://210.210.155.35:80/session/6f2a74ca-b1f4-11e8-9362-c81f66f89318/qwr9ew/s/s09/index1.m3u8
+#EXTINF:-1,KOMPAS
+http://210.210.155.35:80/session/6f2a74ca-b1f4-11e8-9362-c81f66f89318/qwr9ew/s/s09/index2.m3u8
+#EXTINF:-1,SCTV SD
+http://210.210.155.35:80/session/3bb51b1e-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s03/index1.m3u8
+#EXTINF:-1,SCTV
+http://210.210.155.35:80/session/3bb51b1e-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s03/index2.m3u8
+#EXTINF:-1,INDOSIAR SD
+http://210.210.155.35:80/session/42765080-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s04/index1.m3u8
+#EXTINF:-1,INDOSIAR
+http://210.210.155.35:80/session/42765080-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s04/index2.m3u8
+#EXTINF:-1,TRANS 7 SD
+http://210.210.155.35:80/session/469cb60e-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s06/index1.m3u8
+#EXTINF:-1,TRANS 7
+http://210.210.155.35:80/session/469cb60e-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s06/index2.m3u8
+#EXTINF:-1,TRANS TV SD
+http://210.210.155.35:80/session/4a245e3a-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s05/index1.m3u8
+#EXTINF:-1,TRANS TV
+http://210.210.155.35:80/session/4a245e3a-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s05/index2.m3u8
+#EXTINF:-1,NET SD
+http://210.210.155.35:80/session/5714334a-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s08/index1.m3u8
+#EXTINF:-1,NET
+http://210.210.155.35:80/session/5714334a-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s08/index2.m3u8
+#EXTINF:-1,ANTV SD
+http://210.210.155.35:80/session/3f213bc0-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1,ANTV
+http://210.210.155.35:80/session/3f213bc0-b1f3-11e8-86db-c81f66f89318/qwr9ew/s/s07/index2.m3u8
+#EXTINF:-1,CN | SBS IN SD
 http://210.210.155.35/session/9bc148b4-d0b3-11e8-9ad1-92128cdfa481/uq2663/h/h28/02.m3u8
-#EXTINF:-1,CN | SBS IN HD
+#EXTINF:-1,CN | SBS IN 
 http://210.210.155.35/session/9bc148b4-d0b3-11e8-9ad1-92128cdfa481/uq2663/h/h28/01.m3u8
 #EXTINF:-1,TRANS TV 360
 https://tv.rumahstreaming.stream/9163192287720543transtv/lives/playlist.m3u8
@@ -17,381 +59,5 @@ http://210.210.155.35/session/0ab1f386-78df-11e8-a629-b82a72d63267/qwr9ew/s/s02/
 http://210.210.155.35/session/0ab1f386-78df-11e8-a629-b82a72d63267/qwr9ew/s/s02/01.m3u8
 #EXTINF:-1,METRO TV
 http://210.210.155.35/session/ad63ce04-af46-11e8-9362-c81f66f89318/qwr9ew/s/s49/01.m3u8
-#EXTINF:-1,DON 2
-https://doc-00-1o-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/5319o3hgop665n5jnuodifo2c5c9kest/1540209600000/00397976599543480350/*/1e8AknrLKn0_ZmNCDASOavXgMygdLUfVF?e=view
 #EXTINF:-1,HBO
 http://stream.tvtap.net:8081/live/us-hbo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA2OjEwOjA2IFBNJmhhc2hfdmFsdWU9ZStQNytHcnpKSEluMXYwMzFXNlNpQT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1,Globo Minas HD
-http://142.44.142.35:25461/live/martins/martins/134.ts
-#EXTINF:-1,Globo Minas SD
-http://142.44.142.35:25461/live/martins/martins/1.ts
-#EXTINF:-1,Globo Rio HD
-http://142.44.142.35:25461/live/martins/martins/133.ts
-#EXTINF:-1,Globo Rio SD
-http://142.44.142.35:25461/live/martins/martins/206.ts
-#EXTINF:-1,Globo SP HD
-http://142.44.142.35:25461/live/martins/martins/189.ts
-#EXTINF:-1,Globo SP
-http://142.44.142.35:25461/live/martins/martins/132.ts
-#EXTINF:-1,Band HD
-http://142.44.142.35:25461/live/martins/martins/131.ts
-#EXTINF:-1,Band SD
-http://142.44.142.35:25461/live/martins/martins/130.ts
-#EXTINF:-1,Record HD
-http://142.44.142.35:25461/live/martins/martins/127.ts
-#EXTINF:-1,RECORD SD
-http://142.44.142.35:25461/live/martins/martins/126.ts
-#EXTINF:-1,SBT HD
-http://142.44.142.35:25461/live/martins/martins/188.ts
-#EXTINF:-1,SBT SD
-http://142.44.142.35:25461/live/martins/martins/128.ts
-#EXTINF:-1,Rede TV HD
-http://142.44.142.35:25461/live/martins/martins/169.ts
-#EXTINF:-1,Rede TV
-http://142.44.142.35:25461/live/martins/martins/125.ts
-#EXTINF:-1,Rede Brasil HD
-http://142.44.142.35:25461/live/martins/martins/198.ts
-#EXTINF:-1,TV Cultura SD
-http://142.44.142.35:25461/live/martins/martins/199.ts
-#EXTINF:-1,TV Brasil HD
-http://142.44.142.35:25461/live/martins/martins/348.ts
-#EXTINF:-1,TV Mundo Maior
-http://142.44.142.35:25461/live/martins/martins/346.ts
-#EXTINF:-1,Novo Tempo
-http://142.44.142.35:25461/live/martins/martins/62.ts
-#EXTINF:-1,Rede Vida
-http://142.44.142.35:25461/live/martins/martins/47.ts
-#EXTINF:-1,Canal Brasil HD
-http://142.44.142.35:25461/live/martins/martins/196.ts
-#EXTINF:-1,Canal Brasil
-http://142.44.142.35:25461/live/martins/martins/117.ts
-#EXTINF:-1,Canção Nova HD
-http://142.44.142.35:25461/live/martins/martins/115.ts
-#EXTINF:-1,Animal Planet HD
-http://142.44.142.35:25461/live/martins/martins/136.ts
-#EXTINF:-1,Animal Planet
-http://142.44.142.35:25461/live/martins/martins/123.ts
-#EXTINF:-1,AXN HD
-http://142.44.142.35:25461/live/martins/martins/138.ts
-#EXTINF:-1,AXN
-http://142.44.142.35:25461/live/martins/martins/122.ts
-#EXTINF:-1,Band News
-http://142.44.142.35:25461/live/martins/martins/121.ts
-#EXTINF:-1,Band Sports HD
-http://142.44.142.35:25461/live/martins/martins/139.ts
-#EXTINF:-1,Band Sports
-http://142.44.142.35:25461/live/martins/martins/120.ts
-#EXTINF:-1,BIS
-http://142.44.142.35:25461/live/martins/martins/119.ts
-#EXTINF:-1,Boomerang
-http://142.44.142.35:25461/live/martins/martins/118.ts
-#EXTINF:-1,Canal Sony
-http://142.44.142.35:25461/live/martins/martins/116.ts
-#EXTINF:-1,Cartoon Network HD
-http://142.44.142.35:25461/live/martins/martins/140.ts
-#EXTINF:-1,Cartoon Network
-http://142.44.142.35:25461/live/martins/martins/114.ts
-#EXTINF:-1,Cinemax HD
-http://142.44.142.35:25461/live/martins/martins/141.ts
-#EXTINF:-1,Cinemax
-http://142.44.142.35:25461/live/martins/martins/113.ts
-#EXTINF:-1,Cine Mais
-http://142.44.142.35:25461/live/martins/martins/344.ts
-#EXTINF:-1,CNN Espanhol
-http://142.44.142.35:25461/live/martins/martins/112.ts
-#EXTINF:-1,CNN Internacional HD
-http://142.44.142.35:25461/live/martins/martins/152.ts
-#EXTINF:-1,CNN Internacional
-http://142.44.142.35:25461/live/martins/martins/111.ts
-#EXTINF:-1,Combate
-http://142.44.142.35:25461/live/martins/martins/110.ts
-#EXTINF:-1,Combate HD2
-http://142.44.142.35:25461/live/martins/martins/142.ts
-#EXTINF:-1,Combate SD
-http://142.44.142.35:25461/live/martins/martins/109.ts
-#EXTINF:-1,Comedy Central
-http://142.44.142.35:25461/live/martins/martins/108.ts
-#EXTINF:-1,Discovery Channel HD
-http://142.44.142.35:25461/live/martins/martins/107.ts
-#EXTINF:-1,Discovery Channel HD2
-http://142.44.142.35:25461/live/martins/martins/143.ts
-#EXTINF:-1,Discovery Channel SD
-http://142.44.142.35:25461/live/martins/martins/106.ts
-#EXTINF:-1,Discovery Home & Health
-http://142.44.142.35:25461/live/martins/martins/105.ts
-#EXTINF:-1,Discovery Kids HD
-http://142.44.142.35:25461/live/martins/martins/104.ts
-#EXTINF:-1,Discovery Kids SD
-http://142.44.142.35:25461/live/martins/martins/103.ts
-#EXTINF:-1,Discovery Turbo HD
-http://142.44.142.35:25461/live/martins/martins/213.ts
-#EXTINF:-1,Discovery Turbo
-http://142.44.142.35:25461/live/martins/martins/102.ts
-#EXTINF:-1,Disney
-http://142.44.142.35:25461/live/martins/martins/101.ts
-#EXTINF:-1,Disney Jr.
-http://142.44.142.35:25461/live/martins/martins/100.ts
-#EXTINF:-1,Disney XD
-http://142.44.142.35:25461/live/martins/martins/99.ts
-#EXTINF:-1,E! HD
-http://142.44.142.35:25461/live/martins/martins/190.ts
-#EXTINF:-1,E!
-http://142.44.142.35:25461/live/martins/martins/98.ts
-#EXTINF:-1,Esporte Interativo 1 HD
-http://142.44.142.35:25461/live/martins/martins/203.ts
-#EXTINF:-1,Esporte Interativo
-http://142.44.142.35:25461/live/martins/martins/97.ts
-#EXTINF:-1,Esporte Interativo 2 HD
-http://142.44.142.35:25461/live/martins/martins/147.ts
-#EXTINF:-1,Esporte Interativo 2
-http://142.44.142.35:25461/live/martins/martins/96.ts
-#EXTINF:-1,ESPN HD
-http://142.44.142.35:25461/live/martins/martins/145.ts
-#EXTINF:-1,ESPN
-http://142.44.142.35:25461/live/martins/martins/95.ts
-#EXTINF:-1,ESPN Brasil HD
-http://142.44.142.35:25461/live/martins/martins/144.ts
-#EXTINF:-1,ESPN Brasil
-http://142.44.142.35:25461/live/martins/martins/94.ts
-#EXTINF:-1,Fashion TV HD
-http://142.44.142.35:25461/live/martins/martins/352.ts
-#EXTINF:-1,Fish TV
-http://142.44.142.35:25461/live/martins/martins/207.ts
-#EXTINF:-1,Food Network
-http://142.44.142.35:25461/live/martins/martins/204.ts
-#EXTINF:-1,Fox HD
-http://142.44.142.35:25461/live/martins/martins/148.ts
-#EXTINF:-1,FOX
-http://142.44.142.35:25461/live/martins/martins/93.ts
-#EXTINF:-1,Fox Premium 1 HD
-http://142.44.142.35:25461/live/martins/martins/211.ts
-#EXTINF:-1,Fox Premium 2 HD
-http://142.44.142.35:25461/live/martins/martins/212.ts
-#EXTINF:-1,Fox Sports HD
-http://142.44.142.35:25461/live/martins/martins/149.ts
-#EXTINF:-1,Fox Sports
-http://142.44.142.35:25461/live/martins/martins/91.ts
-#EXTINF:-1,Fox Sports 2 HD
-http://142.44.142.35:25461/live/martins/martins/150.ts
-#EXTINF:-1,Fox Sports 2
-http://142.44.142.35:25461/live/martins/martins/90.ts
-#EXTINF:-1,Fox Life HD
-http://142.44.142.35:25461/live/martins/martins/151.ts
-#EXTINF:-1,Fox Life
-http://142.44.142.35:25461/live/martins/martins/92.ts
-#EXTINF:-1,Futura
-http://142.44.142.35:25461/live/martins/martins/208.ts
-#EXTINF:-1,FX HD
-http://142.44.142.35:25461/live/martins/martins/89.ts
-#EXTINF:-1,GloboNews HD
-http://142.44.142.35:25461/live/martins/martins/88.ts
-#EXTINF:-1,GloboNews SD
-http://142.44.142.35:25461/live/martins/martins/87.ts
-#EXTINF:-1,+ Globosat HD
-http://142.44.142.35:25461/live/martins/martins/183.ts
-#EXTINF:-1,+ Globosat
-http://142.44.142.35:25461/live/martins/martins/76.ts
-#EXTINF:-1,Gloob HD
-http://142.44.142.35:25461/live/martins/martins/153.ts
-#EXTINF:-1,Gloob
-http://142.44.142.35:25461/live/martins/martins/86.ts
-#EXTINF:-1,GNT HD
-http://142.44.142.35:25461/live/martins/martins/187.ts
-#EXTINF:-1,GNT
-http://142.44.142.35:25461/live/martins/martins/85.ts
-#EXTINF:-1,H2 HD
-http://142.44.142.35:25461/live/martins/martins/157.ts
-#EXTINF:-1,H2
-http://142.44.142.35:25461/live/martins/martins/84.ts
-#EXTINF:-1,HBO HD
-http://142.44.142.35:25461/live/martins/martins/186.ts
-#EXTINF:-1,HBO
-http://142.44.142.35:25461/live/martins/martins/83.ts
-#EXTINF:-1,HBO 2 HD
-http://142.44.142.35:25461/live/martins/martins/154.ts
-#EXTINF:-1,HBO 2
-http://142.44.142.35:25461/live/martins/martins/78.ts
-#EXTINF:-1,HBO Family HD
-http://142.44.142.35:25461/live/martins/martins/155.ts
-#EXTINF:-1,HBO Family
-http://142.44.142.35:25461/live/martins/martins/82.ts
-#EXTINF:-1,HBO Plus HD
-http://142.44.142.35:25461/live/martins/martins/156.ts
-#EXTINF:-1,HBO Plus
-http://142.44.142.35:25461/live/martins/martins/81.ts
-#EXTINF:-1,HBO Plus *e
-http://142.44.142.35:25461/live/martins/martins/80.ts
-#EXTINF:-1,HBO Signature
-http://142.44.142.35:25461/live/martins/martins/79.ts
-#EXTINF:-1,ID - Investigação Discovery HD
-http://142.44.142.35:25461/live/martins/martins/185.ts
-#EXTINF:-1,ID - Investigação Discovery
-http://142.44.142.35:25461/live/martins/martins/77.ts
-#EXTINF:-1,MAX HD
-http://142.44.142.35:25461/live/martins/martins/158.ts
-#EXTINF:-1,MAX
-http://142.44.142.35:25461/live/martins/martins/75.ts
-#EXTINF:-1,MAX Prime
-http://142.44.142.35:25461/live/martins/martins/74.ts
-#EXTINF:-1,MAX Prime *e
-http://142.44.142.35:25461/live/martins/martins/73.ts
-#EXTINF:-1,MAX UP HD
-http://142.44.142.35:25461/live/martins/martins/159.ts
-#EXTINF:-1,MAX UP
-http://142.44.142.35:25461/live/martins/martins/72.ts
-#EXTINF:-1,Megapix HD
-http://142.44.142.35:25461/live/martins/martins/71.ts
-#EXTINF:-1,Megapix HD2
-http://142.44.142.35:25461/live/martins/martins/160.ts
-#EXTINF:-1,MegaPix SD
-http://142.44.142.35:25461/live/martins/martins/70.ts
-#EXTINF:-1,Multishow HD
-http://142.44.142.35:25461/live/martins/martins/161.ts
-#EXTINF:-1,Multishow
-http://142.44.142.35:25461/live/martins/martins/69.ts
-#EXTINF:-1,Music Box Brasil HD
-http://142.44.142.35:25461/live/martins/martins/351.ts
-#EXTINF:-1,Music Box Brazil
-http://142.44.142.35:25461/live/martins/martins/68.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://142.44.142.35:25461/live/martins/martins/162.ts
-#EXTINF:-1,Nat Geo Wild
-http://142.44.142.35:25461/live/martins/martins/66.ts
-#EXTINF:-1,NatGeo Kids
-http://142.44.142.35:25461/live/martins/martins/67.ts
-#EXTINF:-1,National Geographic HD
-http://142.44.142.35:25461/live/martins/martins/163.ts
-#EXTINF:-1,National Geographic
-http://142.44.142.35:25461/live/martins/martins/65.ts
-#EXTINF:-1,Nick Jr.
-http://142.44.142.35:25461/live/martins/martins/64.ts
-#EXTINF:-1,Nickelodeon
-http://142.44.142.35:25461/live/martins/martins/63.ts
-#EXTINF:-1,OFF
-http://142.44.142.35:25461/live/martins/martins/61.ts
-#EXTINF:-1,Paramount HD
-http://142.44.142.35:25461/live/martins/martins/60.ts
-#EXTINF:-1,Play TV
-http://142.44.142.35:25461/live/martins/martins/59.ts
-#EXTINF:-1,SporTV HD
-http://142.44.142.35:25461/live/martins/martins/45.ts
-#EXTINF:-1,SporTV SD
-http://142.44.142.35:25461/live/martins/martins/44.ts
-#EXTINF:-1,SporTV 2 HD
-http://142.44.142.35:25461/live/martins/martins/171.ts
-#EXTINF:-1,SporTV 2
-http://142.44.142.35:25461/live/martins/martins/43.ts
-#EXTINF:-1,SporTV 3 HD
-http://142.44.142.35:25461/live/martins/martins/170.ts
-#EXTINF:-1,SporTV 3
-http://142.44.142.35:25461/live/martins/martins/42.ts
-#EXTINF:-1,Premiere Clubes HD
-http://142.44.142.35:25461/live/martins/martins/58.ts
-#EXTINF:-1,Premiere Clubes HD2
-http://142.44.142.35:25461/live/martins/martins/164.ts
-#EXTINF:-1,Premiere Clubes SD
-http://142.44.142.35:25461/live/martins/martins/57.ts
-#EXTINF:-1,Premiere 2 HD
-http://142.44.142.35:25461/live/martins/martins/165.ts
-#EXTINF:-1,Premiere 2
-http://142.44.142.35:25461/live/martins/martins/56.ts
-#EXTINF:-1,Premiere 3 HD
-http://142.44.142.35:25461/live/martins/martins/166.ts
-#EXTINF:-1,Premiere 3
-http://142.44.142.35:25461/live/martins/martins/55.ts
-#EXTINF:-1,Premiere 4 HD
-http://142.44.142.35:25461/live/martins/martins/167.ts
-#EXTINF:-1,Premiere 4
-http://142.44.142.35:25461/live/martins/martins/54.ts
-#EXTINF:-1,Premiere 5 HD
-http://142.44.142.35:25461/live/martins/martins/168.ts
-#EXTINF:-1,Premiere 5
-http://142.44.142.35:25461/live/martins/martins/53.ts
-#EXTINF:-1,Premiere 6
-http://142.44.142.35:25461/live/martins/martins/52.ts
-#EXTINF:-1,Premiere 7
-http://142.44.142.35:25461/live/martins/martins/51.ts
-#EXTINF:-1,Premiere 8
-http://142.44.142.35:25461/live/martins/martins/50.ts
-#EXTINF:-1,Premiere 9
-http://142.44.142.35:25461/live/martins/martins/49.ts
-#EXTINF:-1,Prime Box HD
-http://142.44.142.35:25461/live/martins/martins/350.ts
-#EXTINF:-1,Record News HD
-http://142.44.142.35:25461/live/martins/martins/184.ts
-#EXTINF:-1,Record News
-http://142.44.142.35:25461/live/martins/martins/48.ts
-#EXTINF:-1,Space HD
-http://142.44.142.35:25461/live/martins/martins/210.ts
-#EXTINF:-1,Space SD
-http://142.44.142.35:25461/live/martins/martins/46.ts
-#EXTINF:-1,Studio Universal HD
-http://142.44.142.35:25461/live/martins/martins/41.ts
-#EXTINF:-1,Syfy
-http://142.44.142.35:25461/live/martins/martins/40.ts
-#EXTINF:-1,TCM
-http://142.44.142.35:25461/live/martins/martins/39.ts
-#EXTINF:-1,Telecine Action HD
-http://142.44.142.35:25461/live/martins/martins/172.ts
-#EXTINF:-1,Telecine Action
-http://142.44.142.35:25461/live/martins/martins/38.ts
-#EXTINF:-1,Telecine Cult HD
-http://142.44.142.35:25461/live/martins/martins/173.ts
-#EXTINF:-1,Telecine Cult
-http://142.44.142.35:25461/live/martins/martins/37.ts
-#EXTINF:-1,Telecine Fun HD
-http://142.44.142.35:25461/live/martins/martins/174.ts
-#EXTINF:-1,Telecine Fun
-http://142.44.142.35:25461/live/martins/martins/36.ts
-#EXTINF:-1,Telecine Pipoca HD
-http://142.44.142.35:25461/live/martins/martins/175.ts
-#EXTINF:-1,Telecine Pipoca
-http://142.44.142.35:25461/live/martins/martins/35.ts
-#EXTINF:-1,Telecine Touch HD
-http://142.44.142.35:25461/live/martins/martins/176.ts
-#EXTINF:-1,Telecine Touch
-http://142.44.142.35:25461/live/martins/martins/33.ts
-#EXTINF:-1,Telecine Premium HD
-http://142.44.142.35:25461/live/martins/martins/182.ts
-#EXTINF:-1,Telecine Premium
-http://142.44.142.35:25461/live/martins/martins/34.ts
-#EXTINF:-1,The History Channel HD
-http://142.44.142.35:25461/live/martins/martins/129.ts
-#EXTINF:-1,The History Channel
-http://142.44.142.35:25461/live/martins/martins/32.ts
-#EXTINF:-1,TLC HD
-http://142.44.142.35:25461/live/martins/martins/177.ts
-#EXTINF:-1,TLC
-http://142.44.142.35:25461/live/martins/martins/31.ts
-#EXTINF:-1,TNT HD
-http://142.44.142.35:25461/live/martins/martins/30.ts
-#EXTINF:-1,TNT HD2
-http://142.44.142.35:25461/live/martins/martins/178.ts
-#EXTINF:-1,TNT SD
-http://142.44.142.35:25461/live/martins/martins/29.ts
-#EXTINF:-1,TNT Séries HD
-http://142.44.142.35:25461/live/martins/martins/191.ts
-#EXTINF:-1,TNT Séries
-http://142.44.142.35:25461/live/martins/martins/28.ts
-#EXTINF:-1,Tooncast
-http://142.44.142.35:25461/live/martins/martins/27.ts
-#EXTINF:-1,TruTV
-http://142.44.142.35:25461/live/martins/martins/26.ts
-#EXTINF:-1,TV Rá tim bum HD
-http://142.44.142.35:25461/live/martins/martins/25.ts
-#EXTINF:-1,Universal Channel HD
-http://142.44.142.35:25461/live/martins/martins/179.ts
-#EXTINF:-1,Universal Channel
-http://142.44.142.35:25461/live/martins/martins/24.ts
-#EXTINF:-1,VH1 Megahits
-http://142.44.142.35:25461/live/martins/martins/23.ts
-#EXTINF:-1,Viva HD
-http://142.44.142.35:25461/live/martins/martins/180.ts
-#EXTINF:-1,Viva
-http://142.44.142.35:25461/live/martins/martins/22.ts
-#EXTINF:-1,Warner Channel HD
-http://142.44.142.35:25461/live/martins/martins/181.ts
-#EXTINF:-1,Warner Channel
-http://142.44.142.35:25461/live/martins/martins/21.ts
-#EXTINF:-1,Woohoo
-http://142.44.142.35:25461/live/martins/martins/20.ts
