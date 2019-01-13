@@ -1,6 +1,20 @@
-﻿#EXTM3U
- #EXTINF:-1,EPS 7-8
-https://doc-10-as-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/pvfa40ondued9cra4425m9mhvkc18n7f/1544508000000/14497667219599072290/*/1_2t4PdozOn3icB5-8brSncTNpDp3f9pQ?e=view
+#EXTM3U
+#EXTINF:-1,&PICTURES HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1,&FLIX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,&PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:-1,FOX MOVIES PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1,RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,ZEE CINEMA HD
+http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1,ZEE BOLLYWOOD
+http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:-1,CELESTIAL SD
 http://210.210.155.35:80/session/1d43411e-d0a3-11e8-916f-b82a72d63267/qwr9ew/s/s33/index1.m3u8
 #EXTINF:-1,CELESTIAL
