@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,RUMAH TV
+http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
 #EXTINF:-1,&PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1,&FLIX HD
