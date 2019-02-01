@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,CBS 4 NEWS US
-https://www.radiantmediaplayer.com/test-your-streaming-url.html?streamProtocol=hls&streamUrl=https%3A%2F%2Fstreaming.useetv.com%2Fjhos%2Fbeib1.m3u8%3Fstime%3D20190201120000%26etime%3D20190201140000%26encoded%3D03bca355128bede6ca67c
+#EXTINF:-1,CNN 1080p US
+http://192.99.150.25:25461/live/0803/0803/27367.m3u8
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1074/index.m3u8?
 #EXTINF:-1,CBS 4 NEWS US
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
