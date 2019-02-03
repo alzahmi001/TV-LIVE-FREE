@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,US:Discovery Channel
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,HSN 2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+#EXTINF:-1,HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+#EXTINF:-1,Universal TV Espanol
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1,Sony Movie Channel HD
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8
+#EXTINF:-1,QVC BEAUTY IQ
+https://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/chunklist_b2592000.m3u8
+#EXTINF:-1,CNBC News
+http://161.0.157.9/PLTV/88888888/224/3221227005/01.m3u8
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1,HBO 2
 http://ip.avov4.us:8000/live/tunaabi/13122018/3059.m3u8
 #EXTINF:-1,HBO 3
@@ -14,7 +32,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1,CBS 4 NEWS US 720P
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1,HBO US
-http://161.0.157.5/PLTV/88888888/224/3221226127/03.m3u8
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1,HBO US 720P
 http://161.0.157.5/PLTV/88888888/224/3221226127/01.m3u8
 #EXTINF:-1,FOX US
