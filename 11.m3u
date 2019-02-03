@@ -120,6 +120,87 @@ http://streaming.sim-indonesia.com:8000/genfm
 #EXTINF:0,[CHANNEL MACET? RUBAH TIAP CHANNEL DECODER KE AUTO/NATIVE/SOFTWARE/HW+ HINGGA LANCAR]
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
+#EXTM3U
+#EXTINF:-1,MY:1News (480p)
+https://rtm-live-stream1.glueapi.io/smil:rtmch006/chunklist_b974000_sleng.m3u8
+#EXTINF:-1,MY:1News (720p)
+https://rtm-live-stream1.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+#EXTINF:-1,MY:8TV (480p)
+https://stream-04.nyc.dailymotion.com/dm/3/x6qud17/live-1.m3u8
+#EXTINF:-1,MY:8TV (720p)
+https://stream-04.nyc.dailymotion.com/dm/3/x6qud17/live-2.m3u8
+#EXTINF:-1,MY:NTV7 (480p)
+https://stream-04.nyc.dailymotion.com/dm/3/x6qp6ou/live-1.m3u8
+#EXTINF:-1,MY:NTV7 (720p)
+https://stream-04.nyc.dailymotion.com/dm/3/x6qp6ou/live-2.m3u8
+#EXTINF:-1,MY:Okey (480p)
+https://rtm-live-stream1.glueapi.io/smil:rtmch003.smil/chunklist_b974000_sleng.m3u8
+#EXTINF:-1,MY:Okey (720p)
+https://rtm-live-stream1.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,MY:Parlimen Dewan Rakyat (480p)
+https://rtm-live-stream1.glueapi.io/smil:rtmch007/chunklist_b950000_sleng.m3u8
+#EXTINF:-1,MY:Parlimen Dewan Rakyat (720p)
+https://rtm-live-stream1.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+#EXTINF:-1,MY:TV1 (480p)
+https://rtm-live-stream1.glueapi.io/smil:rtmch001.smil/chunklist_b974000_sleng.m3u8
+#EXTINF:-1,MY:TV1 (720p)
+https://rtm-live-stream1.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,MY:TV2 (480p)
+https://rtm-live-stream1.glueapi.io/smil:rtmch002/chunklist_b974000_sleng.m3u8
+#EXTINF:-1,MY:TV2 (720p)
+https://rtm-live-stream1.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,MY:TV3 (480p)
+https://stream-04.nyc.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+#EXTINF:-1,MY:TV3 (720p)
+https://stream-04.nyc.dailymotion.com/dm/3/x6qp375/live-2.m3u8
+#EXTINF:-1,MY:TV9 (480p)
+https://stream-04.nyc.dailymotion.com/dm/3/x6qqja6/live-1.m3u8
+#EXTINF:-1,MY:TV9 (720p)
+https://stream-04.nyc.dailymotion.com/dm/3/x6qqja6/live-2.m3u8
+#EXTINF:-1,SG:Channel 5 (480p)
+https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index_2.m3u8
+#EXTINF:-1,SG:Channel 5 (720p)
+https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index_3.m3u8
+#EXTINF:-1,SG:Channel 5 (1080p)
+https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index_4.m3u8
+#EXTINF:-1,SG:Channel 8 (480p)
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_2.m3u8
+#EXTINF:-1,SG:Channel 8 (720p)
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_3.m3u8
+#EXTINF:-1,SG:Channel 8 (1080p)
+http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_4.m3u8
+#EXTINF:-1,SG:Channel NewsAsia (480p)
+https://ftacnas.akamaized.net/out/v1/98f973cbfb1846df9b8548b9f41bb484/index_1.m3u8
+#EXTINF:-1,SG:Channel NewsAsia (720p)
+https://ftacnas.akamaized.net/out/v1/98f973cbfb1846df9b8548b9f41bb484/index_2.m3u8
+#EXTINF:-1,SG:Channel NewsAsia (1080p)
+https://ftacnas.akamaized.net/out/v1/98f973cbfb1846df9b8548b9f41bb484/index_3.m3u8
+#EXTINF:-1,SG:Channel U (480p)
+https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index_2.m3u8
+#EXTINF:-1,SG:Channel U (720p)
+https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index_3.m3u8
+#EXTINF:-1,SG:Channel U (1080p)
+https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index_4.m3u8
+#EXTINF:-1,SG:Okto (480p)
+https://ftaokto.akamaized.net/out/v1/d7306938a27b464ca5c3856c7c1f00b5/index_1.m3u8
+#EXTINF:-1,SG:Okto (720p)
+https://ftaokto.akamaized.net/out/v1/d7306938a27b464ca5c3856c7c1f00b5/index_2.m3u8
+#EXTINF:-1,SG:Okto (1080p)
+https://ftaokto.akamaized.net/out/v1/d7306938a27b464ca5c3856c7c1f00b5/index_3.m3u8
+#EXTINF:-1,SG:Suria (480p)
+https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index_1.m3u8
+#EXTINF:-1,SG:Suria (720p)
+https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index_2.m3u8
+#EXTINF:-1,SG:Suria (1080p)
+https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index_3.m3u8
+#EXTINF:-1,SG:Vasantham (480p)
+https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index_1.m3u8
+#EXTINF:-1,SG:Vasantham (720p)
+https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index_2.m3u8
+#EXTINF:-1,SG:Vasantham (1080p)
+https://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index_3.m3u8
+
+
 #EXTINF:-1, group-title="STASIUN NASIONAL",NET. HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 #EXTINF:-1, group-title="STASIUN NASIONAL",NET. TV
