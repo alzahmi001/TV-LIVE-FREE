@@ -120,7 +120,6 @@ http://streaming.sim-indonesia.com:8000/genfm
 #EXTINF:0,[CHANNEL MACET? RUBAH TIAP CHANNEL DECODER KE AUTO/NATIVE/SOFTWARE/HW+ HINGGA LANCAR]
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
-#EXTM3U
 #EXTINF:-1,MY:1News (480p)
 https://rtm-live-stream1.glueapi.io/smil:rtmch006/chunklist_b974000_sleng.m3u8
 #EXTINF:-1,MY:1News (720p)
