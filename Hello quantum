@@ -1,0 +1,147 @@
+Skip to content
+Your account has been flagged.
+Because of that, your profile is hidden from the public. If you believe this is a mistake, contact support to have your account status reviewed.
+dyndns
+Repositories864
+Code876K
+Commits1M
+Issues9K
+Marketplace0
+Topics14
+Wikis559
+Users5
+Language
+
+Sort
+
+864 repository results
+cavebeat/gandi-live-dns
+DynDNS Updater for Gandi LiveDNS REST API
+python
+dyndns-updater
+gandi
+dns
+api
+rest
+dyndns
+livedns
+GPL-3.0 license
+
+Updated 26 days ago
+
+ Python
+ 76
+mwarning/KadNode
+P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
+p2p
+tls
+dns
+dht
+c
+decentralized
+pki
+dyndns
+MIT license
+
+Updated 15 days ago
+
+ C
+ 286
+saschpe/godaddy-dyndns
+DynDNS-like public IP auto-updater script for GoDaddy
+python
+dyndns
+godaddy
+godaddy-dns
+Apache-2.0 license
+
+Updated on Jan 21
+
+ Python
+ 80
+nicokaiser/Dyndns
+A simple DynDNS server in PHP
+MIT license
+
+Updated on Oct 29, 2014
+
+ PHP
+ 80
+pboehm/ddns
+A self-hosted Dynamic DNS solution similar to DynDNS or NO-IP
+go
+dynamic-dns-solution
+dyndns
+webservice
+ddns
+MIT license
+
+Updated on Feb 27, 2018
+
+ Go
+ 156
+SFTtech/sftdyn
+Self-hosted dyndns/dynamic DNS server and updater for bind
+python
+dynamic-dns-server
+dyndns
+simple
+nsupdate
+ddns
+bind
+simple-stupid
+zone-update
+named
+Updated on Oct 22, 2018
+
+ Python
+ 88
+lembregtse/gandi-dyndns
+Gandi dynamic dns updater
+Updated on Apr 12, 2018
+
+ Python
+ 67
+martinlowinski/php-dyndns
+SchlundTech DynDNS backend for PHP
+php
+dns
+dynamic-dns
+Updated on Jan 8, 2017
+
+ PHP
+ 26
+sTywin/dyndns53
+Implementation of dyndns2 dynamic DNS protocol for AWS Lambda, API Gateway, and Route 53
+MIT license
+
+Updated on Jun 19, 2017
+
+ Python
+ 38
+infothrill/python-dyndnsc
+dynamic dns (dyndns) update client with support for multiple protocols
+python
+dns
+dynamic-dns
+dyndns
+ddns-client
+ddns-updater
+MIT license
+
+Updated 18 days ago
+
+ Python
+ 26
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
