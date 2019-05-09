@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,US:KARAOKE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-#EXTINF:-1,HSN 2
-https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+#EXTINF:-1,MADU TV
+https://5bb648ab35ae7.streamlock.net/madufm/live/chunklist_w631919091.m3u8
 #EXTINF:-1,HSN
 https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 #EXTINF:-1,Universal TV Espanol
