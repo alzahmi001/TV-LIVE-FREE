@@ -1,5 +1,4 @@
 #EXTINF:0, group-title="LOKAL",MKCTV
-http://s8196.cdn.mytvnet.vn/v5live.m3u8?c=vstv377&q=sd&deviceType=2&userId=5&deviceId=7334315&type=tv&rkey=01260919jVeU8rdj&p=0&zn=netott&ctl=10.108&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg10&location=DNG&rbk=20316270137&pnode=172.16.143.84
 
 #EXTINF:0, group-title="LOKAL",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
