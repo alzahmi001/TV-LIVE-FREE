@@ -1,4 +1,5 @@
 #EXTINF:0, group-title="LOKAL",MKCTV
+http://s8196.cdn.mytvnet.vn/v5live.m3u8?c=vstv377&q=sd&deviceType=2&userId=5&deviceId=7334315&type=tv&rkey=01260919jVeU8rdj&p=0&zn=netott&ctl=10.108&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg10&location=DNG&rbk=20316270137&pnode=172.16.143.84
 
 #EXTINF:0, group-title="LOKAL",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -143,6 +144,24 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u
 
 #EXTINF:2,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_Yj54H0OMsK6pdpgI-T4TbYVgHUpVLwUH3RSNDETIyjxsltf" group-title="Malaysia",RTM TV OKEY
 http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+
+#EXTINF:0,group-title="Malaysia",Celestial Movie
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214818
+
+#EXTINF:0,group-title="Malaysia",CNA
+http://185.132.134.76:8080/Cp4FEzcD52/GixgMLzAxW/156135?token=SkdcWEsKFl9DVFNSBFZUAVVTBAJXAAdTBgZWAA8EVAMIVFIPXQQBAQBDG0cSFkQGA1xrDwFHCFBQUldSAkkUQkIARmZRBhZfQ1kHUVFTFE9ARV0LAEcIUFBRX1cCUAQBBUkWSVEGFl9DUAdTUFcUT0BUTBIAF1wACTsCBEEMVVITX1pMVA4YRw4PaAEED1cNBhMORFVHHkMMFxZDDUdmYxExUVVTDVlFKA9TCg8HRQoDExhEBwxGEwQQA0MNRwcCCVQWFRoBWxAPFUUcQ1gUKiYTGEQAHUYECxcPDllHDBVFFhYVGgtHOhMERBETB1cOB0MWXEdVEE1HCQcZaAZZWV8AV01RDVoWQ1sVVENOFA4NX10SChdtEQwARFsVVwMFBlMWRA==
+
+#EXTINF:0,group-title="Malaysia",Boomerang 
+http://185.180.15.172:8080/Cp4FEzcD52/GixgMLzAxW/214816?token=SkdcWEsKFl9DUVRRWVcHVgYBAwQEVQtRBFIDAlRcBFEJBlELW1oDUlNDG0cSFkQGA1xrDwFHCFNUUF5QAUkUQkIARmZRBhZfQ1kHUVFTFE9ARV0LAEcIUFBRX1cCUwUPBEkWSVEGFl9DUAVTU1UUT0BUTBIAF1wACTsCBEEMVVITX1pMVA4YRw4PaAEED1cNBhMORFVHHkMMFxZDDUdmYxExUVVTDVlFKA9TCg8HRQoDExhEBwxGEwQQA0MNRwQGBVMWFRoBWxAPFUUcQ1gUKiYTGEQAHUYECxcPDllHDBVFFhYVGgtHOhMERBETB1cOB0MWXEdVEE1HCQcZaAZZWV8AV01RDVoWQ1sVVENOFA4NX10SChdtEQwARFsVVAEDCFUWRA==
+
+#EXTINF:0,group-title="Malaysia",FOX MOVIES
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214831
+
+#EXTINF:0,group-title="Malaysia",FOX MOVIES ACTION
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214830
+
+#EXTINF:0,group-title="Malaysia",RED by HBO
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/214857
 
 #EXTINF:0,group-title="Malaysia",TV1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
