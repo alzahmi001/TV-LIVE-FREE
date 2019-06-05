@@ -1,34 +1,34 @@
-#EXTINF:0, group-title="LOKAL",MKCTV
+#EXTINF:0," group-title="LOKAL",MKCTV
 http://s8196.cdn.mytvnet.vn/v5live.m3u8?c=vstv377&q=sd&deviceType=2&userId=5&deviceId=7334315&type=tv&rkey=01260919jVeU8rdj&p=0&zn=netott&ctl=10.108&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg10&location=DNG&rbk=20316270137&pnode=172.16.143.84
 
-#EXTINF:0, group-title="LOKAL",RCTI
+#EXTINF:0, "group-title="LOKAL",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",MNC
+#EXTINF:0," group-title="LOKAL",MNC
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",GLOBAL TV
+#EXTINF:0," group-title="LOKAL",GLOBAL TV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",SCTV
+#EXTINF:0," group-title="LOKAL",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",INDOSIAR
+#EXTINF:0," group-title="LOKAL",INDOSIAR
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",ANTV
+#EXTINF:0," group-title="LOKAL",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",NET TV
+#EXTINF:0," group-title="LOKAL",NET TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",TRANS TV
+#EXTINF:0," group-title="LOKAL",TRANS TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",TRANS7
+#EXTINF:0," group-title="LOKAL",TRANS7
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",RAJAWALI TV
+#EXTINF:0," group-title="LOKAL",RAJAWALI TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0, group-title="LOKAL",JAK TV
