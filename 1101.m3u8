@@ -1,19 +1,19 @@
-#EXTINF:0," group-title="LOKAL",MKCTV
+#EXTINF:0," group-title"LOKAL",MKCTV
 http://s8196.cdn.mytvnet.vn/v5live.m3u8?c=vstv377&q=sd&deviceType=2&userId=5&deviceId=7334315&type=tv&rkey=01260919jVeU8rdj&p=0&zn=netott&ctl=10.108&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg10&location=DNG&rbk=20316270137&pnode=172.16.143.84
 
-#EXTINF:0, "group-title="LOKAL",RCTI
+#EXTINF:0, "group-title"LOKAL",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0," group-title="LOKAL",MNC
+#EXTINF:0," group-title"LOKAL",MNC
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0," group-title="LOKAL",GLOBAL TV
+#EXTINF:0," group-title"LOKAL",GLOBAL TV
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0," group-title="LOKAL",SCTV
+#EXTINF:0," group-title"LOKAL",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0," group-title="LOKAL",INDOSIAR
+#EXTINF:0," group-title"LOKAL",INDOSIAR
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0," group-title="LOKAL",ANTV
@@ -25,46 +25,46 @@ http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=0
 #EXTINF:0," group-title="LOKAL",TRANS TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0," group-title="LOKAL",TRANS7
+#EXTINF:0," group-title"LOKAL",TRANS7
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0," group-title="LOKAL",RAJAWALI TV
+#EXTINF:0," group-title"LOKAL",RAJAWALI TV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",JAK TV
+#EXTINF:0, group-title"LOKAL",JAK TV
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",INEWS
+#EXTINF:0, group-title"LOKAL",INEWS
 http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",BERITA SATU
+#EXTINF:0, group-title"LOKAL",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
 #EXTINF:0, group-title="LOKAL",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:0, group-title="LOKAL",KOMPAS TV
+#EXTINF:0, group-title"LOKAL",KOMPAS TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",METRO TV
+#EXTINF:0, group-title"LOKAL",METRO TV
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKAL",TV ONE
+#EXTINF:0, group-title"LOKAL",TV ONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="LOKALHD",RCTIHD
+#EXTINF:0, group-title"LOKALHD",RCTIHD
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
 
-#EXTINF:0, group-title="LOKALHD",GLOBALTV
+#EXTINF:0, group-title"LOKALHD",GLOBALTV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="LOKALHD",MNCTV
 http://id2.indostreamingtv.com/live/event/index.m3u8
 
-#EXTINF:0, group-title="LOKALHD",NET
+#EXTINF:0, group-title"LOKALHD",NET
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:0, group-title="LOKALHD",ANTV
+#EXTINF:0, group-title"LOKALHD",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
 #EXTINF:0, group-title="LOKALHD",RTV
