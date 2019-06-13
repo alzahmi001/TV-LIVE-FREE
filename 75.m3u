@@ -17,7 +17,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_kompastv_big1.png" group-title="75",KOMPAS TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="tvg-name="" tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_metrotv_big1.png" group-title="75",METRO TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_metrotv_big1.png" group-title="75",METRO TV
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_tvone_big1.png" group-title="75",TV ONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
