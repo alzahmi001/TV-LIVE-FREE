@@ -35,3 +35,47 @@ http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 http://ott-cdn.ucom.am/s27/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_tvone_big1.png" group-title="75",CNBC
 http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275868319_235.jpg" group-title="75",CCTV1 HD
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275868319_235.jpg" group-title="75",CCTV1
+http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275860541_728.jpg" group-title="75",CCTV2 HD
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275860541_728.jpg" group-title="75",CCTV2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275855231_278.jpg" group-title="75",CCTV3 HD
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275855231_278.jpg" group-title="75",CCTV3
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275836704_110.jpg" group-title="75",CCTV4 HD
+http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275836704_110.jpg" group-title="75",CCTV4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275830379_128.jpg" group-title="75",CCTV5 HD
+http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275830379_128.jpg" group-title="75",CCTV5
+http://ivi.bupt.edu.cn/hls/cctv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275823297_75.jpg" group-title="75",CCTV6 HD
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275823297_75.jpg" group-title="75",CCTV6
+http://ivi.bupt.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275817406_581.jpg" group-title="75",CCTV 7HD
+http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275817406_581.jpg" group-title="75",CCTV7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275811536_759.jpg" group-title="75",CCTV8 HD
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275811536_759.jpg" group-title="75",CCTV8
+http://ivi.bupt.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275805596_770.jpg" group-title="75",CCTV9 HD
+http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275805596_770.jpg" group-title="75",CCTV9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275796330_227.jpg" group-title="75",CCTV10 HD
+http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275796330_227.jpg" group-title="75",CCTV10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275789737_381.jpg" group-title="75",CCTV11 HD
+http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275789737_381.jpg" group-title="75",CCTV11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
