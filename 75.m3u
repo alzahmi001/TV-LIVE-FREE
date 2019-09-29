@@ -37,47 +37,47 @@ http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
 http://ott-cdn.ucom.am/s27/index.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_tvone_big1.png" group-title="75",CNBC
 http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275868319_235.jpg" group-title="75",CCTV1 HD
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275868319_235.jpg" group-title="75",CCTV1
-http://ivi.bupt.edu.cn/hls/cctv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275860541_728.jpg" group-title="75",CCTV2 HD
-http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275860541_728.jpg" group-title="75",CCTV2
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275855231_278.jpg" group-title="75",CCTV3 HD
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275855231_278.jpg" group-title="75",CCTV3
-http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275836704_110.jpg" group-title="75",CCTV4 HD
-http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275836704_110.jpg" group-title="75",CCTV4
-http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275830379_128.jpg" group-title="75",CCTV5 HD
-http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275830379_128.jpg" group-title="75",CCTV5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275868319_235.jpg" group-title="75",NAT GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275868319_235.jpg" group-title="75",nat geo people
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275860541_728.jpg" group-title="75",NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275860541_728.jpg" group-title="75",HISTORY CHANNEL
+http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275855231_278.jpg" group-title="75",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p4.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275855231_278.jpg" group-title="75",RTM 1
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275836704_110.jpg" group-title="75",RTM 1 SD
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275836704_110.jpg" group-title="75",RTM 1 HD
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275830379_128.jpg" group-title="75",RTM 2 SD
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b764000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275830379_128.jpg" group-title="75",RTM 2 HD
 http://ivi.bupt.edu.cn/hls/cctv5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275823297_75.jpg" group-title="75",CCTV6 HD
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275823297_75.jpg" group-title="75",CCTV6
-http://ivi.bupt.edu.cn/hls/cctv6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275817406_581.jpg" group-title="75",CCTV 7HD
-http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275817406_581.jpg" group-title="75",CCTV7
-http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275811536_759.jpg" group-title="75",CCTV8 HD
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275811536_759.jpg" group-title="75",CCTV8
-http://ivi.bupt.edu.cn/hls/cctv8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275805596_770.jpg" group-title="75",CCTV9 HD
-http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275805596_770.jpg" group-title="75",CCTV9
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275796330_227.jpg" group-title="75",CCTV10 HD
-http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275796330_227.jpg" group-title="75",CCTV10
-http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275789737_381.jpg" group-title="75",CCTV11 HD
-http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275789737_381.jpg" group-title="75",CCTV11
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275823297_75.jpg" group-title="75",RTM
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275823297_75.jpg" group-title="75",ASTRO VANVANILE
+http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275817406_581.jpg" group-title="75",ASTRO CERIA
+http://50.7.161.82:8278/Ceria/playlist.m3u8?tid=m02000000000014624840&ct=17950&tsum=1d6ed7be64dc2703ae688a369df440f9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275817406_581.jpg" group-title="75",ASTRO RIA
+http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02000000000017229356&ct=17950&tsum=c4fc9360281085f55bf7f6b7da63d9b6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275811536_759.jpg" group-title="75",ASTRO PRIMA
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p5.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275811536_759.jpg" group-title="75",ASTRO CITRA
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275805596_770.jpg" group-title="75",ASTRO WARNA
+http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275805596_770.jpg" group-title="75",RTM OKEY
+http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275796330_227.jpg" group-title="75",NEWS 24
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p2.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275796330_227.jpg" group-title="75",CHINO
+http://rr2.dens.tv/s/s50/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275789737_381.jpg" group-title="75",CGTN
+http://rr2.dens.tv/s/s20/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275789737_381.jpg" group-title="75",CCTV4
+http://rr2.dens.tv/s/s19/index.m3u8
