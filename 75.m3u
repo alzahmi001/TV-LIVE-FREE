@@ -81,3 +81,244 @@ http://rr2.dens.tv/s/s50/index2.m3u8
 http://rr2.dens.tv/s/s20/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p3.img.cctvpic.com/photoAlbum/page/performance/img/2018/7/11/1531275789737_381.jpg" group-title="75",CCTV4
 http://rr2.dens.tv/s/s19/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_small1.png" group-title="Local TV",TV ONE
+http://rr2.dens.tv/s/s02/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_sctv_small1.png" group-title="Local TV",SCTV
+http://rr2.dens.tv/s/s03/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_indosiar_small1.png" group-title="Local TV",INDOSIAR
+http://rr2.dens.tv/s/s04/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_small1.png" group-title="Local TV",TRANS TV
+http://rr2.dens.tv/s/s05/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_small1.png" group-title="Local TV",TRANS 7
+http://rr2.dens.tv/s/s06/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_small1.png" group-title="Local TV",ANTV
+http://rr2.dens.tv/s/s07/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_net_small1.png" group-title="Local TV",NET.TV
+http://rr2.dens.tv/s/s08/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_kompastv_small1.png" group-title="Local TV",KOMPAS TV
+http://rr2.dens.tv/s/s09/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_small1.png" group-title="Local TV",METRO TV
+http://rr.dens.tv/h/h05/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_small1.png" group-title="Local TV",RTV
+http://rr2.dens.tv/s/s12/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local TV",RCTI
+https://stream.sindonews.net/live/rctioke.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local TV",GLOBAL TV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_beritasatu_small1.png" group-title="Local TV",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local TV",MNCTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jaktv_small1.png" group-title="Local TV",JAKTV
+http://103.75.100.8/wh7f454c46tw2929953414_1336406691/PLTV/88888888/224/3221225586/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_daaitv_small1.png" group-title="Local TV",DAAI TV
+http://rr2.dens.tv/s/s13/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvri_small1.png" group-title="Local TV",TVRI
+http://rr2.dens.tv/s/s11/index2.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jtv_small1.png" group-title="Local TV",JTV
+http://122.248.32.234:1935/ch2/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Network
+http://103.242.13.90:5555/udp/239.4.1.52:10000
+#EXTINF:-1 tvg-logo="" group-title="Kids",Disney Channel
+http://main-a.for-our.info:8081/tv11//disney/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",DISNEY XD
+http://main-a.for-our.info:8081/tv11/disneyxd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",Cartoon Club
+http://main-a.for-our.info:8081/tv1/ch17.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",Boomerang
+http://main-a.for-our.info:8081/tv1/ch18.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",KIDS CHANNEL
+http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
+#EXTINF:-1 tvg-logo="" group-title="Kids",TRUE SPARK JUMP
+http://main-a.for-our.info:8081/tv11/sparkjump/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",TRUE SPARK PLAY
+http://main-a.for-our.info:8081/tv11/sparkplay/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",TOONMAX TV
+http://rr2.dens.tv/s/s37/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",Da Vinci
+http://rr.dens.tv/h/h01/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",MY KIDS
+http://rr2.dens.tv/s/s30/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids",Duck TV
+http://82.119.96.66:1935/ducktv/DuckTV_720p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
+http://rr.dens.tv/h/h04/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN
+http://rr.dens.tv/h/h09/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX Life
+http://rr.dens.tv/h/h03/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",FX
+http://cdn2.bear-tv.com/freetv/TOT_FX_HD/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",K+
+http://rr.dens.tv/h/h08/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",E!
+http://vapi.vaders.tv/play/39814.ts?token=eyJ1c2VybmFtZSI6ImRyYmlyZDQ3IiwicGFzc3dvcmQiOiJDb2JyYTU5NyJ9
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Lifetime
+http://139.99.38.2:443/hd-lifetime_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Warner TV
+http://main-a.for-our.info:8081/tv11/wbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",SBS-in
+http://rr.dens.tv/h/h28/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",KBS World
+http://139.99.38.3:443/hd-kbsworld_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",S-ONE
+http://rr.dens.tv/h/h13/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",KIX
+http://rr.dens.tv/h/h07/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",ArirangTV
+http://103.242.13.90:5555/udp/239.4.1.74:10000
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Sony Channel
+http://rr.dens.tv/h/h06/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",TCM
+http://sg.doohdbox.com:8080/tcm/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",K DRAMA
+http://rr2.dens.tv/s/s42/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Animax
+http://rr.dens.tv/h/h18/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",AniPlus
+http://rr.dens.tv/h/h02/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",NHK World Premium
+http://rr.dens.tv/h/h23/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",CCTV 4
+http://rr2.dens.tv/s/s19/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",TV 5 Monde
+http://rr2.dens.tv/s/s24/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Australian Plus
+http://103.242.13.90:5555/udp/239.4.1.79:10000
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",RTP
+http://rr2.dens.tv/s/s38/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",TIC
+http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
+http://rr.dens.tv/h/h14/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
+http://rr.dens.tv/h/h16/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
+http://rr.dens.tv/h/h15/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO
+http://hyfytvapp.com/test2/HBO_HD/HBO_HD_800.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO 2
+http://176.67.211.7:8003/udp/239.1.9.62:22962
+#EXTINF:-1 tvg-logo="" group-title="Movies",AVAVA DIAMOND
+http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",BLACK DIAMOND
+http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",WHITE DIAMOND
+http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",GOLD DIAMOND
+http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",RED DIAMOND
+http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",ABC
+http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Sci-Fi
+http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Celestial Movies
+http://rr2.dens.tv/s/s33/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Z Bioskop
+http://rr2.dens.tv/s/s32/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Thrill
+http://rr2.dens.tv/s/s34/index2.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",CNBC Asia
+http://185.59.223.73:1935/CNBC/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Bloomberg TV
+http://cshms4.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226082/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Channel NewsAsia
+http://rr.dens.tv/h/h29/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Al Jazeera
+http://rr2.dens.tv/s/s17/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",DW
+http://rr2.dens.tv/s/s26/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Euronews
+http://rr2.dens.tv/s/s15/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",France 24
+http://rr2.dens.tv/s/s22/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",Russia Today
+https://secure-streams.akamaized.net/rt/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Fight Sport
+http://iptvthai.webhop.biz:443/hd-fightsports_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Golf Channel
+http://iptvthai.webhop.biz:443/hd-golf_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORTS
+http://rr.dens.tv/h/h19/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORTS 2
+http://rr.dens.tv/h/h20/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",FOX SPORTS 3
+http://rr.dens.tv/h/h21/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS 1
+http://main-a.for-our.info:8081/tv11/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS 2
+http://main-a.for-our.info:8081/tv11/bein2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS 3
+http://main-a.for-our.info:8081/tv11/bein3/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BEIN SPORTS 4
+http://main-a.for-our.info:8081/tv11/bein4/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",NBA TV
+http://sg.doohdbox.com:8080/nba/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",TVRI Sport-HD
+http://rr2.dens.tv/s/s48/index2.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle",Fashion TV
+http://103.242.13.90:5555/udp/239.4.1.51:10000
+
+
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",Al Quran Al Kareem
+http://rr2.dens.tv/s/s28/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",RODJA TV
+http://rr2.dens.tv/s/s14/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",TAHFIDZ TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",TV MU
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",DMI
+http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",TV 9
+http://videostream.indostreamserver.com:1935/tv9/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",Saling Sapa TV
+http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",UCHANNEL
+http://rr2.dens.tv/s/s41/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",Animal Planet HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery Channel
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",Discovery World HD
+http://103.242.13.90:5555/udp/239.4.1.20:10000
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",National Geographic
+http://rr.dens.tv/h/h11/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",NatGeo Wild
+http://rr.dens.tv/h/h12/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",CGTN Documentary
+http://rr2.dens.tv/s/s20/index2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",DIAMOND EARTH
+http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Music",HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",MALEO CHANNEL
+http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",KLIK MUSIK
+http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",SALURAN MUSIK INDONESIA
+http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
