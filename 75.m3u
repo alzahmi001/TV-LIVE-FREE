@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="75",JACKY CHAN
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8?_alisec=7c61c8036efb479f3598ad1c50e0912d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="75",STEPHEN COW
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8?_alisec=722355563dfe5dda4db0de01fcf2f816
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/90px-Aljazeera.svg.png" group-title="75",ALJAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/alzahmi001/TV-LIVE-FREE/raw/master/Logo/logo_bloomberg_small1.png" group-title="75",BLOOMBERG
