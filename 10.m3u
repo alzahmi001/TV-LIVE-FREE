@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:1.95047,CNBC HDt
+https://cdn.javcdn.space/public/playlist/5dc58e41db7a2414e9bfe50b/5dc5c23fac96461b0f3ea444/index.m3u8
 #EXTINF:1.03162,FS2 HD 
 https://hls1-l3.xvideos-cdn.com/28fd3e448f1bb161ca6d0b80c23471adb512abd6-1573503533/videos/hls/83/97/97/8397973bcc21a408adae6e6d4a6eeaf2/hls-720p.m3u8
 #EXTINF:1.28251,SyFy HD 
