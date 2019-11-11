@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:1.03162,FS2 HD 
-http://23.237.22.82:8086/udp/127.0.0.1:56047 
+https://hls1-l3.xvideos-cdn.com/28fd3e448f1bb161ca6d0b80c23471adb512abd6-1573503533/videos/hls/83/97/97/8397973bcc21a408adae6e6d4a6eeaf2/hls-720p.m3u8
 #EXTINF:1.28251,SyFy HD 
 http://23.237.22.82:8086/udp/127.0.0.1:56063 
 #EXTINF:2.04441,Waypoint TV HD 
