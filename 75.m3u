@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USEE",NAT GEO
+https://vcdnjt.useetv.com/joss/15/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USEE",NAT GEO 360 P
 https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w709427694_b684100_sleng.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USEE",NAT GEO 540 p
