@@ -61,3 +61,5 @@ https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 https://www.djing.com/tv/classics.m3u8
 #EXTINF:-1 group-title="music" tvg-logo="http://logo.ddnb.tn/logochanel/400.png",DJING DANCEFLOOR
 https://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 group-title="music" tvg-logo="http://logo.ddnb.tn/logochanel/400.png",HITS
+https://www.djing.com/tv/hits.m3u8
