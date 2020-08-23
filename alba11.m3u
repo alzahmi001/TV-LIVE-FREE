@@ -57,3 +57,5 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="movie" tvg-logo="http://logo.ddnb.tn/logochanel/400.png",ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1 group-title="music" tvg-logo="http://logo.ddnb.tn/logochanel/400.png",DJING
+https://www.djing.com/tv/classics.m3u8
