@@ -47,3 +47,7 @@ http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 #EXTINF:-1 group-title="cctv" tvg-logo="http://logo.ddnb.tn/logochanel/400.png",CCTV 17
 http://ivi.bupt.edu.cn/hls/cctv17.m3u8
+#EXTINF:-1 group-title="movie" tvg-logo="http://logo.ddnb.tn/logochanel/400.png",FILME RISE
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 group-title="movie" tvg-logo="http://logo.ddnb.tn/logochanel/400.png",IFILM ARABIC
+https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/index.m3u8
