@@ -63,3 +63,5 @@ https://www.djing.com/tv/classics.m3u8
 https://djing.com/tv/dancefloor.m3u8
 #EXTINF:-1 group-title="music" tvg-logo="http://logo.ddnb.tn/logochanel/400.png",HITS
 https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 group-title="music" tvg-logo="http://logo.ddnb.tn/logochanel/400.png",DJING KARAOKE
+https://www.djing.com/tv/karaoke.m3u8
