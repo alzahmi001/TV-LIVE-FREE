@@ -1,8 +1,8 @@
 #EXTM3U
 http://thepwfamily.com/stream/useesports1.m3u8
 http://34.89.238.37:4531/de2019/n24/chunks.m3u8?nimblesessionid=131993&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIwIDU6Mjc6MDcgUE0maGFzaF92YWx1ZT1tc0g1b2Jxd09wM3Jjdko3QnB1ZGdRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Indonesia1", NETTV
-http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Indonesia1", aksion
+http://34.65.41.202:1147/alb2019/digiaksion/chunks.m3u8?nimblesessionid=28619&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIwIDU6MzA6MjIgUE0maGFzaF92YWx1ZT1ZZUdDQjRDZkIzSXRoczI4ZGJwNHVBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Indonesia1", NETTV"
 https://mkctv.net/josmkc/net.m3u8
 http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
