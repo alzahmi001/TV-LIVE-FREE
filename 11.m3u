@@ -1,6 +1,6 @@
 #EXTM3U
 http://thepwfamily.com/stream/useesports1.m3u8
-https://www.dropbox.com/s/7xkkw3t1k8pawbn/OpeningMUKADUATV.mp4?dl=1
+http://34.89.238.37:4531/de2019/n24/chunks.m3u8?nimblesessionid=131993&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMy8yMDIwIDU6Mjc6MDcgUE0maGFzaF92YWx1ZT1tc0g1b2Jxd09wM3Jjdko3QnB1ZGdRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Indonesia1", NETTV
 http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Indonesia1", NETTV"
