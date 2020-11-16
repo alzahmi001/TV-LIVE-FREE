@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Indonesia1", 24
+#EXTINF:-1 tvg-logo="" group-title="Indonesia1", 24
 http://35.228.74.210:4531/de2019/n24/chunks.m3u8?nimblesessionid=233152&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyMCA1OjUyOjI2IFBNJmhhc2hfdmFsdWU9QVhyaWZldkRPNExIcGU5T2hmWXc0QT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8fM5xp6/mukaduatv.png" group-title="Indonesia1", aksion
 http://35.223.214.176:8877/alb2019/digiaksion/chunks.m3u8?nimblesessionid=319443&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyMCA1OjU0OjMzIFBNJmhhc2hfdmFsdWU9aVBPbCt3bmNybE43VEZhcnRBZE5BZz09JnZhbGlkbWludXRlcz0y
