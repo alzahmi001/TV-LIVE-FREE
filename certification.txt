@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the kopi 1.0
+---------------------------------------------------
+
+app_name - 						kopi
+app_alias - 					kopi
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Riau
+app_author_country - 			Indonesia
+app_password - 					Pz9aWpeMC1fx
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Tuesday 30th of November 2021 07:51:11 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
